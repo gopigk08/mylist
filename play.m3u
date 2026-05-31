@@ -375,3 +375,394 @@ https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
 https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
 #EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_52_21-PM-185x278.png",Mana TV International
 https://manatv.akamaized.net/090823/smil:manatvint.smil/index.m3u8
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1651" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png",Star Sports 1 Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/index.mpd?__hdnea__=st=1780237816~exp=1780259416~acl=/bpk-tv/Star_Sports_1_Telugu_BTS/WDVLive/*~hmac=2d0d5792d9a52c0c34b36d1f1a0ab4be8d5b2c0b016f8853fde503d8bb8be491
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="3274" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png",Star Sports 2 Telugu HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1780237816~exp=1780259416~acl=/bpk-tv/Star_Sports2_Telugu_HD_BTS/WDVLive/*~hmac=24b7c324dc3480a2d441289ef0f021528080a3d199e02261d9b12c5a95258647
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="2852" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Telugu.png",Star Sports 2 Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/StarSports2Telugu_BTS/WDVLive/index.mpd?__hdnea__=st=1780237816~exp=1780259416~acl=/bpk-tv/StarSports2Telugu_BTS/WDVLive/*~hmac=26a1f87af161e02c1b54e7b748d759c54dee3831cc1a814e37c86ef63eb0d111
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1080" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png",CN HD+ Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1080
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="565" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",ETV Abhiruchi
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/565
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="614" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",ETV Andhra pradesh
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/614
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1665" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png",ETV Cinema HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1665
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1973" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",ETV HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1973
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="570" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png",ETV Life
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/570
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="2956" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus_HD.png",ETV Plus HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/2956
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="630" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png",ETV Telangana
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/630
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="729" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Gemini Comedy
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/729
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="684" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png",Gemini Life
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/684
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="899" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",Gemini Movies HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/899
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="898" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",Gemini Music HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/898
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="897" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Gemini TV HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/897
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1137" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Star Maa Gold
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1137
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1112" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",Star Maa HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1780237816~exp=1780259416~acl=/bpk-tv/Maa_HD_BTS/WDVLive/*~hmac=437159d36daf5738a66cbed9de5cca0b7f114f9fff1e67cacbde1bdf3f798ad9
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1111" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png",Star Maa Movies
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1780237816~exp=1780259416~acl=/bpk-tv/Maa_Movies_BTS/WDVLive/*~hmac=0fa3c1268dfa13efbf9fcd51521bb0cd0f3704d02828ad320b6f2ead985a53bc
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="760" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",Star Maa Movies HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/760
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1129" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Star Maa Music
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/WDVLive/index.mpd?__hdnea__=st=1780237816~exp=1780259416~acl=/bpk-tv/Maa_Music_BTS/WDVLive/*~hmac=aa05d55174739e7868305b8468f909768ad010c1131a6a5c7a4f9f449fa53bcc
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="166" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNTelugu.png",Cartoon Network Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/166
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="413" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemalu.png",Zee Cinemalu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/413
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="543" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png",Nick Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/543
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="558" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kushi_TV.png",Kushi TV
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/558
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="576" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",Discovery Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/576
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="577" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png",History TV18 HD Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/History_18_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1780237819~exp=1780259419~acl=/*~hmac=5f9923db256c68b5ac9aff179429b97cf609e68846922983fc6482ab5739a285
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="598" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png",Sri Venkateshwar Bhakti
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/598
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="607" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png",Subhavartha TV
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/607
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="618" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",TV9 Telugu News
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/618
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="632" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png",Sakshi tv
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/632
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="638" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTelugu.png",Zee Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/638
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="646" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png",NTV
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/646
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="664" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png",Raj News Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/664
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="665" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png",HM TV
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/665
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="666" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",ABN Andhra Jyothi
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/666
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="667" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png",T News
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/667
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="668" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png",TV 5 News
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/668
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="670" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/6_TV.png",6 TV
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/670
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="684" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png",Sun Gemini Life
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/684
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="706" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png",DD Saptagiri
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/706
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="729" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Sun Gemini Comedy
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/729
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="734" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",Vissa TV
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/734
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="737" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png",Raj Music Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/737
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="760" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",Maa Movies HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/760
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="769" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png",V6 News
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/769
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="772" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png",CVR OM Spiritual
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/772
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="774" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png",CVR Health
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/774
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="775" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png",Vanitha
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/775
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="776" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png",Bhakti TV
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/776
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="777" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png",Aradhana TV
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/777
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="784" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png",CVR News
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/784
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="790" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png",I News
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/790
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="832" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png",10 TV
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/832
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="874" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYTel.png",Sony Yay Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/874
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="897" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Sun Gemini HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/897
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="898" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",Sun Gemini Music HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/898
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="899" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",Sun Gemini Movies HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/899
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="934" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png",Divya Vani
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/934
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="955" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png",Hindu Dharmam
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/955
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="977" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png",Calvary
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/977
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1080" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHDTelugu.png",Cartoon Network HD+ Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1080
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1111" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png",Star Maa Movies
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Movies_BTS/WDVLive/index.mpd?__hdnea__=st=1780237816~exp=1780259416~acl=/bpk-tv/Maa_Movies_BTS/WDVLive/*~hmac=0fa3c1268dfa13efbf9fcd51521bb0cd0f3704d02828ad320b6f2ead985a53bc
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1112" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",Star Maa HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_HD_BTS/WDVLive/index.mpd?__hdnea__=st=1780237816~exp=1780259416~acl=/bpk-tv/Maa_HD_BTS/WDVLive/*~hmac=437159d36daf5738a66cbed9de5cca0b7f114f9fff1e67cacbde1bdf3f798ad9
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1129" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Star Maa Music
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvpllive.cdn.jio.com/bpk-tv/Maa_Music_BTS/WDVLive/index.mpd?__hdnea__=st=1780237816~exp=1780259416~acl=/bpk-tv/Maa_Music_BTS/WDVLive/*~hmac=aa05d55174739e7868305b8468f909768ad010c1131a6a5c7a4f9f449fa53bcc
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1137" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Maa Gold
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1137
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1138" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png",Star Maa
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1138
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1242" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png",Sonic Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://jiotvmblive.cdn.jio.com/bpk-tv/Sonic_Telugu_MOB/WDVLive/index.mpd?__hdnea__=st=1780237819~exp=1780259419~acl=/*~hmac=5f9923db256c68b5ac9aff179429b97cf609e68846922983fc6482ab5739a285
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1254" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png",Aastha Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1254
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1274" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png",Studio One
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1274
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1354" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png",Zee Telugu HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1354
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1363" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png",Zee Cinemalu HD
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1363
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1799" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png",Studio Yuva Alpha
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1799
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1883" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",Pogo Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1883
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="1975" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png",PMC Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/1975
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="2187" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swatantra_News.png",Swatantra News
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/2187
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="2436" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_9_News.png",Prime 9 News
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/2436
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="2783" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_TV.png",Big TV
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/2783
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="2862" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mahaa_News.png",Mahaa News
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/2862
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="2932" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/99TV.png",99 TV
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/2932
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="3018" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_360.png",News 360
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/3018
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="3031" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu_News.png",Zee Telugu News
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/3031
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="3087" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_TV_Telugu.png",Sai TV Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/3087
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="3176" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Telugu_Naaptol.png",Telugu Naaptol
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/3176
+#EXTINF:-1 group-title="JIO ⭕|Telugu" tvg-id="3447" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryKidsTel.png",Discovery Kids Telugu
+#EXTVLCOPT:http-user-agent=plaYtv/7.1.3 (Linux;Android 13) ygx/824.1 ExoPlayerLib/824.0
+https://keys.lrl45.workers.dev/mpd/3447
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194408" tvg-logo="https://sund-images.sunnxt.com/194408/640x360_SunTV_194408_2617a80e-4f90-42fa-b13a-acc8d7c97f9e.jpg",Sun TV
+https://livestream1.sunnxt.com/05b5df1221764bca9867054c5e65ee62/SunTVB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194403" tvg-logo="https://sund-images.sunnxt.com/194403/640x360_SunTVHD_194403_522c701c-4770-4934-a6d3-47045b0d4fa5.jpg",Sun TV HD
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194408" tvg-logo="https://sund-images.sunnxt.com/195491/640x360_SunTVHDDolbyVision_195491_8110232c-dd00-4dbe-98ff-25bf5fe8749e.jpg",Sun TV HD - Dolby Vision
+https://livestream2.sunnxt.com/19ee29194c4d4fc286c3e697362e60cd/SunTVHDB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194387" tvg-logo="https://sund-images.sunnxt.com/194387/640x360_SunMarathi_194387_441db2e2-0fa1-48ca-be59-7f5dd70f66cb.jpg",Sun Marathi
+https://livestream9.sunnxt.com/b0aacde03b744564870634ecb10e8a31/SunMarathiB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194406" tvg-logo="https://sund-images.sunnxt.com/194406/640x360_SunMusicHD_194406_87e8d029-f695-477c-9ace-a3c2cbe15004.jpg",Sun Music HD
+https://livestream.sunnxt.com/d434796d90fa4dc9b7ecfacedbe683f1/SunMusicHDB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194410" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg",Sun Music
+https://livestream.sunnxt.com/585bb66e95c84ccea3f828c96b3567b5/SunMusicB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194391" tvg-logo="https://sund-images.sunnxt.com/194391/640x360_SunLife_194391_d407948a-b7a2-4a1f-8409-56f7261cefa1.jpg",Sun Life
+https://livestream.sunnxt.com/6b79451f54284b3fb680fd717ee008dc/SunLifeB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194388" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg",Sun Bangla
+https://livestream7.sunnxt.com/bf76ee92dd01473bb2eb57d137294484/SunBanglaB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194404" tvg-logo="https://sund-images.sunnxt.com/194404/640x360_SunNews_194404_0af09ceb-cb6f-48e6-9f5c-395749f0fcee.jpg",Sun News
+https://livestream3.sunnxt.com/491c99fb6d0c49e88e6349170d890a2f/SunNewsB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194409" tvg-logo="https://sund-images.sunnxt.com/194409/640x360_KTV_194409_91b39445-b996-4e46-bafa-b78548e4da2e.jpg",KTV
+https://livestream.sunnxt.com/6ae70edd4c1440379f5311e8fbddc7c1/KTVB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194405" tvg-logo="https://sund-images.sunnxt.com/194405/640x360_KTVHD_194405_3c6880f0-468e-48f4-b09a-89fd5fed775d.jpg",KTV HD
+https://livestream.sunnxt.com/61477b4c8d8d45d5a49e044cc1dffc60/KTVHDB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194397" tvg-logo="https://sund-images.sunnxt.com/194397/640x360_SuryaTVHD_194397_7b54e231-bbb9-48d2-8aae-35a5886deed3.jpg",Surya HD
+https://livestream15.sunnxt.com/d719fad367614ee5baad747822767ad8/SuryaTVHDB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194398" tvg-logo="https://sund-images.sunnxt.com/194398/640x360_SuryaTV_194398_45a56617-7aa9-4ced-a1c8-82b80adb83a7.jpg",Surya
+https://livestream6.sunnxt.com/30612a1b269d4a18aa14657641c47515/SuryaTVB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194385" tvg-logo="https://sund-images.sunnxt.com/194385/640x360_SuryaMovies_194385_2d5dbc38-915d-4e41-b8b0-ea98ca6c88d3.jpg",Surya Movies
+https://livestream.sunnxt.com/e24ee14c395945bd8ccb065e1bce8b9b/SuryaMoviesB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194338" tvg-logo="https://sund-images.sunnxt.com/194338/640x360_SuryaMusic_194338_7fe35164-9a93-45ad-92a1-31126e592a84.jpg",Surya Music
+https://livestream.sunnxt.com/8c2352ff54954e7b9a4188045dcf3b27/SuryaMusicB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="193251" tvg-logo="https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg",Surya Comedy
+https://livestream.sunnxt.com/6505e922bf164423ad122f404747356a/SuryaComedyB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194399" tvg-logo="https://sund-images.sunnxt.com/194399/640x360_UdayaTVHD_194399_728eed6e-6e9e-469c-8ad4-b9d1ef48ca8c.jpg",Udaya HD
+https://livestream16.sunnxt.com/a8d28f18944c4946ad7133938860e7cf/UdayaTVHDB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="193239" tvg-logo="https://sund-images.sunnxt.com/193239/640x360_TestChannel_193239_e9155a54-81ab-49a1-9b95-0cd81b234dc0.jpg",Udaya
+https://livestream5.sunnxt.com/e2f36b5d0be74780a041a8f5b65bc7e6/UdayaTVB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194397" tvg-logo="https://sund-images.sunnxt.com/194386/640x360_UdayaMovies_194386_429c7b3b-44a9-4328-8be3-645621c6e167.jpg",Udaya Movies
+https://livestream.sunnxt.com/1c02547243c041eea5dab1c343018e90/UdayaMoviesB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194401" tvg-logo="https://sund-images.sunnxt.com/194401/640x360_UdayaMusic_194401_c6816391-ea32-4780-bf8f-25cb839cef89.jpg",Udaya Music
+https://livestream.sunnxt.com/8034b7519d6a4ab8929aa4279fda1f29/UdayaMusicB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194400" tvg-logo="https://sund-images.sunnxt.com/194400/640x360_UdayaComedy_194400_476f38f8-3104-4816-a540-968b36f27a5f.jpg",Udaya Comedy
+https://livestream.sunnxt.com/8a3d3d8d679b4f9f83a8305b4ead0644/UdayaComedyB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194396" tvg-logo="https://sund-images.sunnxt.com/194396/640x360_GeminiTV_194396_b5217fee-8105-4d55-bdb6-f282715761d1.jpg",Gemini TV
+https://livestream4.sunnxt.com/a1a61fa1811c4d20a5c2d5e14cdc0cd2/GeminiTVB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194392" tvg-logo="https://sund-images.sunnxt.com/194392/640x360_GeminiTVHD_194392_f0f60f9d-f692-4ab4-b335-cb971893af2f.jpg",Gemini HD
+https://livestream14.sunnxt.com/e778d9c98488494b9c9b38f9c48b63ec/GeminiTVHDB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="192537" tvg-logo="https://sund-images.sunnxt.com/192537/640x360_GeminiMoviesHD_192537_abeec905-1e11-4abf-98fd-16d62fce60c8.jpg",Gemini Movies HD
+https://livestream.sunnxt.com/ec0d4961a002442295f91efc9d675c9d/GeminiMoviesHDB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194384" tvg-logo="https://sund-images.sunnxt.com/194384/640x360_GeminiMovies_194384_bc1cee7f-1f8a-4b8e-83ea-da41279c9d40.jpg",Gemini Movies
+https://livestream.sunnxt.com/6a59979ff0044fd3b6e0cb85d6f44432/GeminiMoviesB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194393" tvg-logo="https://sund-images.sunnxt.com/194393/640x360_GeminiMusicHD_194393_dbfc3b93-0581-4d7c-985b-c160e0031a73.jpg",Gemini Music HD
+https://livestream.sunnxt.com/6a6520e446604c6e9840e5bf3a3a7d95/GeminiMusicHDB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194395" tvg-logo="https://sund-images.sunnxt.com/194410/640x360_SunMusic_194410_d4d08876-9d23-432c-aab4-b5c70c58aaac.jpg",Gemini Music
+https://livestream.sunnxt.com/52b94f70c6e64692b2497f5023b629cd/GeminiMusicB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194394" tvg-logo="https://sund-images.sunnxt.com/194394/640x360_GeminiComedy_194394_f3c8c427-351c-4b4f-a67f-616ec0feb1d2.jpg",Gemini Comedy
+https://livestream.sunnxt.com/167c40e9521b470b87b4cf921fd0e146/GeminiComedyB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194337" tvg-logo="https://sund-images.sunnxt.com/194337/640x360_TestGeminiLife_194337_1927e76e-b04a-428b-a0fc-6aa5ed06fa88.jpg",Gemini Life
+https://livestream.sunnxt.com/a4b4f71a8b4344f3a280e906657a517a/GeminiLifeB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194407" tvg-logo="https://sund-images.sunnxt.com/194407/960x540_AdithyaTV_194407_b6f8fa30-255b-4f4a-8f8f-4264abda8b33.jpg",Adithya TV
+https://livestream.sunnxt.com/4d0eb3cde30247ada4ade679fdfbaf86/AdithyaTVB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194346" tvg-logo="https://sund-images.sunnxt.com/194346/960x540_KushiTV_194346_b0eff97b-4670-42fb-9d87-49d78fab6f3a.jpg",Kushi TV
+https://livestream.sunnxt.com/4a736d41608849758a0aed36949ded30/KushiTVB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194390" tvg-logo="https://sund-images.sunnxt.com/194390/640x360_ChuttiTV_194390_61005292-313a-45b4-b6a8-3ac5128a513e.jpg",Chutti TV
+https://livestream.sunnxt.com/3ed29d5b01b546eaa05d184cd87535f1/ChuttiTVB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194348" tvg-logo="https://sund-images.sunnxt.com/194348/960x540_KochuTV_194348_9777cbfd-685b-4e06-a7cc-f2902c1874e8.jpg",Kochu
+https://livestream.sunnxt.com/1893b9ab790747cb80a584873a608dcb/KochuTVB_IN_index.mpd
+#EXTINF:-1 group-title="⛨ 𝔼𝕩𝕥𝕣𝕒 | SunNxt" tvg-id="194347" tvg-logo="https://sund-images.sunnxt.com/194347/960x540_ChintuTV_194347_64af5425-0ed0-4c8a-b071-00ef86eaefde.jpg",Chintu TV
+https://livestream.sunnxt.com/ed4c67ad957644b69361651d9101107e/ChintuTVB_IN_index.mpd
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",MAA MOVIES
+https://vt-ip.vodep39240327.workers.dev/821.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",MAA GOLD
+https://vt-ip.vodep39240327.workers.dev/823.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",MAA MOVIES US
+https://vt-ip.vodep39240327.workers.dev/825.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",GEMINI MOVIES
+https://vt-ip.vodep39240327.workers.dev/824.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",MANA TV
+https://vt-ip.vodep39240327.workers.dev/822.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",ZEE TELUGU
+https://vt-ip.vodep39240327.workers.dev/827.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",ZEE TELUGU US
+https://vt-ip.vodep39240327.workers.dev/830.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",MAA TV
+https://vt-ip.vodep39240327.workers.dev/828.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",MAA TV US
+https://vt-ip.vodep39240327.workers.dev/829.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",GEMINI TV
+https://vt-ip.vodep39240327.workers.dev/831.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",GEMINI TV US
+https://vt-ip.vodep39240327.workers.dev/832.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",GEMINI COMEDY
+https://vt-ip.vodep39240327.workers.dev/833.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",VISSA
+https://vt-ip.vodep39240327.workers.dev/834.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",ETV ANDHRA PRADESH
+https://vt-ip.vodep39240327.workers.dev/835.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",VANITHA TV
+https://vt-ip.vodep39240327.workers.dev/836.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",ARADANA TV
+https://vt-ip.vodep39240327.workers.dev/837.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",ETV TELUGU
+https://vt-ip.vodep39240327.workers.dev/838.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",10TV
+https://vt-ip.vodep39240327.workers.dev/841.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",POOJA TV
+https://vt-ip.vodep39240327.workers.dev/842.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",HMTV
+https://vt-ip.vodep39240327.workers.dev/843.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",TV1 NEWS TELUGU
+https://vt-ip.vodep39240327.workers.dev/844.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",SAKSHI TV
+https://vt-ip.vodep39240327.workers.dev/845.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",STUDIO N
+https://vt-ip.vodep39240327.workers.dev/846.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",RAJ NEWS
+https://vt-ip.vodep39240327.workers.dev/847.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",TV 5
+https://vt-ip.vodep39240327.workers.dev/848.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",V6 NEWS
+https://vt-ip.vodep39240327.workers.dev/849.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",CVR NEWS
+https://vt-ip.vodep39240327.workers.dev/850.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",6TV
+https://vt-ip.vodep39240327.workers.dev/851.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",OM CVR
+https://vt-ip.vodep39240327.workers.dev/852.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",CVR ENGILSH
+https://vt-ip.vodep39240327.workers.dev/853.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",T NEWS
+https://vt-ip.vodep39240327.workers.dev/854.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",SVBC
+https://vt-ip.vodep39240327.workers.dev/855.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",MAA MUSIC
+https://vt-ip.vodep39240327.workers.dev/856.m3u8
+#EXTINF:-1 group-title="ᯤ 𝖨𝖯𝖳𝖵 𝖲𝖬𝖠𝖱𝖳 |TELUGU" tvg-id="No details available",BHAKTI TV
+https://vt-ip.vodep39240327.workers.dev/858.m3u8
