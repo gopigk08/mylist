@@ -3,7 +3,7 @@
     {
       "id": "main",
       "name": "Main Server",
-      "url": "https://github.com/gopigk08/mylist/blob/main/play.m3u",
+      "url": "https://raw.githubusercontent.com/user/repo/main/playlist.m3u",
       "priority": 1
     },
     {
