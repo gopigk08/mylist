@@ -1,0 +1,23 @@
+{
+  "playlists": [
+    {
+      "id": "main",
+      "name": "Main Server",
+      "url": "https://github.com/gopigk08/mylist/blob/main/play.m3u",
+      "priority": 1
+    },
+    {
+      "id": "backup",
+      "name": "Backup Server",
+      "url": "https://your-server.com/backup.json",
+      "priority": 2
+    },
+    {
+      "id": "s1",
+      "name": "Server S1",
+      "url": "https://your-server.com/s1.m3u",
+      "priority": 3
+    }
+  ],
+  "epgUrl": "https://your-server.com/epg.xml.gz"
+}
