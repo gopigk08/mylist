@@ -9,7 +9,7 @@
     {
       "id": "backup",
       "name": "Backup Server",
-      "url": "https://your-server.com/backup.json",
+      "url": "https://raw.githubusercontent.com/gopigk08/mylist/main/Backup.m3u",
       "priority": 2
     },
     {
