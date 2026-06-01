@@ -1,355 +1,377 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-6-2026-10_49_12-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",I View News Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FIVIEW%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-6-2026-10_44_55-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",N24 News Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FN24NEWS%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-09_28_38-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",WOW Kidz Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fyuppparoriglin.akamaized.net%2F%2F181224%2F%2Fsmil%3Awowkidztelgu.smil%2F%2Fplaylist.m3u8%3Fhdnts%3Dst%3D1735898689~exp%3D1835898688~acl%3D%2A~hmac%3Df5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-09_08_46-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Darshanam Bakthi
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2Fdarshanambhakthi%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-09_05_43-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SVBC Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fyuppnimresmum.akamaized.net%2F110322%2Fsvbc%2Fplaylist.m3u8%3Fhdnts%3Dst%3D1735898689~exp%3D1835898688~acl%3D%2A~hmac%3Df5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-08_57_50-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Food  &#038; Health
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FFAndH%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-3-2026-06_22_05-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",AN TV Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmars.streambridge.link%3A8052%2Ftelugu%2Fantv%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-3-2026-06_20_37-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",AJ TV Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmars.streambridge.link%3A8052%2Ftelugu%2Fajtv%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-3-2026-06_12_24-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",RK9 News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions.in%2Frk9news%2Frk9news.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-3-2026-05_17_41-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Bahujana News TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBahujanaTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-3-2026-05_15_55-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Deccan Today Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FDeccanToday%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-18-2026-02_58_06-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Saregama Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsaregama.keralive.workers.dev%2Fsaregamatelugu%2Fsaregamatelugu_master.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Oct-27-2025-07_48_27-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Telugu One
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvglivessai.akamaized.net%2Fsg%2Fv1%2Fmaster%2F611d79b11b77e2f571934fd80ca1413453772ac7%2F4eda1f4a-c0ee-4273-adfe-17afc51977fc%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/02/ChatGPT-Image-Feb-25-2026-09_32_08-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Mahaa Max
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fd1msejlow1t3l4.cloudfront.net%2Ffta%2Fmahaamax%2Fplaylist.m3u8%3Fhdnts%3Dst%3D1735898689~exp%3D1835898688~acl%3D%2A~hmac%3Df5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-9-2026-10_54_57-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Tollywood Plus
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivestream11.sunnxt.com%2FDolbyVision%2FGeminiTV_HDR%2FGeminiTV_HDR_Endpoints%2FGeminiTV-HDR10-IN-index.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-25-2026-09_37_01-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Studio Yuva
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fd2gvyg6lvauoko.cloudfront.net%2F230226%2Fstudioyuva%2Fplaylist.m3u8%3Fhdnts%3Dst%3D1735898689~exp%3D1835898688~acl%3D%2A~hmac%3Df5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-25-2026-09_40_53-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Vinodam HD
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FVinodamHD%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-28-2025-10_22_18-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SSLC Music
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSSLCMusic%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_32_46-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SSLC Gold
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSSLCGold%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_37_06-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SSLC Cinemalu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSSLCCinemalu%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_30_37-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SSLC Multiplex
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSSLCMultiplex%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-07_50_50-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SSLC Kathalu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSSLCKathalu%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_20_11-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SSLC Banjara Dolu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSSLCBanjaraDolu%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_10_58-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SSLC Janapadalu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FJanapadalu%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-25-2026-10_03_28-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Local TV HD
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FLocalTVNews%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-25-2026-10_05_43-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Shreyas TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FShreyasTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-25-2026-10_07_28-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Shreyas TV Music
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FShreyasMusic%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-08_17_00-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Masti Music
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FMastiMusic%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_18_55-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",BCT Movies
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBCTMovies%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_10_01-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",BCT Music
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBCTMusic%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_38_19-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",BCT Classic
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBCTClassic%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_49_19-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",BCT Keerthana
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBCTKeerthana%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-08_49_45-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SRK Entertainments
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSRKNews%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-25-2026-08_08_39-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",DNB News Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FDNBNEWS%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-24-2026-10_42_50-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",BV9 News Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBV9NEWS%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-25-2026-08_20_33-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",EYE TV Bharath
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FEYETV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-20-2026-09_12_24-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",PS News Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FPSNEWS%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-19-2026-09_27_52-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",PMC Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FPMC%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-18-2026-11_54_05-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Time 2 Time News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FTime2Time%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-18-2026-11_48_36-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",A1TV Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FA1TV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-14-2026-01_31_34-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",TG24 TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FTG24TV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-14-2026-01_27_25-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",S90 News Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FS90News%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-14-2026-01_24_47-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",E69 News Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FE69News%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-14-2026-01_23_20-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",TV6 Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FTV6%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-7-2026-09_09_59-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",TG5 News Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FTG5%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-7-2026-09_08_46-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Vee9 News Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FVee9%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-7-2026-09_07_23-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",J News Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FJNews%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-6-2026-05_04_54-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",NSTV Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FNSTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-5-2026-09_37_02-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Hyderabad Express TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FHyderabadExpress%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-5-2026-09_35_45-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",News 9 Today Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FNews9%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_37_27-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",VVD News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvdflashnews.co.in%2Fvvdnewstv%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_33_32-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Vizag Local News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fedmediahub.in%2Fvizaglocaltv%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_30_35-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",IB TV Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FIBTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_24_28-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Neti Sakshyam
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcloud.sundaylive.co.in%2Fnetisakshyam%2Fnetisakshyam%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_21_49-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Satya Infocus
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvstechs.in%2FPTP%2Fssp%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_20_28-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Vedha Sri
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvstechs.in%2FPTP%2Fvedha%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_18_56-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Satya HD
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvstechs.in%2FPTP%2Fsatya%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_15_49-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Mana Pithapuram
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvstechs.in%2FPTP%2Fmanaptp%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_13_34-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",KTV News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmars.streambridge.link%3A8052%2Ftelugu%2Fktvnews%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_12_14-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",KTV Entertainment
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmars.streambridge.link%3A8052%2Ftelugu%2Fktventertainment%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_23_06-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Akshara Banjara
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions-server11.in%2Faksharabanjara_50%2Fvideo.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-07_58_00-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",R5 TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions-server13.in%2Fr5tv_28%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-07_56_35-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Sree News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions.in%2Fsreenews%2Fsreenews.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-07_46_15-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Local News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Famigofx.com%3A1936%2Flocalnews%2Flocalnews%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-28-2026-09_29_49-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",OTV Network Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fnotvstream.in%2Fotv%2Fotv.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-27-2026-09_21_04-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",BCN
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsanawebservice.co.in%2Fbcntv%2Fvideo.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-22-2026-08_41_02-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",BJ TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBJTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-9-2026-10_11_36-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Sai Sayantika TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.kpsnetwork.in%2Fsstv%2Fsstv%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-9-2026-06_12_01-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SD TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSDTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-9-2026-08_02_42-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Garuda TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FGarudaTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-19-2025-08_12_33-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",KNR Channel
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.mythrimediaindia.com%2Fknrchannel%2Fknrchannel%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Jan-9-2026-09_54_44-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",KPS TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flive.kpsnetwork.in%2Fkps%2Fkps%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-19-2025-07_57_31-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",JKC
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Famigofx.com%3A1936%2Fjkccity%2Fjkccity%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-12-2025-12_13_48-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",BCN Channel
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBCN%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-23-2025-09_15_27-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Public TV News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fpublictvtelugu.co.in%2Fpublictv_1%2Fvideo.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-23-2025-09_13_10-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Public TV Folk Music
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fpublictvtelugu.co.in%2Fpublictvfolkmusic_2%2Fvideo.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-23-2025-09_04_05-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Metro TV Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmercury.streambridge.link%3A8042%2Ftelugu%2Fmetrotv%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-19-2025-01_42_12-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",RK TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FRKTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-18-2025-06_05_03-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",DS 9 Kathalu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FDS9Kathalu%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-18-2025-06_04_58-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",DS 9 Music
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FDs9music%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-17-2025-07_17_12-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",City News Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FCityNewsTelugu%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-12-2025-12_33_01-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",MY TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FMyTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_19_08-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",TGN Channel
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvenus.streambridge.link%3A8047%2Ftelugu%2Ftgn%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_38_20-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",B Channel
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Famigofx.com%3A1936%2Fbhavani%2Fbhavani%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_13_40-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",RMK TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Faccount23.livebox.co.in%2FRMKTVhls%2Flive.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_09_50-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",NCN HD
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcloud.sundaylive.co.in%2Fncnhd%2Fncnhd%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_07_17-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Rapid Media
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FRapidMedia%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_03_58-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",CVR Health
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fyuppparoriglin.akamaized.net%2F181224%2Fsmil%3Acvrhealth.smil%2Fplaylist.m3u8%3Fhdnts%3Dst%3D1735898689~exp%3D1835898688~acl%3D%2A~hmac%3Df5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-11_48_35-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",TV7 Hills
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fserver.streamwell.in%2Fhls%2F7hills.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-11_38_43-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",D4 Channel
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fserver.streamwell.in%2Fhls%2Fd4.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-08_55_21-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Chittoor TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fserver.streamwell.in%2Fhls%2Fchittoortvhd.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-29-2025-09_36_31-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",ACN TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2Facn%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-08_23_16-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",VCN HD
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2Fvcn%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-28-2025-10_25_57-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Bathukamma TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBathukammaTV%2Fvideo.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-09_21_53-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Tirumala HD
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FTirumalaHD%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_50_55-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",2 Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2F2Telugu%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_55_14-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",INB Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FINBtelugu%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_22_39-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Reshya TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FReshyaTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_04_22-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SVC HD
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSVC%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_16_58-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Maa Cable
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FMaaCable%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_33_15-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Anjali TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FAnjaliTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_59_13-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",DS 9 Entertainment
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2Fds9e%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_57_36-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Awaaz News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FAWAAZNEWS%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_48_11-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",PCN HD
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FPCNHD%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_34_11-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",People Media Point
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FPeopleMediaPoint%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-09_00_09-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",AB News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FABNews%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_00_50-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",BCT News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FBCTNews%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-09_30_34-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Swatantra TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSwatantraTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-09_10_34-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",DVT TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FManavooru%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-09_17_22-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SV6 News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSV6%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-08_52_20-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",IR Media
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FIRMedia%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-09_37_33-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Mee News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FMeeNews%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-09_32_57-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Tirumal TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fwww.schannels.in%2Ftirumalachannel%2Findex.m3u8%3Ftoken%3Dnokshitha
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-09_29_59-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",MTV Local
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FMTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-09_26_18-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Zoy TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Frtmp.streamwell.in%2Fhls%2Fzoyhd.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-07_33_37-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Sai TV Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FSaiTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-05_15_09-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Santhosham TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions-server10.in%2Fhls%2Fsanthoshamtv_110.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-08_18_08-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Bhakthi TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FShakthiTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-4-2025-09_23_27-AM-1.png" group-title="VT 📺 | Local Channel Telugu",ETV Channels
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fd2z3q47xzd535o.cloudfront.net%2Fv1%2Fmaster%2F9d43eacaed199f8d5883927e7aef514a8a08e108%2FETV_HD_H264-2_cloud_in%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2024/04/ChatGPT-Image-Dec-28-2025-09_44_16-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",ETV HD US
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivegeorouus.akamaized.net%2F100823%2Fetvhd_2500%2Fplaylist.m3u8%3Fhdnts%3Dst%3D1735898689~exp%3D1835898688~acl%3D%2A~hmac%3Df5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-3-2025-09_13_27-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",ETV Cinema HD
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fd1q7j6ha51ro6f.cloudfront.net%2Fv1%2Fmaster%2F9d43eacaed199f8d5883927e7aef514a8a08e108%2FETV_CINEMA_H264-3_cloud_in%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-3-2025-09_15_28-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",ETV Plus HD
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fd27tnkf60df3v4.cloudfront.net%2Fv1%2Fmaster%2F9d43eacaed199f8d5883927e7aef514a8a08e108%2FETV_PLUS_H264-3_cloud_in%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-3-2025-09_53_16-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",ETV Music
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcc-szivnms4rlah6.akamaized.net%2Fv1%2Fmaster%2F3722c60a815c199d9c0ef36c5b73da68a62b09d1%2Fcc-szivnms4rlah6%2FWWBI%2FAmagi%2FETV_Music_IN%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-3-2025-10_04_36-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",ETV Comedy
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcc-wie8j8y69d2uy.akamaized.net%2Fv1%2Fmaster%2F3722c60a815c199d9c0ef36c5b73da68a62b09d1%2Fcc-wie8j8y69d2uy%2FWWBI%2FAmagi%2FETV_Comedy_IN%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-3-2025-09_57_32-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",ETV Josh
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcc-uyh1ow5zouoio.akamaized.net%2Fv1%2Fmaster%2F3722c60a815c199d9c0ef36c5b73da68a62b09d1%2Fcc-uyh1ow5zouoio%2FWWBI%2FAmagi%2FETV_Josh_IN%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-3-2025-10_03_44-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",ETV Life
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fd2cj1h11htct8o.cloudfront.net%2Fv1%2Fmaster%2F9d43eacaed199f8d5883927e7aef514a8a08e108%2FETV_LIFE_H264_cloud_in%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-3-2025-09_22_14-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",ETV Abhiruchi
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fd2tbworamivdmb.cloudfront.net%2Fv1%2Fmaster%2F9d43eacaed199f8d5883927e7aef514a8a08e108%2FETV_ABHIRUCHI_H264-3_cloud-in%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-3-2025-10_00_48-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",ETV News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcc-3448kp65yhc5w.akamaized.net%2Fv1%2Fmaster%2F3722c60a815c199d9c0ef36c5b73da68a62b09d1%2Fcc-3448kp65yhc5w%2FWWBI%2FAmagi%2FETV_News_IN%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-3-2025-09_47_00-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",ETV Telangana
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdssp63pjfajz9.cloudfront.net%2Fv1%2Fmaster%2F9d43eacaed199f8d5883927e7aef514a8a08e108%2FETV_TS_H264-3_cloud_in%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-3-2025-09_45_42-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",ETV Andhra Pradesh
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fd14vo2b97spizt.cloudfront.net%2Fv1%2Fmaster%2F9d43eacaed199f8d5883927e7aef514a8a08e108%2FETV_AP_H264-3_cloud_in%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-09_21_26-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",RK TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions.in%2Frktv_347%2Frktv_347.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-11-2025-09_22_51-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",GS Grameeena
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FGSGrameena%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-30-2025-08_36_48-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SRK City Channel
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fserver.streamwell.in%2Fhls%2Fsrkcity.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_49_25-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Ayush TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fd1msejlow1t3l4.cloudfront.net%2Ffta%2Fayushtv%2Fplaylist.m3u8%3Fhdnts%3Dst%3D1735898689~exp%3D1835898688~acl%3D%2A~hmac%3Df5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_41_25-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Zilla Vani
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fstreaming.livebox.co.in%2Fvedhikahls%2Flive.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_34_05-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",V Power News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions.in%2Fvpowernews_343%2Fvpowernews_343.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Oct-25-2025-08_35_05-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",S9 News Guntur
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FS9News%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_24_07-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",GNT TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Famigofx.com%3A1936%2Fsrkent%2Fsrkent%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_20_16-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SLN News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions-server11.in%2Fslnnews_2%2Fvideo.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_16_40-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Harika Star
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Famigofx.com%3A1936%2Fsititelugu%2Fsititelugu%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Oct-25-2025-09_11_55-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",YJ TV Telugu News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FYJTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_10_04-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SITI Channel
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Famigofx.com%3A1936%2Fsitichannel%2Fsitichannel%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_06_14-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Jee TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions.in%2Faplocaltv%2Faplocaltv.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_02_28-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",KS TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions.in%2Flmc%2Flmc.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Feb-18-2026-11_51_09-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Akshara News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FAksharaNews%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-08_47_50-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",TV 8 News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions.in%2Ftv8news%2Ftv8news.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Oct-3-2025-10_03_21-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SR TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsanawebservice.co.in%2Fsrtv%2Fvideo.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-10_39_41-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",CCC Channel
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Famigofx.com%3A1936%2Fccchd%2Fccchd%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-10_03_38-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Siti Cable News Tandur
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions.in%2Fcabletandur%2Fcabletandur.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Oct-15-2025-05_43_29-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Mahaa Bhakti
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fd1msejlow1t3l4.cloudfront.net%2Ffta%2Fmahaabhakti%2Fplaylist.m3u8%3Fhdnts%3Dst%3D1735898689~exp%3D1835898688~acl%3D%2A~hmac%3Df5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Oct-31-2025-11_28_22-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",PPS Entertainment
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvvsolutions.in%2Fsreshtamedia%2Fsreshtamedia.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Oct-25-2025-08_34_09-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Gee TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FGeeTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Aug-4-2025-08_34_47-PM-185x278.jpg" group-title="VT 📺 | Local Channel Telugu",Indian Yoga &#038; Wellness TV Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fbrilliantwellness-lg.vgcdn.net%2Fstrm%2Flink%2Findianyogatelugu_lg.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-27-2025-07_23_04-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",RK Bhakthi TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FRKBhakthiTV%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-24-2025-12_13_20-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",4Sides TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmars.streambridge.cloud%2F4sidestv%2Ftelugu%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-09_17_55-AM-185x278.png" group-title="VT 📺 | Local Channel Telugu",Siti 24&#215;7 News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fwww.schannels.in%2FSITI24X7_1%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/01/ChatGPT-Image-Apr-11-2025-04_06_14-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",Prime 9 News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmumbai-edge.smartplaytv.in%2FPrime9News%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2025/01/ChatGPT-Image-Feb-4-2026-08_27_33-AM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",SS TV HD
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2F5dd3981940faa.streamlock.net%3A443%2Fsnewsnpt%2Fsnewsnpt%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2024/09/ChatGPT-Image-Apr-11-2025-04_10_43-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",DD Yadagiri Telangana
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fd3qs3d2rkhfqrt.cloudfront.net%2Fout%2Fv1%2Ff61ea6704a2d4040a2d8eb5c8855ebeb%2Findex.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2024/09/ChatGPT-Image-Apr-11-2025-04_12_21-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",Studio One Plus
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fyuppftalive.akamaized.net%2F031025%2Fstudiooneplus%2Fplaylist.m3u8%3Fhdnts%3Dst%3D1735898689~exp%3D1835898688~acl%3D%2A~hmac%3Df5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2024/08/ChatGPT-Image-Apr-11-2025-04_15_43-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",Mango TV Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Famg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv%2Fplaylist%2Famg01911-mangomassmedia-mangotv-xiaomiin%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2023/12/ChatGPT-Image-Feb-18-2026-03_05_32-PM-1-185x278.png" group-title="VT 📺 | Local Channel Telugu",Tolly TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fsofast-lg.vgcdn.net%2Fsofastplayout%2F2b9e9368-4803-4a2b-94c5-3c8c07e3a130_0_HLS%2Fmanifest.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2023/12/ChatGPT-Image-Apr-11-2025-04_23_20-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",Aastha Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Faasthaott.akamaized.net%2F110923%2Fsmil%3Aaasthatelugu.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2023/05/ChatGPT-Image-Apr-11-2025-04_37_31-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",iNews
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Flivegeoroueu.akamaized.net%2F28072023%2Fsmil%3Ainews.smil%2Fplaylist.m3u8%3Fhdnts%3Dst%3D1735898689~exp%3D1835898688~acl%3D%2A~hmac%3Df5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2023/08/ChatGPT-Image-Apr-11-2025-04_26_15-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",Big TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fd35j504z0x2vu2.cloudfront.net%2Fv1%2Fmaster%2F0bc8e8376bd8417a1b6761138aa41c26c7309312%2Fbig-tv%2Findex.m3u8%3Fads.dpname%3Ddistrotv%26ads.islive%3D1%26ads.streamtype%3Dlive%26ads.vf%3D38RD8K2NqNm
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2022/01/ChatGPT-Image-Apr-11-2025-05_17_51-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",99 TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn-1.pishow.tv%2Flive%2F1211%2Fmaster.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2022/09/ChatGPT-Image-Apr-11-2025-04_27_22-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",Raj Musix Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fcdn-1.pishow.tv%2Flive%2F1213%2Fmaster.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2022/01/ChatGPT-Image-Apr-11-2025-05_12_51-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",V6 News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fyuppmedtaorire.akamaized.net%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Fv6news_nim_https%2F140622%2Fv6news%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_28_54-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",Vanitha TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fyuppnimrestreammum.akamaized.net%2F260723%2Fsmil%3Avanitha1.smil%2Fplaylist.m3u8%3Fhdnts%3Dst%3D1735898689~exp%3D1835898688~acl%3D%2A~hmac%3Df5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2020/02/ChatGPT-Image-Apr-11-2025-05_30_32-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",TV9 Telugu
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fdyjmyiv3bp2ez.cloudfront.net%2Fpub-iotv9telcmjhcs%2Fliveabr%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2023/11/ChatGPT-Image-Apr-11-2025-05_32_19-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",TV9 Telugu USA
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fvg-tv9live.akamaized.net%2Fptnr-monitoring%2Fv1%2Fvglive-sk-921047%2Fmain.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2020/02/ChatGPT-Image-Apr-11-2025-05_33_59-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",NTV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fyuppmedtaorire.akamaized.net%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Fntv_nim_https%2F110322%2Fntv%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_39_10-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",Sakshi TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fyuppmedtaorire.akamaized.net%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Fsakshi_nim_https%2F240122%2Fsakshi%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_40_51-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",Mana TV
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmanatv.akamaized.net%2F120723%2Fsmil%3Amanatv2.smil%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_45_22-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",ABN Andhra Jyothi
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fd35j504z0x2vu2.cloudfront.net%2Fv1%2Fmaster%2F0bc8e8376bd8417a1b6761138aa41c26c7309312%2Fabn-andhra-jyothy%2Fplaylist.m3u8%3Fads.dpname%3Ddistrotv%26ads.islive%3D1%26ads.streamtype%3Dlive%26ads.vf%3D38RD8K2NqNm
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_54_39-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",TV5 News
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fyuppmedtaorire.akamaized.net%2Fv1%2Fmaster%2Fa0d007312bfd99c47f76b77ae26b1ccdaae76cb1%2Ftv5_nim_https%2F110322%2Ftv5%2Fplaylist.m3u8
-#EXTINF:-1 tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_52_21-PM-185x278.png" group-title="VT 📺 | Local Channel Telugu",Mana TV International
-https://proxy.lrl45.workers.dev/?url=https%3A%2F%2Fmanatv.akamaized.net%2F090823%2Fsmil%3Amanatvint.smil%2Findex.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/Dynamic-HD-channel-logo-design-1-185x278.png",Veduka HD Channel
+https://telugu.keralive.workers.dev/VedukaHD/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/CK-News-logo-design-1-185x278.png",CK News Telugu
+https://mumbai-edge.smartplaytv.in/CKNEWS/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/కెరటం-న్యూస్-logo-design-185x278.png",Keratam News
+https://mumbai-edge.smartplaytv.in/Keratamnews/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/J7-TV-NEWS-24x7-logo-1-185x278.png",J7 TV News
+https://venus.streambridge.link:8047/telugu/sahasraacps/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/Vibrant-Sonic-logo-with-dynamic-motion-1-185x278.png",Nick Sonic Telugu
+null
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/04/ChatGPT-Image-Apr-2-2026-09_38_25-PM-1-185x278.png",VRM Media
+https://mumbai-edge.smartplaytv.in/VRMMEDIA/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-30-2026-05_47_48-PM-1-185x278.png",Win Flix HD
+https://telugu.keralive.workers.dev/WINFLIX/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-30-2026-05_48_24-PM-1-185x278.png",Win TV HD
+https://telugu.keralive.workers.dev/WINTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-25-2026-01_24_33-PM-1-185x278.png",Journalist Today TV
+https://mumbai-edge.smartplaytv.in/JournalistToday/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-18-2026-10_22_46-PM-1-185x278.png",Studio18 News Telugu
+https://mumbai-edge.smartplaytv.in/Studio18/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-6-2026-10_49_12-PM-1-185x278.png",I View News Telugu
+https://mumbai-edge.smartplaytv.in/IVIEW/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-6-2026-10_44_55-PM-1-185x278.png",N24 News Telugu
+https://mumbai-edge.smartplaytv.in/N24NEWS/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-09_28_38-PM-1-185x278.png",WOW Kidz Telugu
+https://yuppparoriglin.akamaized.net//181224//smil:wowkidztelgu.smil//playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-09_08_46-PM-1-185x278.png",Darshanam Bakthi
+https://mumbai-edge.smartplaytv.in/darshanambhakthi/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-09_05_43-PM-1-185x278.png",SVBC Telugu
+https://yuppnimresmum.akamaized.net/110322/svbc/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-08_57_50-PM-1-185x278.png",Food  &#038; Health
+https://mumbai-edge.smartplaytv.in/FAndH/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-3-2026-06_22_05-PM-1-185x278.png",AN TV Telugu
+https://mars.streambridge.link:8052/telugu/antv/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-3-2026-06_20_37-PM-1-185x278.png",AJ TV Telugu
+https://mars.streambridge.link:8052/telugu/ajtv/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-3-2026-06_12_24-PM-1-185x278.png",RK9 News
+https://vvsolutions.in/rk9news/rk9news.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-3-2026-05_17_41-PM-1-185x278.png",Bahujana News TV
+https://mumbai-edge.smartplaytv.in/BahujanaTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-3-2026-05_15_55-PM-1-185x278.png",Deccan Today Telugu
+https://mumbai-edge.smartplaytv.in/DeccanToday/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-18-2026-02_58_06-PM-1-185x278.png",Saregama Telugu
+https://saregama.keralive.workers.dev/saregamatelugu/saregamatelugu_master.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Oct-27-2025-07_48_27-PM-1-185x278.png",Telugu One
+https://cc-09yevxlxl4ehl.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-09yevxlxl4ehl/v1/019be9e3f04d1ea55784338b5c3e89/019be9e4474415fc60e93459e1e808/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/02/ChatGPT-Image-Feb-25-2026-09_32_08-PM-1-185x278.png",Mahaa Max
+https://d1msejlow1t3l4.cloudfront.net/fta/mahaamax/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-11-2026-10_42_46-PM-1-185x278.png",Mango Mobile TV
+https://amg01911-mangotv-amg01911c1-xiaomi-in-1270.playouts.now.amagi.tv/playlist/amg01911-mangomassmedia-mangotv-xiaomiin/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-25-2026-09_37_01-PM-1-185x278.png",Studio Yuva
+https://d2gvyg6lvauoko.cloudfront.net/230226/studioyuva/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-25-2026-09_40_53-PM-1-185x278.png",Vinodam HD
+https://mumbai-edge.smartplaytv.in/VinodamHD/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-28-2025-10_22_18-AM-1-185x278.png",SSLC Music
+https://mumbai-edge.smartplaytv.in/SSLCMusic/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_32_46-PM-1-185x278.png",SSLC Gold
+https://mumbai-edge.smartplaytv.in/SSLCGold/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_37_06-PM-1-185x278.png",SSLC Cinemalu
+https://mumbai-edge.smartplaytv.in/SSLCCinemalu/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_30_37-PM-1-185x278.png",SSLC Multiplex
+https://mumbai-edge.smartplaytv.in/SSLCMultiplex/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-07_50_50-AM-1-185x278.png",SSLC Kathalu
+https://mumbai-edge.smartplaytv.in/SSLCKathalu/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_20_11-PM-1-185x278.png",SSLC Banjara Dolu
+https://mumbai-edge.smartplaytv.in/SSLCBanjaraDolu/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_10_58-PM-1-185x278.png",SSLC Janapadalu
+https://mumbai-edge.smartplaytv.in/Janapadalu/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-25-2026-10_03_28-PM-1-185x278.png",Local TV HD
+https://mumbai-edge.smartplaytv.in/LocalTVNews/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-25-2026-10_05_43-PM-1-185x278.png",Shreyas TV
+https://mumbai-edge.smartplaytv.in/ShreyasTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Feb-25-2026-10_07_28-PM-1-185x278.png",Shreyas TV Music
+https://mumbai-edge.smartplaytv.in/ShreyasMusic/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-08_17_00-AM-1-185x278.png",Masti Music
+https://mumbai-edge.smartplaytv.in/MastiMusic/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_18_55-PM-1-185x278.png",BCT Movies
+https://mumbai-edge.smartplaytv.in/BCTMovies/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_10_01-PM-1-185x278.png",BCT Music
+https://mumbai-edge.smartplaytv.in/BCTMusic/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_38_19-PM-1-185x278.png",BCT Classic
+https://mumbai-edge.smartplaytv.in/BCTClassic/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_49_19-PM-1-185x278.png",BCT Keerthana
+https://mumbai-edge.smartplaytv.in/BCTKeerthana/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-08_49_45-AM-1-185x278.png",SRK Entertainments
+https://mumbai-edge.smartplaytv.in/SRKNews/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-25-2026-08_08_39-PM-1-185x278.png",DNB News Telugu
+https://mumbai-edge.smartplaytv.in/DNBNEWS/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-24-2026-10_42_50-PM-1-185x278.png",BV9 News Telugu
+https://mumbai-edge.smartplaytv.in/BV9NEWS/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-25-2026-08_20_33-PM-1-185x278.png",EYE TV Bharath
+https://mumbai-edge.smartplaytv.in/EYETV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-20-2026-09_12_24-AM-1-185x278.png",PS News Telugu
+https://mumbai-edge.smartplaytv.in/PSNEWS/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-19-2026-09_27_52-AM-1-185x278.png",PMC Telugu
+https://mumbai-edge.smartplaytv.in/PMC/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-18-2026-11_54_05-AM-1-185x278.png",Time 2 Time News
+https://mumbai-edge.smartplaytv.in/Time2Time/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-18-2026-11_48_36-AM-1-185x278.png",A1TV Telugu
+https://mumbai-edge.smartplaytv.in/A1TV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-14-2026-01_31_34-PM-1-185x278.png",TG24 TV
+https://mumbai-edge.smartplaytv.in/TG24TV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-14-2026-01_27_25-PM-1-185x278.png",S90 News Telugu
+https://mumbai-edge.smartplaytv.in/S90News/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-14-2026-01_24_47-PM-1-185x278.png",E69 News Telugu
+https://mumbai-edge.smartplaytv.in/E69News/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-14-2026-01_23_20-PM-1-185x278.png",TV6 Telugu
+https://mumbai-edge.smartplaytv.in/TV6/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-7-2026-09_09_59-AM-1-185x278.png",TG5 News Telugu
+https://mumbai-edge.smartplaytv.in/TG5/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-7-2026-09_08_46-AM-1-185x278.png",Vee9 News Telugu
+https://mumbai-edge.smartplaytv.in/Vee9/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-7-2026-09_07_23-AM-1-185x278.png",J News Telugu
+https://mumbai-edge.smartplaytv.in/JNews/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-6-2026-05_04_54-PM-1-185x278.png",NSTV Telugu
+https://mumbai-edge.smartplaytv.in/NSTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-5-2026-09_37_02-AM-1-185x278.png",Hyderabad Express TV
+https://mumbai-edge.smartplaytv.in/HyderabadExpress/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-5-2026-09_35_45-AM-1-185x278.png",News 9 Today Telugu
+https://mumbai-edge.smartplaytv.in/News9/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_37_27-AM-1-185x278.png",VVD News
+https://vvdflashnews.co.in/vvdnewstv/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_33_32-AM-1-185x278.png",Vizag Local News
+https://edmediahub.in/vizaglocaltv/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_30_35-AM-1-185x278.png",IB TV Telugu
+https://mumbai-edge.smartplaytv.in/IBTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_24_28-AM-1-185x278.png",Neti Sakshyam
+https://cloud.sundaylive.co.in/netisakshyam/netisakshyam/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_21_49-AM-1-185x278.png",Satya Infocus
+https://vstechs.in/PTP/ssp/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_20_28-AM-1-185x278.png",Vedha Sri
+https://vstechs.in/PTP/vedha/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_18_56-AM-1-185x278.png",Satya HD
+https://vstechs.in/PTP/satya/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_15_49-AM-1-185x278.png",Mana Pithapuram
+https://vstechs.in/PTP/manaptp/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_13_34-AM-1-185x278.png",KTV News
+https://mumbai-edge.smartplaytv.in/KTVNews/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_12_14-AM-1-185x278.png",KTV Entertainment
+https://mars.streambridge.link:8052/telugu/ktventertainment/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_23_06-AM-1-185x278.png",Akshara Banjara
+https://vvsolutions-server11.in/aksharabanjara_50/video.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-07_58_00-AM-1-185x278.png",R5 TV
+https://vvsolutions-server13.in/r5tv_28/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-07_56_35-AM-1-185x278.png",Sree News
+https://vvsolutions.in/sreenews/sreenews.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-07_46_15-AM-1-185x278.png",Local News
+https://amigofx.com:1936/localnews/localnews/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-28-2026-09_29_49-AM-1-185x278.png",OTV Network Telugu
+https://notvstream.in/otv/otv.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-27-2026-09_21_04-AM-1-185x278.png",BCN
+https://sanawebservice.co.in/bcntv/video.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-22-2026-08_41_02-AM-1-185x278.png",BJ TV
+https://mumbai-edge.smartplaytv.in/BJTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-9-2026-10_11_36-PM-1-185x278.png",Sai Sayantika TV
+https://live.kpsnetwork.in/sstv/sstv/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-9-2026-06_12_01-PM-1-185x278.png",SD TV
+https://mumbai-edge.smartplaytv.in/SDTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/01/ChatGPT-Image-Jan-9-2026-08_02_42-AM-1-185x278.png",Garuda TV
+https://mumbai-edge.smartplaytv.in/GarudaTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-19-2025-08_12_33-AM-1-185x278.png",KNR Channel
+https://live.mythrimediaindia.com/knrchannel/knrchannel/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Jan-9-2026-09_54_44-PM-1-185x278.png",KPS TV
+https://live.kpsnetwork.in/kps/kps/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-19-2025-07_57_31-AM-1-185x278.png",JKC
+https://amigofx.com:1936/jkccity/jkccity/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/12/ChatGPT-Image-Dec-12-2025-12_13_48-PM-1-185x278.png",BCN Channel
+https://mumbai-edge.smartplaytv.in/BCN/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-23-2025-09_15_27-AM-1-185x278.png",Public TV News
+https://publictvtelugu.co.in/publictv_1/video.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-23-2025-09_13_10-AM-1-185x278.png",Public TV Folk Music
+https://publictvtelugu.co.in/publictvfolkmusic_2/video.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-23-2025-09_04_05-AM-1-185x278.png",Metro TV Telugu
+https://mercury.streambridge.link:8042/telugu/metrotv/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-19-2025-01_42_12-PM-1-185x278.png",RK TV
+https://mumbai-edge.smartplaytv.in/RKTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-18-2025-06_05_03-PM-1-185x278.png",DS 9 Kathalu
+https://mumbai-edge.smartplaytv.in/DS9Kathalu/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-18-2025-06_04_58-PM-1-185x278.png",DS 9 Music
+https://mumbai-edge.smartplaytv.in/Ds9music/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-17-2025-07_17_12-AM-1-185x278.png",City News Telugu
+https://mumbai-edge.smartplaytv.in/CityNewsTelugu/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-12-2025-12_33_01-PM-1-185x278.png",MY TV
+https://mumbai-edge.smartplaytv.in/MyTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_19_08-PM-1-185x278.png",TGN Channel
+https://venus.streambridge.link:8047/telugu/tgn/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_38_20-PM-1-185x278.png",B Channel
+https://amigofx.com:1936/bhavani/bhavani/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_13_40-PM-1-185x278.png",RMK TV
+https://account23.livebox.co.in/RMKTVhls/live.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_09_50-PM-1-185x278.png",NCN HD
+https://cloud.sundaylive.co.in/ncnhd/ncnhd/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_07_17-PM-1-185x278.png",Rapid Media
+https://mumbai-edge.smartplaytv.in/RapidMedia/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-12_03_58-PM-1-185x278.png",CVR Health
+https://yuppparoriglin.akamaized.net/181224/smil:cvrhealth.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-11_48_35-AM-1-185x278.png",TV7 Hills
+https://server.streamwell.in/hls/7hills.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-11_38_43-AM-1-185x278.png",D4 Channel
+https://server.streamwell.in/hls/d4.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-5-2025-08_55_21-AM-1-185x278.png",Chittoor TV
+https://server.streamwell.in/hls/chittoortvhd.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-29-2025-09_36_31-PM-1-185x278.png",ACN TV
+https://mumbai-edge.smartplaytv.in/acn/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-08_23_16-AM-1-185x278.png",VCN HD
+https://mumbai-edge.smartplaytv.in/vcn/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-28-2025-10_25_57-AM-1-185x278.png",Bathukamma TV
+https://mumbai-edge.smartplaytv.in/BathukammaTV/video.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-09_21_53-AM-1-185x278.png",Tirumala HD
+https://mumbai-edge.smartplaytv.in/TirumalaHD/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_50_55-PM-1-185x278.png",2 Telugu
+https://mumbai-edge.smartplaytv.in/2Telugu/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_55_14-PM-1-185x278.png",INB Telugu
+https://mumbai-edge.smartplaytv.in/INBtelugu/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_22_39-PM-1-185x278.png",Reshya TV
+https://mumbai-edge.smartplaytv.in/ReshyaTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_04_22-PM-1-185x278.png",SVC HD
+https://mumbai-edge.smartplaytv.in/SVC/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_16_58-PM-1-185x278.png",Maa Cable
+https://mumbai-edge.smartplaytv.in/MaaCable/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_33_15-PM-1-185x278.png",Anjali TV
+https://mumbai-edge.smartplaytv.in/AnjaliTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_59_13-PM-1-185x278.png",DS 9 Entertainment
+https://mumbai-edge.smartplaytv.in/ds9e/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_57_36-PM-1-185x278.png",Awaaz News
+https://mumbai-edge.smartplaytv.in/AWAAZNEWS/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_48_11-PM-1-185x278.png",PCN HD
+https://mumbai-edge.smartplaytv.in/PCNHD/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_34_11-PM-1-185x278.png",People Media Point
+https://mumbai-edge.smartplaytv.in/PeopleMediaPoint/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-09_00_09-AM-1-185x278.png",AB News
+https://mumbai-edge.smartplaytv.in/ABNews/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-04_00_50-PM-1-185x278.png",BCT News
+https://mumbai-edge.smartplaytv.in/BCTNews/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-09_30_34-AM-1-185x278.png",Swatantra TV
+https://mumbai-edge.smartplaytv.in/SwatantraTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2026/03/ChatGPT-Image-Mar-4-2026-09_10_34-PM-1-185x278.png",DVT TV
+https://mumbai-edge.smartplaytv.in/Manavooru/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-09_17_22-AM-1-185x278.png",SV6 News
+https://mumbai-edge.smartplaytv.in/SV6/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-08_52_20-AM-1-185x278.png",IR Media
+https://mumbai-edge.smartplaytv.in/IRMedia/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-09_37_33-PM-1-185x278.png",Mee News
+https://mumbai-edge.smartplaytv.in/MeeNews/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-09_32_57-PM-1-185x278.png",Tirumal TV
+https://www.schannels.in/tirumalachannel/index.m3u8?token=nokshitha
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-09_29_59-PM-1-185x278.png",MTV Local
+https://mumbai-edge.smartplaytv.in/MTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-22-2025-09_26_18-PM-1-185x278.png",Zoy TV
+https://rtmp.streamwell.in/hls/zoyhd.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-07_33_37-PM-1-185x278.png",Sai TV Telugu
+https://mumbai-edge.smartplaytv.in/SaiTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-19-2025-05_15_09-PM-1-185x278.png",Santhosham TV
+https://vvsolutions-server10.in/hls/santhoshamtv_110.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-25-2025-08_18_08-AM-1-185x278.png",Bhakthi TV
+https://mumbai-edge.smartplaytv.in/ShakthiTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-4-2025-09_23_27-AM-1.png",ETV Channels
+https://d2z3q47xzd535o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_HD_H264-2_cloud_in/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2024/04/ChatGPT-Image-Dec-28-2025-09_44_16-AM-1-185x278.png",ETV HD US
+https://livegeorouus.akamaized.net/100823/etvhd_2500/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-3-2025-09_13_27-PM-1-185x278.png",ETV Cinema HD
+https://d1q7j6ha51ro6f.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_CINEMA_H264-3_cloud_in/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-3-2025-09_15_28-PM-1-185x278.png",ETV Plus HD
+https://d27tnkf60df3v4.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_PLUS_H264-3_cloud_in/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-3-2025-09_53_16-PM-1-185x278.png",ETV Music
+https://cc-szivnms4rlah6.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-szivnms4rlah6/WWBI/Amagi/ETV_Music_IN/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-3-2025-10_04_36-PM-1-185x278.png",ETV Comedy
+https://cc-wie8j8y69d2uy.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-wie8j8y69d2uy/WWBI/Amagi/ETV_Comedy_IN/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-3-2025-09_57_32-PM-1-185x278.png",ETV Josh
+https://cc-uyh1ow5zouoio.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-uyh1ow5zouoio/WWBI/Amagi/ETV_Josh_IN/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-3-2025-10_03_44-PM-1-185x278.png",ETV Life
+https://d2cj1h11htct8o.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_LIFE_H264_cloud_in/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-3-2025-09_22_14-PM-1-185x278.png",ETV Abhiruchi
+https://d2tbworamivdmb.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_ABHIRUCHI_H264-3_cloud-in/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Nov-3-2025-10_00_48-PM-1-185x278.png",ETV News
+https://cc-3448kp65yhc5w.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-3448kp65yhc5w/WWBI/Amagi/ETV_News_IN/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-3-2025-09_47_00-PM-1-185x278.png",ETV Telangana
+https://dssp63pjfajz9.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_TS_H264-3_cloud_in/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/11/ChatGPT-Image-Nov-3-2025-09_45_42-PM-1-185x278.png",ETV Andhra Pradesh
+https://d14vo2b97spizt.cloudfront.net/v1/master/9d43eacaed199f8d5883927e7aef514a8a08e108/ETV_AP_H264-3_cloud_in/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-09_02_36-AM-1-185x278.png",VV Movies
+https://allchannels.in/live/vvmovies_100/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-09_04_59-AM-1-185x278.png",VV Music
+https://allchannels.in/live/vvmusic_100/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-10-2025-09_21_26-AM-1-185x278.png",RK TV
+https://vvsolutions.in/rktv_347/rktv_347.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-11-2025-09_22_51-AM-1-185x278.png",GS Grameeena
+https://mumbai-edge.smartplaytv.in/GSGrameena/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-30-2025-08_36_48-AM-1-185x278.png",SRK City Channel
+https://server.streamwell.in/hls/srkcity.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_49_25-PM-1-185x278.png",Ayush TV
+https://d1msejlow1t3l4.cloudfront.net/fta/ayushtv/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_41_25-PM-1-185x278.png",Zilla Vani
+https://streaming.livebox.co.in/vedhikahls/live.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_34_05-PM-1-185x278.png",V Power News
+https://vvsolutions.in/vpowernews_343/vpowernews_343.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Oct-25-2025-08_35_05-AM-1-185x278.png",S9 News Guntur
+https://mumbai-edge.smartplaytv.in/S9News/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_24_07-PM-1-185x278.png",GNT TV
+https://amigofx.com:1936/srkent/srkent/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_20_16-PM-1-185x278.png",SLN News
+https://vvsolutions-server11.in/slnnews_2/video.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_16_40-PM-1-185x278.png",Harika Star
+https://amigofx.com:1936/sititelugu/sititelugu/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Oct-25-2025-09_11_55-AM-1-185x278.png",YJ TV Telugu News
+https://mumbai-edge.smartplaytv.in/YJTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_10_04-PM-1-185x278.png",SITI Channel
+https://amigofx.com:1936/sitichannel/sitichannel/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_06_14-PM-1-185x278.png",Jee TV
+https://vvsolutions.in/aplocaltv/aplocaltv.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-09_02_28-PM-1-185x278.png",KS TV
+https://vvsolutions.in/lmc/lmc.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Feb-18-2026-11_51_09-AM-1-185x278.png",Akshara News
+https://mumbai-edge.smartplaytv.in/AksharaNews/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-24-2025-08_47_50-PM-1-185x278.png",TV 8 News
+https://vvsolutions.in/tv8news/tv8news.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Oct-3-2025-10_03_21-PM-1-185x278.png",SR TV
+https://sanawebservice.co.in/srtv/video.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-10_39_41-PM-1-185x278.png",CCC Channel
+https://amigofx.com:1936/ccchd/ccchd/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Sep-8-2025-10_03_38-PM-1-185x278.png",Siti Cable News Tandur
+https://vvsolutions.in/cabletandur/cabletandur.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/09/ChatGPT-Image-Oct-15-2025-05_43_29-PM-1-185x278.png",Mahaa Bhakti
+https://d1msejlow1t3l4.cloudfront.net/fta/mahaabhakti/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Oct-31-2025-11_28_22-AM-1-185x278.png",PPS Entertainment
+https://vvsolutions.in/sreshtamedia/sreshtamedia.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/08/ChatGPT-Image-Oct-25-2025-08_34_09-AM-1-185x278.png",Gee TV
+https://mumbai-edge.smartplaytv.in/GeeTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-27-2025-07_23_04-PM-1-185x278.png",RK Bhakthi TV
+https://mumbai-edge.smartplaytv.in/RKBhakthiTV/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/07/ChatGPT-Image-Jul-24-2025-12_13_20-PM-185x278.png",4Sides TV
+https://mars.streambridge.cloud/4sidestv/telugu/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/06/ChatGPT-Image-Jun-30-2025-09_17_55-AM-185x278.png",Siti 24&#215;7 News
+https://www.schannels.in/SITI24X7_1/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/01/ChatGPT-Image-Apr-11-2025-04_06_14-PM-185x278.png",Prime 9 News
+https://mumbai-edge.smartplaytv.in/Prime9News/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2025/01/ChatGPT-Image-Feb-4-2026-08_27_33-AM-1-185x278.png",SS TV HD
+https://5dd3981940faa.streamlock.net:443/snewsnpt/snewsnpt/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2024/09/ChatGPT-Image-Apr-11-2025-04_10_43-PM-185x278.png",DD Yadagiri Telangana
+https://d3qs3d2rkhfqrt.cloudfront.net/out/v1/f61ea6704a2d4040a2d8eb5c8855ebeb/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2024/09/ChatGPT-Image-Apr-11-2025-04_12_21-PM-185x278.png",Studio One Plus
+https://yuppftalive.akamaized.net/031025/studiooneplus/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2023/12/ChatGPT-Image-Feb-18-2026-03_05_32-PM-1-185x278.png",Tolly TV
+https://sofast-lg.vgcdn.net/sofastplayout/2b9e9368-4803-4a2b-94c5-3c8c07e3a130_0_HLS/manifest.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2023/12/ChatGPT-Image-Apr-11-2025-04_23_20-PM-185x278.png",Aastha Telugu
+https://aasthaott.akamaized.net/110923/smil:aasthatelugu.smil/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2023/05/ChatGPT-Image-Apr-11-2025-04_37_31-PM-185x278.png",iNews
+https://livegeoroueu.akamaized.net/28072023/smil:inews.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2023/08/ChatGPT-Image-Apr-11-2025-04_26_15-PM-185x278.png",Big TV
+https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/big-tv/index.m3u8?ads.dpname=distrotv&ads.islive=1&ads.streamtype=live&ads.vf=38RD8K2NqNm
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2022/01/ChatGPT-Image-Apr-11-2025-05_17_51-PM-185x278.png",99 TV
+https://cdn-1.pishow.tv/live/1211/master.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2022/09/ChatGPT-Image-Apr-11-2025-04_27_22-PM-185x278.png",Raj Musix Telugu
+https://cdn-1.pishow.tv/live/1213/master.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2022/01/ChatGPT-Image-Apr-11-2025-05_12_51-PM-185x278.png",V6 News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/v6news_nim_https/140622/v6news/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_27_07-PM-185x278.png",Raj News Telugu
+https://mumt04.tangotv.in/RAJNEWSTELUGU/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_28_54-PM-185x278.png",Vanitha TV
+https://yuppnimrestreammum.akamaized.net/260723/smil:vanitha1.smil/playlist.m3u8?hdnts=st=1735898689~exp=1835898688~acl=*~hmac=f5fe24724fe05481e3841f9eb5ab8efdee0a3dd83645ae9dcf45703f525bab7b
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2020/02/ChatGPT-Image-Apr-11-2025-05_30_32-PM-185x278.png",TV9 Telugu
+https://dyjmyiv3bp2ez.cloudfront.net/pub-iotv9telcmjhcs/liveabr/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2023/11/ChatGPT-Image-Apr-11-2025-05_32_19-PM-185x278.png",TV9 Telugu USA
+https://vg-tv9live.akamaized.net/ptnr-monitoring/v1/vglive-sk-921047/main.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2020/02/ChatGPT-Image-Apr-11-2025-05_33_59-PM-185x278.png",NTV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/ntv_nim_https/110322/ntv/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_39_10-PM-185x278.png",Sakshi TV
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/sakshi_nim_https/240122/sakshi/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_40_51-PM-185x278.png",Mana TV
+https://manatv.akamaized.net/120723/smil:manatv2.smil/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_45_22-PM-185x278.png",ABN Andhra Jyothi
+https://mumbai-edge.smartplaytv.in/ABNAJ/index.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_54_39-PM-185x278.png",TV5 News
+https://yuppmedtaorire.akamaized.net/v1/master/a0d007312bfd99c47f76b77ae26b1ccdaae76cb1/tv5_nim_https/110322/tv5/playlist.m3u8
+#EXTINF:-1 group-title="VT 📺 | Local Channel Telugu" tvg-logo="https://tulnit.com/wp-content/uploads/2020/01/ChatGPT-Image-Apr-11-2025-05_52_21-PM-185x278.png",Mana TV International
+https://manatv.akamaized.net/090823/smil:manatvint.smil/index.m3u8
