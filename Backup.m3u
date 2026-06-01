@@ -1,0 +1,396 @@
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml.gz"
+#EXTM3U x-tvg-url="https://avkb.short.gy/jioepg.xml.gz"
+#EXTM3U  x-tvg-url="https://avkb.short.gy/epg.xml.gz"
+#EXTM3U x-tvg-url="https://cuyc.short.gy/Denver-epg.xml.gz"
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6053" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6053.png",STAR MAA HD
+https://stream.kliv.in/Rfus311/play.php?id=6053
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6054" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6054.png",STAR MAA
+https://stream.kliv.in/Rfus311/play.php?id=6054
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6052" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6052.png",STAR MAA UK
+https://stream.kliv.in/Rfus311/play.php?id=6052
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6051" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6051.png",STAR MAA USA
+https://stream.kliv.in/Rfus311/play.php?id=6051
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6059" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6059.png",STAR MAA MOVIES UK
+https://stream.kliv.in/Rfus311/play.php?id=6059
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6061" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6061.png",STAR MAA MOVIES.
+https://stream.kliv.in/Rfus311/play.php?id=6061
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6060" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6060.png",STAR MAA MOVIES HD
+https://stream.kliv.in/Rfus311/play.php?id=6060
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6058" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6058.png",STAR MAA MOVIES USA
+https://stream.kliv.in/Rfus311/play.php?id=6058
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6055" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6055.png",STAR MAA GOLD USA
+https://stream.kliv.in/Rfus311/play.php?id=6055
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6057" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6057.png",STAR MAA GOLD HD
+https://stream.kliv.in/Rfus311/play.php?id=6057
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6056" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6056.png",STAR MAA GOLD UK
+https://stream.kliv.in/Rfus311/play.php?id=6056
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6091" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6091.png",ETV HD
+https://stream.kliv.in/Rfus311/play.php?id=6091
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6092" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6092.png",ETV.
+https://stream.kliv.in/Rfus311/play.php?id=6092
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6089" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6089.png",ETV USA
+https://stream.kliv.in/Rfus311/play.php?id=6089
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6090" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6090.png",ETV UK
+https://stream.kliv.in/Rfus311/play.php?id=6090
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6103" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6103.png",ETV PLUS HD
+https://stream.kliv.in/Rfus311/play.php?id=6103
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6104" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6104.png",ETV PLUS.
+https://stream.kliv.in/Rfus311/play.php?id=6104
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6102" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6102.png",ETV PLUS UK
+https://stream.kliv.in/Rfus311/play.php?id=6102
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6101" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6101.png",ETV PLUS USA
+https://stream.kliv.in/Rfus311/play.php?id=6101
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6099" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6099.png",ETV CINEMA HD
+https://stream.kliv.in/Rfus311/play.php?id=6099
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6098" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6098.png",ETV CINEMA UK
+https://stream.kliv.in/Rfus311/play.php?id=6098
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6097" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6097.png",ETV CINEMA USA
+https://stream.kliv.in/Rfus311/play.php?id=6097
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6095" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6095.png",ETV LIFE HD
+https://stream.kliv.in/Rfus311/play.php?id=6095
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6096" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6096.png",ETV LIFE
+https://stream.kliv.in/Rfus311/play.php?id=6096
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6094" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6094.png",ETV LIFE UK
+https://stream.kliv.in/Rfus311/play.php?id=6094
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6093" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6093.png",ETV LIFE USA
+https://stream.kliv.in/Rfus311/play.php?id=6093
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9219" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9208.jpg",ETV ABHIRUCHI
+https://stream.kliv.in/Rfus311/play.php?id=9219
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6100" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6100.png",ETV CINEMA
+https://stream.kliv.in/Rfus311/play.php?id=6100
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6068" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6068.png",GEMINI TV HD
+https://stream.kliv.in/Rfus311/play.php?id=6068
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6069" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6069.png",GEMINI TV BK
+https://stream.kliv.in/Rfus311/play.php?id=6069
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6066" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6066.png",GEMINI TV USA
+https://stream.kliv.in/Rfus311/play.php?id=6066
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6067" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6067.png",GEMINI TV UK
+https://stream.kliv.in/Rfus311/play.php?id=6067
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6080" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6080.png",GEMINI MOVIES HD
+https://stream.kliv.in/Rfus311/play.php?id=6080
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6081" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6081.png",GEMINI MOVIES BK
+https://stream.kliv.in/Rfus311/play.php?id=6081
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6078" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6078.png",GEMINI MOVIES USA
+https://stream.kliv.in/Rfus311/play.php?id=6078
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6079" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6079.png",GEMINI MOVIES UK
+https://stream.kliv.in/Rfus311/play.php?id=6079
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6076" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6076.png",GEMINI COMEDY HD
+https://stream.kliv.in/Rfus311/play.php?id=6076
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6077" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6077.png",GEMINI COMEDY
+https://stream.kliv.in/Rfus311/play.php?id=6077
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6074" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6074.png",GEMINI COMEDY USA
+https://stream.kliv.in/Rfus311/play.php?id=6074
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6075" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6075.png",GEMINI COMEDY UK
+https://stream.kliv.in/Rfus311/play.php?id=6075
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6072" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6072.png",GEMINI LIFE HD
+https://stream.kliv.in/Rfus311/play.php?id=6072
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6073" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6073.png",GEMIN LIFE BK
+https://stream.kliv.in/Rfus311/play.php?id=6073
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6071" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6071.png",GEMINI LIFE UK
+https://stream.kliv.in/Rfus311/play.php?id=6071
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6070" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6070.png",GEMINI LIFE USA
+https://stream.kliv.in/Rfus311/play.php?id=6070
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6064" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6064.png",ZEE TELUGU HD
+https://stream.kliv.in/Rfus311/play.php?id=6064
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6065" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6065.png",ZEE TELUGU BK
+https://stream.kliv.in/Rfus311/play.php?id=6065
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6062" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6062.png",ZEE TELUGU USA
+https://stream.kliv.in/Rfus311/play.php?id=6062
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6087" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6087.png",ZEE CINEMALU HD
+https://stream.kliv.in/Rfus311/play.php?id=6087
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6088" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6088.png",ZEE CINEMALU BK
+https://stream.kliv.in/Rfus311/play.php?id=6088
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6086" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6086.png",ZEE CINEMALU USA
+https://stream.kliv.in/Rfus311/play.php?id=6086
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9224" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9213.jpg",MAHA MOVIES TEL
+https://stream.kliv.in/Rfus311/play.php?id=9224
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9234" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9223.png",CARTOON NETWORK TEL
+https://stream.kliv.in/Rfus311/play.php?id=9234
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6027" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6027.jpg",KUSHI TV HD
+https://stream.kliv.in/Rfus311/play.php?id=6027
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9233" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9222.png",NICK
+https://stream.kliv.in/Rfus311/play.php?id=9233
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6106" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",SONY YAY TELUGU
+https://stream.kliv.in/Rfus311/play.php?id=6106
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9228" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9217.jpg",STUDIO YUVA ALPHA
+https://stream.kliv.in/Rfus311/play.php?id=9228
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9226" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9215.png",SONIC TELUGU
+https://stream.kliv.in/Rfus311/play.php?id=9226
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9222" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9211.jpg",HISTORY TV 18 HD TELUGU
+https://stream.kliv.in/Rfus311/play.php?id=9222
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6107" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",HISTORY 18 TELUGU HD
+https://stream.kliv.in/Rfus311/play.php?id=6107
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9218" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9207.jpg",DISCOVERY CHANNEL TELUGU
+https://stream.kliv.in/Rfus311/play.php?id=9218
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6111" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6111.png",DISCOVERY WORLD TELUGU
+https://stream.kliv.in/Rfus311/play.php?id=6111
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6112" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",SONY BBC EARTH TELUGU
+https://stream.kliv.in/Rfus311/play.php?id=6112
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6020" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6020.png",AASTHA TELUGU
+https://stream.kliv.in/Rfus311/play.php?id=6020
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9217" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9206.jpg",ARADANA TV
+https://stream.kliv.in/Rfus311/play.php?id=9217
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6025" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6025.jpg",SAKSHI TV
+https://stream.kliv.in/Rfus311/play.php?id=6025
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6024" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6024.jpg",HINDI DHARMAM
+https://stream.kliv.in/Rfus311/play.php?id=6024
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9227" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9216.jpg",SRI VENKATESHWAR BHAKTI
+https://stream.kliv.in/Rfus311/play.php?id=9227
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9225" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9214.jpg",OM CVR
+https://stream.kliv.in/Rfus311/play.php?id=9225
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9221" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9210.jpg",HINDU DHARMAM
+https://stream.kliv.in/Rfus311/play.php?id=9221
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6022" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6022.png",CALVARY TV
+https://stream.kliv.in/Rfus311/play.php?id=6022
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6023" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6023.png",DIVYA VANI TELUGU
+https://stream.kliv.in/Rfus311/play.php?id=6023
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6026" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6026.jpg",DD SAPTAGIRI
+https://stream.kliv.in/Rfus311/play.php?id=6026
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9223" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9212.jpg",HM TV
+https://stream.kliv.in/Rfus311/play.php?id=9223
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9213" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9202.jpg",CVR HEALTH
+https://stream.kliv.in/Rfus311/play.php?id=9213
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9232" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9221.png",PMC
+https://stream.kliv.in/Rfus311/play.php?id=9232
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9236" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9225.png",BIG TV
+https://stream.kliv.in/Rfus311/play.php?id=9236
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9230" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9219.png",SUBHAVARTHA TV
+https://stream.kliv.in/Rfus311/play.php?id=9230
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="474967" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71641.png",VANITHA TV
+https://stream.kliv.in/Rfus311/play.php?id=474967
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="474964" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71638.jpg",MANA TV
+https://stream.kliv.in/Rfus311/play.php?id=474964
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6038" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6038.png",ETV TELANGANA
+https://stream.kliv.in/Rfus311/play.php?id=6038
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9235" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9224.jpg",99 TV
+https://stream.kliv.in/Rfus311/play.php?id=9235
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="474962" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71636.png",CN HD PLUS
+https://stream.kliv.in/Rfus311/play.php?id=474962
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9214" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9203.jpg",SWATANTRA NEWS
+https://stream.kliv.in/Rfus311/play.php?id=9214
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6033" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6033.jpg",CVR OM
+https://stream.kliv.in/Rfus311/play.php?id=6033
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="9216" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/9205.jpg",ABN ANDHRA JYOTHI
+https://stream.kliv.in/Rfus311/play.php?id=9216
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6043" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6043.png",RAJ NEWS TELUGU
+https://stream.kliv.in/Rfus311/play.php?id=6043
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6039" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6039.png",ETV ANDHRA PRADESH
+https://stream.kliv.in/Rfus311/play.php?id=6039
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6036" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6036.jpg",CVR NEWS
+https://stream.kliv.in/Rfus311/play.php?id=6036
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6047" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",CVR ENGLISH
+https://stream.kliv.in/Rfus311/play.php?id=6047
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6044" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6044.jpg",T NEWS
+https://stream.kliv.in/Rfus311/play.php?id=6044
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="474963" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71637.jpg",I NEWS
+https://stream.kliv.in/Rfus311/play.php?id=474963
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6037" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6037.png",INEWS
+https://stream.kliv.in/Rfus311/play.php?id=6037
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6035" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6035.jpg",10 TV NEWS HD
+https://stream.kliv.in/Rfus311/play.php?id=6035
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6031" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6031.png",SVBC
+https://stream.kliv.in/Rfus311/play.php?id=6031
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6040" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6040.jpg",MAHAA NEWS
+https://stream.kliv.in/Rfus311/play.php?id=6040
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6048" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6048.jpg",V6 NEWS
+https://stream.kliv.in/Rfus311/play.php?id=6048
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6042" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6042.png",NTV NEWS TELUGU
+https://stream.kliv.in/Rfus311/play.php?id=6042
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6045" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6045.jpg",TV5 NEWS
+https://stream.kliv.in/Rfus311/play.php?id=6045
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6034" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6034.jpg",ABN NEWS HD
+https://stream.kliv.in/Rfus311/play.php?id=6034
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6046" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6046.png",TV9 TELUGU NEWS
+https://stream.kliv.in/Rfus311/play.php?id=6046
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="475471" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",SVBC HD
+https://stream.kliv.in/Rfus311/play.php?id=475471
+#EXTINF:-1 group-title="TELUGU | TV" tvg-id="6021" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6021.jpg",BHAKTI TV
+https://stream.kliv.in/Rfus311/play.php?id=6021
+#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="6085" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6085.png",GEMINI MUSIC BK
+https://stream.kliv.in/Rfus311/play.php?id=6085
+#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="6084" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6084.png",GEMINI MUSIC HD
+https://stream.kliv.in/Rfus311/play.php?id=6084
+#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="6083" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6083.png",GEMINI MUSIC UK
+https://stream.kliv.in/Rfus311/play.php?id=6083
+#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="6082" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/6082.png",GEMINI MUSIC USA
+https://stream.kliv.in/Rfus311/play.php?id=6082
+#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="6049" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",MAA MUSIC
+https://stream.kliv.in/Rfus311/play.php?id=6049
+#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="474965" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71639.jpg",RAJ MUSIX
+https://stream.kliv.in/Rfus311/play.php?id=474965
+#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="481202" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77559.png",TELUGU LATEST SONGS (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481202
+#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="481203" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77560.png",TELUGU TOP TRENDING SONGS (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481203
+#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="481204" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77561.png",TELUGU MIX SONGS (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481204
+#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="481317" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77673.png",TELUGU CLASSIC SONGS (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481317
+#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="481318" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77674.png",TELUGU ROMANTIC SONGS (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481318
+#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="481320" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77676.png",TELUGU HIT SONGS (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481320
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="479939" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/76307.png",TELUGU UPCOMING MOVIES (4K)
+https://stream.kliv.in/Rfus311/play.php?id=479939
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="475390" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/72063.png",TELUGU MOVIES 2025 (4K)
+https://stream.kliv.in/Rfus311/play.php?id=475390
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="475391" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/72064.png",TELUGU MOVIES 2024 (4K)
+https://stream.kliv.in/Rfus311/play.php?id=475391
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="475392" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/72065.png",TELUGU MOVIES 2020 - 2023 (4K)
+https://stream.kliv.in/Rfus311/play.php?id=475392
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="475393" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/72066.png",TELUGU BOX OFFICE (4K)
+https://stream.kliv.in/Rfus311/play.php?id=475393
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="475394" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/72067.png",TELUGU OLD COLLECTION (4K)
+https://stream.kliv.in/Rfus311/play.php?id=475394
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474909" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71583.png",TELUGU ALL TIME HIT MOVIES (4K)
+https://stream.kliv.in/Rfus311/play.php?id=474909
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474910" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71584.png",TELUGU DUBBED MOVIES (4K)
+https://stream.kliv.in/Rfus311/play.php?id=474910
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474911" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71585.png",TELUGU ACTION MOVIES (4K)
+https://stream.kliv.in/Rfus311/play.php?id=474911
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474912" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71586.png",TELUGU COMEDY MOVIES (4K)
+https://stream.kliv.in/Rfus311/play.php?id=474912
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474913" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71587.png",TELUGU CRIME MOVIES (4K)
+https://stream.kliv.in/Rfus311/play.php?id=474913
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474914" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71588.png",TELUGU ROMANTIC MOVIES (4K)
+https://stream.kliv.in/Rfus311/play.php?id=474914
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474915" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71589.png",TELUGU SUSPENCEFUL MOVIES (4K)
+https://stream.kliv.in/Rfus311/play.php?id=474915
+#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474916" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/71590.png",TELUGU THRILLERÂ MOVIESÂ (4K)
+https://stream.kliv.in/Rfus311/play.php?id=474916
+#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480932" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77293.png",4K TELUGU NEW SERIES
+https://stream.kliv.in/Rfus311/play.php?id=480932
+#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480943" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77304.png",4K TELUGU TRENDING GUIDE
+https://stream.kliv.in/Rfus311/play.php?id=480943
+#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480933" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77294.png",4K TELUGU TRENDING 1
+https://stream.kliv.in/Rfus311/play.php?id=480933
+#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480934" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77295.png",4K TELUGU TRENDING 2
+https://stream.kliv.in/Rfus311/play.php?id=480934
+#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480935" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77296.png",4K TELUGU TRENDING 3
+https://stream.kliv.in/Rfus311/play.php?id=480935
+#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480936" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77297.png",4K TELUGU TRENDING 4
+https://stream.kliv.in/Rfus311/play.php?id=480936
+#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480937" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77298.png",4K TELUGU TRENDING 5
+https://stream.kliv.in/Rfus311/play.php?id=480937
+#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480938" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77299.png",4K TELUGU TRENDING 6
+https://stream.kliv.in/Rfus311/play.php?id=480938
+#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480939" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77300.png",4K TELUGU TRENDING 7
+https://stream.kliv.in/Rfus311/play.php?id=480939
+#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480940" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77301.png",4K HINDI OTT TELUGU DUBBED
+https://stream.kliv.in/Rfus311/play.php?id=480940
+#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480941" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77302.png",4K ENGLISH OTT TELUGU DUBBED
+https://stream.kliv.in/Rfus311/play.php?id=480941
+#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480942" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77303.png",4K KOREAN OTT TELUGU DUBBED
+https://stream.kliv.in/Rfus311/play.php?id=480942
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481038" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77395.png",TV9 TELUGU NEWS.
+https://stream.kliv.in/Rfus311/play.php?id=481038
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481035" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77392.png",NTV NEWS TELUGU.
+https://stream.kliv.in/Rfus311/play.php?id=481035
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481036" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77393.jpg",TV5 NEWS.
+https://stream.kliv.in/Rfus311/play.php?id=481036
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481032" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77389.jpg",10 TV NEWS HD.
+https://stream.kliv.in/Rfus311/play.php?id=481032
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481029" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77386.jpg",T NEWS.
+https://stream.kliv.in/Rfus311/play.php?id=481029
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481025" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77382.jpg",ABN ANDHRA JYOTHI.
+https://stream.kliv.in/Rfus311/play.php?id=481025
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481037" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77394.jpg",ABN NEWS.
+https://stream.kliv.in/Rfus311/play.php?id=481037
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481030" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77387.jpg",I NEWS.
+https://stream.kliv.in/Rfus311/play.php?id=481030
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481026" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77383.png",RAJ NEWS TELUGU.
+https://stream.kliv.in/Rfus311/play.php?id=481026
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481023" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77380.jpg",99 TV.
+https://stream.kliv.in/Rfus311/play.php?id=481023
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481033" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77390.jpg",MAHAA NEWS.
+https://stream.kliv.in/Rfus311/play.php?id=481033
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481027" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77384.jpg",CVR NEWS.
+https://stream.kliv.in/Rfus311/play.php?id=481027
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481028" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",CVR ENGLISH.
+https://stream.kliv.in/Rfus311/play.php?id=481028
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481024" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77381.jpg",SWATANTRA NEWS.
+https://stream.kliv.in/Rfus311/play.php?id=481024
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481020" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77377.png",BIG TV.
+https://stream.kliv.in/Rfus311/play.php?id=481020
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481021" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77378.png",VANITHA TV.
+https://stream.kliv.in/Rfus311/play.php?id=481021
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481022" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77379.jpg",MANA TV.
+https://stream.kliv.in/Rfus311/play.php?id=481022
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481031" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77388.png",INEWS.
+https://stream.kliv.in/Rfus311/play.php?id=481031
+#EXTINF:-1 group-title="TELUGU | NEWS" tvg-id="481034" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77391.jpg",V6 NEWS.
+https://stream.kliv.in/Rfus311/play.php?id=481034
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481105" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",ACTOR | ALLU ARJUN (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481105
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481106" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",ACTOR | PRABHAS (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481106
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481107" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77464.jpg",ACTOR | MAHESH BABU (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481107
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481108" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77465.jpg",ACTOR | N T RAMA RAO JR (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481108
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481109" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77466.jpg",ACTOR | RAM CHARAN (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481109
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481110" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77467.jpg",ACTOR | RAVI TEJA (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481110
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481111" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77468.jpg",ACTOR | NAGARJUNA AKKINENI (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481111
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481112" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77469.jpg",ACTOR | VIJAY DEVERAKONDA (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481112
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481113" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77470.jpg",ACTOR | JAGAPATI BABU (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481113
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481114" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77471.jpg",ACTOR | RAJENDRA PRASAD (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481114
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481115" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77472.jpg",ACTOR | NANI (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481115
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481117" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77474.jpg",ACTOR | DAGGUBATI VENKATESH (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481117
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481121" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77478.jpg",ACTOR | RAM POTHINENI (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481121
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481123" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77480.jpg",ACTOR | NITHIIN (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481123
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481116" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77473.jpg",ACTOR | ALLARI NARESH (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481116
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481118" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77475.jpg",ACTOR | SAI DHARAM TEJ (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481118
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481119" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77476.jpg",ACTOR | SAMANTHA RUTH PRABHU (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481119
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481120" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77477.jpg",ACTOR | ADIVI SESH (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481120
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481122" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77479.jpg",ACTOR | BELLAMKONDA SRINIVAS (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481122
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481124" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77481.jpg",ACTOR | CHIRANJEEVI (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481124
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481125" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77482.jpg",ACTOR | GOPICHAND (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481125
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481126" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77483.jpg",ACTOR | NANDAMURI BALAKRISHNA (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481126
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481127" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77484.jpg",ACTOR | NIKHIL SIDDHARTHA (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481127
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481128" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77485.jpg",ACTOR | VARUN TEJ (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481128
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481129" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77486.jpg",ACTOR | VISHWAK SEN (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481129
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481205" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77562.jpg",ACTOR | RANA DAGGUBATI (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481205
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481206" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77563.jpg",ACTOR | AKHIL AKKINENI (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481206
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481207" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",ACTOR | PAWAN KALYAN (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481207
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481208" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77565.jpg",ACTOR | SHARWANAND (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481208
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481209" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",ACTOR | SIDHU JONNALAGADDA (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481209
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481210" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",ACTOR | NAGA SHAURYA (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481210
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481211" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77568.jpg",ACTOR | SUDHEER BABU (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481211
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481212" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",ACTOR | SUNDEEP KISHAN (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481212
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481213" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77570.jpg",ACTOR | SIDDHARTH (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481213
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481214" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",ACTOR | TARUN (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481214
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481215" tvg-logo="http://tv.fusion4k.cc/stalker_portal/misc/logos/320/77572.jpg",ACTOR | NAVDEEP (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481215
+#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481216" tvg-logo="https://i.ibb.co/9H3JfNS4/IMG-20250216-215224-720.jpg",ACTOR | SRIHARI (4K)
+https://stream.kliv.in/Rfus311/play.php?id=481216
