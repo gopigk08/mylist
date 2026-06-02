@@ -1,0 +1,36 @@
+name: Advanced Link Refresh
+
+on:
+  schedule:
+    - cron: '0 */4 * * *' # Every 4 hours for freshness
+  workflow_dispatch:
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.x'
+
+      - name: Install Dependencies
+        run: pip install requests
+
+      - name: Run Advanced Refresh
+        env:
+          # Optional: Add a proxy if links are geo-blocked
+          # HTTP_PROXY: ${{ secrets.INDIA_PROXY }} 
+          PYTHONUNBUFFERED: 1
+        run: python advanced_refresh.py
+
+      - name: Deploy to GitHub Pages (Optional but recommended)
+        # Hosting your JSON on GitHub Pages is faster than 'raw' links
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "OMNI Bot"
+          git add playlist.json
+          git commit -m "Refresh: $(date +'%Y-%m-%d %H:%M')" || exit 0
+          git push
