@@ -1,7 +1,7 @@
 {
-  "latestVersion": "1.0.1",
+  "latestVersion": "1.0.2",
   "currentVersion": "1.0.0",
-  "downloadUrl": "https://github.com/gopigk08/mylist/raw/main/Omni%20Tv%20V1.0.1.apk",
+  "downloadUrl": "https://github.com/gopigk08/mylist/raw/main/omnitv_update.apk",
   "releaseNotes": "• Brand new Modern Cinematic UI design.\n• Major improvements to Live TV buffering and reconnects.\n• Enhanced security to protect streaming links.\n• Removed annoying Auto-Start permission popups.\n• Added this advanced in-app update system!",
   "updateSize": "21.5 MB",
   "isMandatory": false
