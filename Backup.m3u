@@ -1,232 +1,277 @@
 #EXTM3U
-#EXTINF:-1 group-title=" TELUGU" tvg-id="98886" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10802",Telugu: STAR-MAA (4K).
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/98886.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="98894" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10810",Telugu: ZEE-TELUGU (4K).
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/98894.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="98887" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10803",Telugu: STAR-MAA-MOVIE (4K).
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/98887.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="98896" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10812",Telugu: ZEE-CINEMALU (4K).
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/98896.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="98885" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10801",Telugu: ETV (4K).
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/98885.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="98892" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10808",Telugu: GEMINI (4K).
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/98892.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23796" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10885",Telugu: GEMINI MUSIC (4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23796.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9045" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="11248",Telugu: ETV Cinema (4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9045.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23797" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10886",Telugu: GEMINI MOVIE (4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23797.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="1605" tvg-logo="https://i.ibb.co/9336p4j/download.png" tvg-chno="11240",Telugu: Zee Telugu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/1605.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23312" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" tvg-chno="10879",Telugu: ETV (FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23312.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23313" tvg-logo="https://i.ibb.co/yn807cB/download-21.png" tvg-chno="10880",Telugu: STAR-MAA (FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23313.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23314" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20180531131824" tvg-chno="10881",Telugu: STAR-MAA-MOVIE (FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23314.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9015" tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" tvg-chno="11242",Telugu: STAR MAA MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9015.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23315" tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png" tvg-chno="10882",Telugu: GEMINI (FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23315.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23316" tvg-logo="https://i.ibb.co/9336p4j/download.png" tvg-chno="10883",Telugu: ZEE-TELUGU (FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23316.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23317" tvg-logo="https://i.ibb.co/jhL5mtq/download.png" tvg-chno="10884",Telugu: ZEE-CINEMALU (FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23317.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="242" tvg-logo="https://i.ibb.co/7VdZqgH/download-2-2.png" tvg-chno="11237",Telugu: ETV Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/242.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9017" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" tvg-chno="11244",Telugu: Etv HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9017.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9016" tvg-logo="https://i.ibb.co/jhL5mtq/download.png" tvg-chno="11243",Telugu: Zee Cinemalu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9016.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="168" tvg-logo="https://i.ibb.co/yn807cB/download-21.png" tvg-chno="11227",Telugu: STAR MAA TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/168.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9043" tvg-chno="11246",Telugu: STAR MAA GOLD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9043.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="212" tvg-logo="https://i.ibb.co/VqQ1bBm/download-3.png" tvg-chno="11229",Telugu: Gemini_Movies_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/212.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="213" tvg-logo="https://i.ibb.co/vkJr9Cn/download-1-1.png" tvg-chno="11230",Telugu: Gemini_Music_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/213.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9044" tvg-logo="https://i.ibb.co/vXYWqvD/download-24.png" tvg-chno="11247",Telugu: GEMINI LIFE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9044.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9042" tvg-logo="https://i.ibb.co/CQhttzT/download-25.png" tvg-chno="11245",Telugu: GEMINI COMEDY HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9042.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="214" tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png" tvg-chno="11231",Telugu: Gemini_TV_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/214.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="223" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" tvg-chno="11232",Telugu: Sony_BBC_Earth_HD_Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/223.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="228" tvg-logo="https://i.ibb.co/pZ891Tj/download-4-1.png" tvg-chno="11233",Telugu:  V6_News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/228.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="233" tvg-logo="https://i.ibb.co/c2Rn5ss/download-26.png" tvg-chno="11234",Telugu:  Sri_Venkateshwar_Bhakti
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/233.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="234" tvg-logo="https://i.ibb.co/9snympp/images-1.png" tvg-chno="11235",Telugu:  ABN_Andhra_Jyothi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/234.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="235" tvg-logo="https://i.ibb.co/RDK2ZtJ/download-2-3.png" tvg-chno="11236",Telugu: NTV TELUGU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/235.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="355504" tvg-logo="https://i.ibb.co/F3BvTdG/images-1.png" tvg-chno="10739",TELUGU: Kushi TV SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/355504.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="170" tvg-logo="https://i.ibb.co/F3y8k7t/download-22.png" tvg-chno="11228",Telugu: TV 5 News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/170.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="243" tvg-chno="11238",IN: Raj Music Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/243.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="380447" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-telugu-news-in.png" tvg-chno="7142",TL: Zee Telugu News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/380447.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="244" tvg-logo="https://i.ibb.co/1RMqwkk/download-3.png" tvg-chno="11239",Telugu: Vissa TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/244.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="4053" tvg-logo="https://i.ibb.co/Lk5p3Zc/download-27.png" tvg-chno="11241",Telugu: DD Saptagiri
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/4053.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9046" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" tvg-chno="11249",Telugu: ETV AndhraPradesh
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9046.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9047" tvg-logo="https://i.ibb.co/N3twTsx/download-3-2.png" tvg-chno="11250",Telugu: TV9 NEWS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9047.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9048" tvg-logo="https://i.ibb.co/DwR6K3W/download-28.png" tvg-chno="11251",Telugu: Sakshi TV (News)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9048.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9049" tvg-logo="https://i.ibb.co/1Ttjk2f/download-20.png" tvg-chno="11252",Telugu: T News HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9049.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9050" tvg-logo="https://i.ibb.co/wrtbTfN/download-19.png" tvg-chno="11253",Telugu: ETV Telangana
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9050.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9052" tvg-chno="11254",Telugu: ETV Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9052.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9053" tvg-logo="https://i.ibb.co/nr1Kz3J/download-5.png" tvg-chno="11255",Telugu: ETV Abhiruchi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9053.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9054" tvg-logo="https://i.ibb.co/qjCHLvw/download-2.png" tvg-chno="11256",Telugu: SVBC HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9054.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="34581" tvg-logo="https://i.ibb.co/XbJL5xt/download-1-1.png" tvg-chno="11257",Telugu: BHAKTI TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/34581.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="52504" tvg-logo="https://i.ibb.co/xMfFBH4/download-2.png" tvg-chno="11258",TELUGU:  RAJ NEWS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/52504.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="57772" tvg-chno="11259",TELUGU: Star Maa Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/57772.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="121374" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg?w=2000" tvg-chno="1550",24/7: Telugu_2022_2021_Collection_vol_1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/121374.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136457" tvg-chno="1551",TELUGU-MOVIES 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136457.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136458" tvg-chno="1552",TELUGU-MOVIES 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136458.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136459" tvg-chno="1553",TELUGU-MOVIES 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136459.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136460" tvg-chno="1554",TELUGU-MOVIES 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136460.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136461" tvg-chno="1555",TELUGU-EROSNOW MOVIES 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136461.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136462" tvg-chno="1556",TELUGU-CLASSIC MOVIES 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136462.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136463" tvg-chno="1557",TELUGU-CLASSIC MOVIES 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136463.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136464" tvg-chno="1558",TELUGU-LATTEST MOVIES 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136464.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136465" tvg-chno="1559",TELUGU-LATTEST MOVIES 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136465.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136466" tvg-chno="1560",TELUGU-ACTION DRAMA MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136466.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136467" tvg-chno="1561",TELUGU-COMEDY MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136467.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136468" tvg-chno="1562",TELUGU-ACTION CRIME MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136468.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136469" tvg-chno="1563",TELUGU-ACTION THRILLER MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136469.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136470" tvg-chno="1564",TELUGU-THRILLER MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136470.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136471" tvg-chno="1565",TELUGU-ROMANCE MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136471.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136472" tvg-chno="1566",TELUGU-MYSTERY MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136472.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136473" tvg-chno="1567",TELUGU-COMEDY ROMANCE MOVES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136473.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136474" tvg-chno="1568",TELUGU-COMEDY DRAMA MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136474.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136475" tvg-chno="1569",TELUGU-CRIME MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136475.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136476" tvg-chno="1570",TELUGU-CRIME DRAMA MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136476.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136477" tvg-chno="1571",TELUGU-DRAMA MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136477.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136478" tvg-chno="1572",TELUGU-DRAMA ROMANCE MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136478.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136479" tvg-chno="1573",TELUGU-DRAMA THRILLER MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136479.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136480" tvg-chno="1574",TELUGU-FANTASY MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136480.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136481" tvg-chno="1575",TELUGU-HORROR MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136481.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136482" tvg-chno="1576",TELUGU-HORROR THRILLER MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136482.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136483" tvg-chno="1577",TELUGU-MUSICAL MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136483.ts?RKDYIPTV&token=rkdyiptv
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-id="geminitvhd.in",IND: TG: Maa Movies
+http://best8k.top:8080/atif90/554433/250841
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa-Movies-HD.png",IND: TG: STAR MAA MOVIES FHD
+http://best8k.top:8080/atif90/554433/381117
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/maa_tv.jpg",IND: TG: Maa HD
+http://best8k.top:8080/atif90/554433/250843
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Star-Maa.png",IND: TG: STAR MAA FHD
+http://best8k.top:8080/atif90/554433/381103
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-id="maagold.in" tvg-logo="http://openboxv8s.com/india/maa_gold.jpg",IND: TG: STAR MAA GOLD
+http://best8k.top:8080/atif90/554433/250845
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/zee-telugu-in.png",IND: TG: ZEE TELUGU
+http://best8k.top:8080/atif90/554433/250844
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-id="geminimovieshd.in" tvg-logo="http://openboxv8s.com/india/sun_gemini_movies.png",IND: TG: GEMINI movies
+http://best8k.top:8080/atif90/554433/250846
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-id="geminicomedy.in" tvg-logo="http://openboxv8s.com/india/sun_gemini_comedy.png",IND: TG: GEMINI comedy
+http://best8k.top:8080/atif90/554433/250847
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-id="geminilife.in" tvg-logo="http://openboxv8s.com/india/sun_gemini_life.jpg",IND: TG: Gemini life
+http://best8k.top:8080/atif90/554433/250848
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-id="etvhd.in" tvg-logo="http://openboxv8s.com/india/etv_in.jpg",IND: TG: Etv HD
+http://best8k.top:8080/atif90/554433/250842
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-id="etvplus.in" tvg-logo="http://openboxv8s.com/india/etv_in_plus.png",IND: TG: ETV PLUS
+http://best8k.top:8080/atif90/554433/250849
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-id="etvlife.in" tvg-logo="http://openboxv8s.com/india/etv_in_life.png",IND: TG: ETV LIFE
+http://best8k.top:8080/atif90/554433/250850
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-id="etvcinema.in" tvg-logo="http://openboxv8s.com/india/etv_in_cinema.png",IND: TG: ETV Cinema
+http://best8k.top:8080/atif90/554433/250851
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-id="geminimusic.in" tvg-logo="http://openboxv8s.com/india/sun_gemini_music.png",IND: TG: GEMINI MUSIC
+http://best8k.top:8080/atif90/554433/250852
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://openboxv8s.com/india/sun_gemini.png",IND: TG: Gemini HD
+http://best8k.top:8080/atif90/554433/250855
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-id="rajmusixtelugu.in" tvg-logo="http://openboxv8s.com/india/raj_musix_telugu.jpg",IND: TG: Raj Musix
+http://best8k.top:8080/atif90/554433/250853
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://fastplayer.uk/images/5cf1335aa3209e809616340c22c05a49.png",IND: TG: TV9 Telugu
+http://best8k.top:8080/atif90/554433/250854
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Abhiruchi.png",IND: TG: ETV ABHIRUCHI
+http://best8k.top:8080/atif90/554433/381112
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Zee-Cinemalu-HD.png",IND: TG: ZEE CINEMALU HD
+http://best8k.top:8080/atif90/554433/381108
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-BBC-Earth-HD.png",IND: TG: SONY BBC EARTH FHD
+http://best8k.top:8080/atif90/554433/381102
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Nat-Geo-Wild-HD.png",IND: TG: NAT GEO WILD FHD
+http://best8k.top:8080/atif90/554433/381099
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-Channel-1.png",IND: TG: DISCOVERY CHANNEL
+http://best8k.top:8080/atif90/554433/381095
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Cartoon-Network.png",IND: TG: CARTOON NETWORK
+http://best8k.top:8080/atif90/554433/381094
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/SONY-PIX-HD.png",IND: TG: SONY PIX FHD
+http://best8k.top:8080/atif90/554433/381093
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/10-TV.png",IND: TG: 10 TV
+http://best8k.top:8080/atif90/554433/381088
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Raj-News.png",IND: TG: RAJ NEWS
+http://best8k.top:8080/atif90/554433/381086
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Abn-Andhra.png",IND: TG: ABN ANDHRA JYOTHI
+http://best8k.top:8080/atif90/554433/381085
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/TV5-News.png",IND: TG: TV5 NEWS
+http://best8k.top:8080/atif90/554433/381084
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vanitha.png",IND: TG: VANITHA
+http://best8k.top:8080/atif90/554433/381083
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Studio-Yuva.png",IND: TG: STUDIO YUVA
+http://best8k.top:8080/atif90/554433/381180
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/History-TV18-HD.png",IND: TG: HISTORY 18 FHD
+http://best8k.top:8080/atif90/554433/381179
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Vissa-TV.png",IND: TG: VISSA TV
+http://best8k.top:8080/atif90/554433/381176
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/T-News.png",IND: TG: T NEWS
+http://best8k.top:8080/atif90/554433/381171
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/DD-Saptagiri.png",IND: TG: DD SAPTAGIRI
+http://best8k.top:8080/atif90/554433/381166
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Andhra-Pradesh.png",IND: TG: ETV ANDHRA PRADESH
+http://best8k.top:8080/atif90/554433/381164
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/ETV-Telangana.png",IND: TG: ETV TELANGANA
+http://best8k.top:8080/atif90/554433/381159
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Sakshi-TV.png",ININD: TG: SAKSHI TV
+http://best8k.top:8080/atif90/554433/381154
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Fitness.png",IND: TG: TATA PLAY FITNESS
+http://best8k.top:8080/atif90/554433/381147
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Hollywood-Local.png",IND: TG: TATA PLAY HOLLYWOOD LOCAL
+http://best8k.top:8080/atif90/554433/381146
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-English-in-Telugu.png",IND: TG: TATA PLAY ENGLISH IN TELUGU
+http://best8k.top:8080/atif90/554433/381145
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Discovery-HD-World.png",IND: TG: DISCOVERY WORLD FHD
+http://best8k.top:8080/atif90/554433/381141
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/National-Geographic-HD.png",IND: TG: NATIONAL GEOGRAPHIC FHD
+http://best8k.top:8080/atif90/554433/381139
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Tata-Play-Toons.png",IND: TG: TATA PLAY TOONS+
+http://best8k.top:8080/atif90/554433/381130
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/Gubbare.png",IND: TG: GUBBARE
+http://best8k.top:8080/atif90/554433/381129
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/NTV.png",IND: TG: NTV TELUGU
+http://best8k.top:8080/atif90/554433/381126
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/V6.png",IND: TG: V6 NEWS
+http://best8k.top:8080/atif90/554433/381124
+#EXTINF:-1 group-title="IND | TELUGU D2H" tvg-logo="http://b1gchlogos.xyz/wp-content/uploads/2023/08/4tv-News.png",IND: TG: 4TV NEWS
+http://best8k.top:8080/atif90/554433/381121
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: Kushi TV
+http://best8k.top:8080/atif90/554433/382286
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: iNews
+http://best8k.top:8080/atif90/554433/382285
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: India Now
+http://best8k.top:8080/atif90/554433/382284
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: HMTV
+http://best8k.top:8080/atif90/554433/382283
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: Swatantra News
+http://best8k.top:8080/atif90/554433/382282
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: Subhavartha_TV
+http://best8k.top:8080/atif90/554433/382281
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: Studio One
+http://best8k.top:8080/atif90/554433/382280
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: Sonic Telugu
+http://best8k.top:8080/atif90/554433/382279
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: CVR News
+http://best8k.top:8080/atif90/554433/382278
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: CVR Health
+http://best8k.top:8080/atif90/554433/382277
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: CVR English News
+http://best8k.top:8080/atif90/554433/382276
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: CN HD+ Telugu
+http://best8k.top:8080/atif90/554433/382275
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: CARTOON NETWORK
+http://best8k.top:8080/atif90/554433/382274
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: Calvary TV
+http://best8k.top:8080/atif90/554433/382273
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: Big TV
+http://best8k.top:8080/atif90/554433/382272
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: 99 TV
+http://best8k.top:8080/atif90/554433/382271
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: PMC
+http://best8k.top:8080/atif90/554433/382270
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: Sri Venkateshwar Bhakti   ( Spiritual )
+http://best8k.top:8080/atif90/554433/382294
+#EXTINF:-1 group-title="IND | TELUGU D2H",IIND: TG: Hindu Dharmam  ( Spiritual )
+http://best8k.top:8080/atif90/554433/382293
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: Aastha Telugu    ( Spiritual )
+http://best8k.top:8080/atif90/554433/382292
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: OM CVR  ( Spiritual )
+http://best8k.top:8080/atif90/554433/382291
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: SVBC2  ( Spiritual )
+http://best8k.top:8080/atif90/554433/382290
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: Krishna Vani ( Spiritual )
+http://best8k.top:8080/atif90/554433/382289
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: Bhakti TV   ( Spiritual )
+http://best8k.top:8080/atif90/554433/382288
+#EXTINF:-1 group-title="IND | TELUGU D2H",IND: TG: Aradana TV  ( Spiritual )
+http://best8k.top:8080/atif90/554433/382287
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Series Telugu 1 FHD
+http://best8k.top:8080/atif90/554433/441605
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Series Telugu 2 FHD
+http://best8k.top:8080/atif90/554433/441606
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Series Telugu 3 FHD
+http://best8k.top:8080/atif90/554433/441607
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Series Telugu 4 FHD
+http://best8k.top:8080/atif90/554433/441608
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Series Telugu 5 FHD
+http://best8k.top:8080/atif90/554433/441609
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 1 FHD
+http://best8k.top:8080/atif90/554433/441380
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 2 FHD
+http://best8k.top:8080/atif90/554433/441381
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 3 FHD
+http://best8k.top:8080/atif90/554433/441382
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 4 FHD
+http://best8k.top:8080/atif90/554433/441383
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 5 FHD
+http://best8k.top:8080/atif90/554433/441384
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 6 FHD
+http://best8k.top:8080/atif90/554433/441385
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 7 FHD
+http://best8k.top:8080/atif90/554433/441386
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 8 FHD
+http://best8k.top:8080/atif90/554433/441387
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 9 FHD
+http://best8k.top:8080/atif90/554433/441388
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 10 FHD
+http://best8k.top:8080/atif90/554433/441389
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 11 FHD
+http://best8k.top:8080/atif90/554433/441390
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 12 FHD
+http://best8k.top:8080/atif90/554433/441391
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 13 FHD
+http://best8k.top:8080/atif90/554433/441392
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 14 FHD
+http://best8k.top:8080/atif90/554433/441393
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 15 FHD
+http://best8k.top:8080/atif90/554433/441394
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 16 FHD
+http://best8k.top:8080/atif90/554433/441395
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 17 FHD
+http://best8k.top:8080/atif90/554433/441396
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 18 FHD
+http://best8k.top:8080/atif90/554433/441397
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 19 FHD
+http://best8k.top:8080/atif90/554433/441398
+#EXTINF:-1 group-title="VIBE TELUGU" tvg-logo="https://xc.slweb.tv/logos/Vibe.png",Vibe Telugu 20 FHD
+http://best8k.top:8080/atif90/554433/441399
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 1 FHD
+http://best8k.top:8080/atif90/554433/389451
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 2 FHD
+http://best8k.top:8080/atif90/554433/389452
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 3 FHD
+http://best8k.top:8080/atif90/554433/389453
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 4 FHD
+http://best8k.top:8080/atif90/554433/389454
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 5 FHD
+http://best8k.top:8080/atif90/554433/389455
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 6 FHD
+http://best8k.top:8080/atif90/554433/440423
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 7 FHD
+http://best8k.top:8080/atif90/554433/440424
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 8 FHD
+http://best8k.top:8080/atif90/554433/440425
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 9 FHD
+http://best8k.top:8080/atif90/554433/440426
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 10 FHD
+http://best8k.top:8080/atif90/554433/440427
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 11 FHD
+http://best8k.top:8080/atif90/554433/440428
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 12 FHD
+http://best8k.top:8080/atif90/554433/440429
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 13 FHD
+http://best8k.top:8080/atif90/554433/440430
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 14 FHD
+http://best8k.top:8080/atif90/554433/440431
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 15 FHD
+http://best8k.top:8080/atif90/554433/440432
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 16 FHD
+http://best8k.top:8080/atif90/554433/440433
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 17 FHD
+http://best8k.top:8080/atif90/554433/440434
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 18 FHD
+http://best8k.top:8080/atif90/554433/440435
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 19 FHD
+http://best8k.top:8080/atif90/554433/440436
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 20 FHD
+http://best8k.top:8080/atif90/554433/440437
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 21 FHD
+http://best8k.top:8080/atif90/554433/440438
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 22 FHD
+http://best8k.top:8080/atif90/554433/440439
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 23 FHD
+http://best8k.top:8080/atif90/554433/440440
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 24 FHD
+http://best8k.top:8080/atif90/554433/440441
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 25 FHD
+http://best8k.top:8080/atif90/554433/440442
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 26 FHD
+http://best8k.top:8080/atif90/554433/440443
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 27 FHD
+http://best8k.top:8080/atif90/554433/440444
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 28 FHD
+http://best8k.top:8080/atif90/554433/440445
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 29 FHD
+http://best8k.top:8080/atif90/554433/440446
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Telugu 30 FHD
+http://best8k.top:8080/atif90/554433/440447
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Hollywood Telugu Dubbed 1 FHD
+http://best8k.top:8080/atif90/554433/440448
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Hollywood Telugu Dubbed 2 FHD
+http://best8k.top:8080/atif90/554433/440449
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Hollywood Telugu Dubbed 3 FHD
+http://best8k.top:8080/atif90/554433/440450
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Hollywood Telugu Dubbed 4 FHD
+http://best8k.top:8080/atif90/554433/440451
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Hollywood Telugu Dubbed 5 FHD
+http://best8k.top:8080/atif90/554433/440452
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Hollywood Telugu Dubbed 6 FHD
+http://best8k.top:8080/atif90/554433/440453
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Hollywood Telugu Dubbed 7 FHD
+http://best8k.top:8080/atif90/554433/440454
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Hollywood Telugu Dubbed 8 FHD
+http://best8k.top:8080/atif90/554433/440455
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Hollywood Telugu Dubbed 9 FHD
+http://best8k.top:8080/atif90/554433/440456
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Hollywood Telugu Dubbed 10 FHD
+http://best8k.top:8080/atif90/554433/440457
+#EXTINF:-1 group-title="CineMania Telugu Cinema",CineMania Hollywood Telugu Dubbed 11 FHD
+http://best8k.top:8080/atif90/554433/440458
