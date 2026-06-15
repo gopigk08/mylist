@@ -1,232 +1,196 @@
 #EXTM3U
-#EXTINF:-1 group-title=" TELUGU" tvg-id="98886" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10802",Telugu: STAR-MAA (4K).
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/98886.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="98894" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10810",Telugu: ZEE-TELUGU (4K).
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/98894.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="98887" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10803",Telugu: STAR-MAA-MOVIE (4K).
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/98887.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="98896" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10812",Telugu: ZEE-CINEMALU (4K).
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/98896.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="98885" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10801",Telugu: ETV (4K).
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/98885.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="98892" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10808",Telugu: GEMINI (4K).
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/98892.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23796" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10885",Telugu: GEMINI MUSIC (4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23796.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9045" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="11248",Telugu: ETV Cinema (4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9045.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23797" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png" tvg-chno="10886",Telugu: GEMINI MOVIE (4K)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23797.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="1605" tvg-logo="https://i.ibb.co/9336p4j/download.png" tvg-chno="11240",Telugu: Zee Telugu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/1605.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23312" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" tvg-chno="10879",Telugu: ETV (FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23312.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23313" tvg-logo="https://i.ibb.co/yn807cB/download-21.png" tvg-chno="10880",Telugu: STAR-MAA (FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23313.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23314" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20180531131824" tvg-chno="10881",Telugu: STAR-MAA-MOVIE (FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23314.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9015" tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png" tvg-chno="11242",Telugu: STAR MAA MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9015.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23315" tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png" tvg-chno="10882",Telugu: GEMINI (FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23315.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23316" tvg-logo="https://i.ibb.co/9336p4j/download.png" tvg-chno="10883",Telugu: ZEE-TELUGU (FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23316.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="23317" tvg-logo="https://i.ibb.co/jhL5mtq/download.png" tvg-chno="10884",Telugu: ZEE-CINEMALU (FHD)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/23317.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="242" tvg-logo="https://i.ibb.co/7VdZqgH/download-2-2.png" tvg-chno="11237",Telugu: ETV Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/242.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9017" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" tvg-chno="11244",Telugu: Etv HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9017.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9016" tvg-logo="https://i.ibb.co/jhL5mtq/download.png" tvg-chno="11243",Telugu: Zee Cinemalu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9016.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="168" tvg-logo="https://i.ibb.co/yn807cB/download-21.png" tvg-chno="11227",Telugu: STAR MAA TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/168.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9043" tvg-chno="11246",Telugu: STAR MAA GOLD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9043.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="212" tvg-logo="https://i.ibb.co/VqQ1bBm/download-3.png" tvg-chno="11229",Telugu: Gemini_Movies_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/212.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="213" tvg-logo="https://i.ibb.co/vkJr9Cn/download-1-1.png" tvg-chno="11230",Telugu: Gemini_Music_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/213.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9044" tvg-logo="https://i.ibb.co/vXYWqvD/download-24.png" tvg-chno="11247",Telugu: GEMINI LIFE HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9044.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9042" tvg-logo="https://i.ibb.co/CQhttzT/download-25.png" tvg-chno="11245",Telugu: GEMINI COMEDY HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9042.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="214" tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png" tvg-chno="11231",Telugu: Gemini_TV_HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/214.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="223" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn%3AANd9GcTT9j-h-4CiDAqFZA2ijrp4jj8dPM10fve8GA&usqp=CAU" tvg-chno="11232",Telugu: Sony_BBC_Earth_HD_Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/223.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="228" tvg-logo="https://i.ibb.co/pZ891Tj/download-4-1.png" tvg-chno="11233",Telugu:  V6_News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/228.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="233" tvg-logo="https://i.ibb.co/c2Rn5ss/download-26.png" tvg-chno="11234",Telugu:  Sri_Venkateshwar_Bhakti
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/233.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="234" tvg-logo="https://i.ibb.co/9snympp/images-1.png" tvg-chno="11235",Telugu:  ABN_Andhra_Jyothi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/234.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="235" tvg-logo="https://i.ibb.co/RDK2ZtJ/download-2-3.png" tvg-chno="11236",Telugu: NTV TELUGU
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/235.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="355504" tvg-logo="https://i.ibb.co/F3BvTdG/images-1.png" tvg-chno="10739",TELUGU: Kushi TV SD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/355504.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="170" tvg-logo="https://i.ibb.co/F3y8k7t/download-22.png" tvg-chno="11228",Telugu: TV 5 News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/170.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="243" tvg-chno="11238",IN: Raj Music Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/243.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="380447" tvg-logo="https://www.lyngsat.com/logo/tv/zz/zee-telugu-news-in.png" tvg-chno="7142",TL: Zee Telugu News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/380447.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="244" tvg-logo="https://i.ibb.co/1RMqwkk/download-3.png" tvg-chno="11239",Telugu: Vissa TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/244.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="4053" tvg-logo="https://i.ibb.co/Lk5p3Zc/download-27.png" tvg-chno="11241",Telugu: DD Saptagiri
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/4053.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9046" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png" tvg-chno="11249",Telugu: ETV AndhraPradesh
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9046.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9047" tvg-logo="https://i.ibb.co/N3twTsx/download-3-2.png" tvg-chno="11250",Telugu: TV9 NEWS HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9047.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9048" tvg-logo="https://i.ibb.co/DwR6K3W/download-28.png" tvg-chno="11251",Telugu: Sakshi TV (News)
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9048.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9049" tvg-logo="https://i.ibb.co/1Ttjk2f/download-20.png" tvg-chno="11252",Telugu: T News HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9049.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9050" tvg-logo="https://i.ibb.co/wrtbTfN/download-19.png" tvg-chno="11253",Telugu: ETV Telangana
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9050.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9052" tvg-chno="11254",Telugu: ETV Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9052.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9053" tvg-logo="https://i.ibb.co/nr1Kz3J/download-5.png" tvg-chno="11255",Telugu: ETV Abhiruchi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9053.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="9054" tvg-logo="https://i.ibb.co/qjCHLvw/download-2.png" tvg-chno="11256",Telugu: SVBC HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/9054.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="34581" tvg-logo="https://i.ibb.co/XbJL5xt/download-1-1.png" tvg-chno="11257",Telugu: BHAKTI TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/34581.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="52504" tvg-logo="https://i.ibb.co/xMfFBH4/download-2.png" tvg-chno="11258",TELUGU:  RAJ NEWS
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/52504.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU" tvg-id="57772" tvg-chno="11259",TELUGU: Star Maa Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/57772.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="121374" tvg-logo="https://img.freepik.com/premium-vector/24hr-services-with-clock-scale_66219-761.jpg?w=2000" tvg-chno="1550",24/7: Telugu_2022_2021_Collection_vol_1
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/121374.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136457" tvg-chno="1551",TELUGU-MOVIES 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136457.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136458" tvg-chno="1552",TELUGU-MOVIES 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136458.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136459" tvg-chno="1553",TELUGU-MOVIES 3 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136459.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136460" tvg-chno="1554",TELUGU-MOVIES 4 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136460.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136461" tvg-chno="1555",TELUGU-EROSNOW MOVIES 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136461.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136462" tvg-chno="1556",TELUGU-CLASSIC MOVIES 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136462.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136463" tvg-chno="1557",TELUGU-CLASSIC MOVIES 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136463.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136464" tvg-chno="1558",TELUGU-LATTEST MOVIES 1 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136464.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136465" tvg-chno="1559",TELUGU-LATTEST MOVIES 2 HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136465.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136466" tvg-chno="1560",TELUGU-ACTION DRAMA MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136466.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136467" tvg-chno="1561",TELUGU-COMEDY MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136467.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136468" tvg-chno="1562",TELUGU-ACTION CRIME MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136468.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136469" tvg-chno="1563",TELUGU-ACTION THRILLER MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136469.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136470" tvg-chno="1564",TELUGU-THRILLER MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136470.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136471" tvg-chno="1565",TELUGU-ROMANCE MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136471.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136472" tvg-chno="1566",TELUGU-MYSTERY MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136472.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136473" tvg-chno="1567",TELUGU-COMEDY ROMANCE MOVES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136473.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136474" tvg-chno="1568",TELUGU-COMEDY DRAMA MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136474.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136475" tvg-chno="1569",TELUGU-CRIME MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136475.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136476" tvg-chno="1570",TELUGU-CRIME DRAMA MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136476.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136477" tvg-chno="1571",TELUGU-DRAMA MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136477.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136478" tvg-chno="1572",TELUGU-DRAMA ROMANCE MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136478.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136479" tvg-chno="1573",TELUGU-DRAMA THRILLER MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136479.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136480" tvg-chno="1574",TELUGU-FANTASY MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136480.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136481" tvg-chno="1575",TELUGU-HORROR MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136481.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136482" tvg-chno="1576",TELUGU-HORROR THRILLER MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136482.ts?RKDYIPTV&token=rkdyiptv
-#EXTINF:-1 group-title=" TELUGU MOVIES 24/7" tvg-id="136483" tvg-chno="1577",TELUGU-MUSICAL MOVIES HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-http://techtalks.uk:80/live/798r6Udu89/female5bird/136483.ts?RKDYIPTV&token=rkdyiptv
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45403" tvg-logo="https://i.ibb.co/yn807cB/download-21.png",TL | STAR MAA TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45403
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="237730" tvg-logo="https://i.ibb.co/yn807cB/download-21.png",TL | STAR MAA TV ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=237730
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45444" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",TL | STAR MAA TV ⁴ᵏ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45444
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45417" tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png",TL | STAR MAA MOVIES | HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45417
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45445" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",TL | STAR MAA MOVIE ⁴ᵏ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45445
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45421" tvg-logo="https://i.ibb.co/yn807cB/download-21.png",TL | STAR MAA GOLD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45421
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45415" tvg-logo="https://i.ibb.co/9336p4j/download.png",TL | ZEE | HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45415
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45447" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",TL | ZEE ⁴ᵏ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45447
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45418" tvg-logo="https://i.ibb.co/jhL5mtq/download.png",TL | ZEE CINEMALU ᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45418
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45448" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",TL | ZEE CINEMALU ⁴ᵏ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45448
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45407" tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png",TL | GEMINI TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45407
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45446" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",TL |  GEMINI TV ⁴ᵏ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45446
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45438" tvg-logo="https://i.ibb.co/vkJr9Cn/download-1-1.png",TL | GEMINI MUSIC
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45438
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45439" tvg-logo="https://i.ibb.co/VqQ1bBm/download-3.png",TL | GEMINI MOVIES
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45439
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45420" tvg-logo="https://i.ibb.co/CQhttzT/download-25.png",TL | GEMINI COMEDY
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45420
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45422" tvg-logo="https://i.ibb.co/vXYWqvD/download-24.png",TL | GEMINI LIFE
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45422
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45419" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png",TL | ETV ᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45419
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45443" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png",TL | ETV ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45443
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45423" tvg-logo="https://i.ibb.co/J378DsJ/download-2-1.png",TL | ETV Cinema
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45423
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45413" tvg-logo="https://i.ibb.co/7VdZqgH/download-2-2.png",TL | ETV Plus
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45413
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45429" tvg-logo="https://i.ibb.co/10Hs9M7/download-18.png",TL | ETV Life
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45429
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45430" tvg-logo="https://i.ibb.co/nr1Kz3J/download-5.png",TL | ETV ABHIRUCHI
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45430
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45428" tvg-logo="https://i.ibb.co/wrtbTfN/download-19.png",TL | ETV TELANGANA
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45428
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45424" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png",TL | ETV ANDHRA PRADESH
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45424
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="223264" tvg-logo="https://i.ibb.co/9snympp/images-1.png",TL | ABN ANDHRA JYOTHI
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=223264
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45427" tvg-logo="https://i.ibb.co/1Ttjk2f/download-20.png",TL | T NEWS
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45427
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45425" tvg-logo="https://i.ibb.co/N3twTsx/download-3-2.png",TL | TV9 NEWS
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45425
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45404" tvg-logo="https://i.ibb.co/F3y8k7t/download-22.png",TL | TV 5 News
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45404
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45441" tvg-logo="https://i.ibb.co/xMfFBH4/download-2.png",TL | RAJ NEWS
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45441
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45426" tvg-logo="https://i.ibb.co/DwR6K3W/download-28.png",TL | SAKSHI TV News
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45426
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45410" tvg-logo="https://i.ibb.co/c2Rn5ss/download-26.png",TL | SRI VENKATESHWAR BHAKTI
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45410
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45412" tvg-logo="https://i.ibb.co/RDK2ZtJ/download-2-3.png",TL | NTV TELUGU
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45412
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45414" tvg-logo="https://i.ibb.co/1RMqwkk/download-3.png",TL | VISSA TV
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45414
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45416" tvg-logo="https://i.ibb.co/Lk5p3Zc/download-27.png",TL | DD SAPTAGIRI
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45416
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45431" tvg-logo="https://i.ibb.co/qjCHLvw/download-2.png",TL | SVBC ᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45431
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45440" tvg-logo="https://i.ibb.co/XbJL5xt/download-1-1.png",TL | BHAKTI TV
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45440
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45442" tvg-logo="https://i.ibb.co/YhStzG2/download-1-1.png",TL |  STAR MAA MUSIC
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45442
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="151216" tvg-logo="https://i.ibb.co/F3BvTdG/images-1.png",TL | KUSHI TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=151216
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="151219" tvg-logo="https://i.ibb.co/Fkxvpxx8/Discovery-Kids-logo-svg.png",TL | DISCOVERY KIDS ᴴᴰ (MULTI-AUDIO)
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=151219
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242300" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-MOVIES 1 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242300
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242301" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-MOVIES 2 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242301
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242302" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-MOVIES 3 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242302
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242303" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-MOVIES 4 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242303
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242304" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-EROSNOW MOVIES 1 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242304
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242305" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-CLASSIC MOVIES 1 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242305
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242306" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-CLASSIC MOVIES 2 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242306
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242307" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-LATTEST MOVIES 1 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242307
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242308" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-LATTEST MOVIES 2 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242308
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242309" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-ACTION DRAMA MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242309
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242310" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-COMEDY MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242310
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242312" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-ACTION THRILLER MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242312
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242313" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-THRILLER MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242313
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242314" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-ROMANCE MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242314
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242315" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-MYSTERY MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242315
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242316" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-COMEDY ROMANCE MOVES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242316
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242317" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-COMEDY DRAMA MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242317
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242318" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-CRIME MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242318
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242319" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-CRIME DRAMA MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242319
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242320" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-DRAMA MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242320
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242321" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-DRAMA ROMANCE MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242321
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242322" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-DRAMA THRILLER MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242322
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242323" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-FANTASY MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242323
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242324" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-HORROR MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242324
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242325" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-HORROR THRILLER MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242325
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242326" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-MUSICAL MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242326
