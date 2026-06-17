@@ -2,7 +2,7 @@
 #EXTINF:-1 group-title="Telugu Local TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/02/ChatGPT-Image-Feb-4-2026-08_15_49-AM-1-185x278.png",Mana Pithapuram
 https://vstechs.in/PTP/manaptp/index.m3u8
 #EXTINF:-1 group-title="Telugu Local TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/05/ChatGPT-Image-May-16-2026-12_06_44-PM-1-200x300.png",K TV Folk
-https://telugu.keralive.workers.dev/KTVFOLK/index.m3u8
+https://telugu.keralive.workers.dev/KTVFOLK/index.m3u8|Referer=https://bhoomtv.org/&Origin=https://bhoomtv.org
 #EXTINF:-1 group-title="Telugu Local TV" tvg-logo="https://tulnit.com/wp-content/uploads/2026/05/ChatGPT-Image-May-16-2026-12_03_06-PM-1-200x300.png",K TV Music
 https://telugu.keralive.workers.dev/KTVMUSIC/index.m3u8
 #EXTINF:-1 group-title="Telugu Local TV" tvg-logo="https://tulnit.com/wp-content/uploads/2025/10/ChatGPT-Image-Oct-24-2025-03_10_58-PM-1-185x278.png",SSLC Janapadalu
