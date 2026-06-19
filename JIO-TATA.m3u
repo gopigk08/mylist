@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitu-root/epg/main/jio.xml.gz" x-billed-message="StreamFlex+ | SFDHJ3UZ | Expires: 2026-06-21 23:44:04 (3 days left) | @StreamFlex19"
+#EXTM3U x-tvg-url="https://tsepg.cf/jio.xml.gz" x-billed-message="StreamFlex+ | SFDHJ3UZ | Expires: 2026-06-21 23:44:04 (3 days left) | @StreamFlex19"
 #EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts635",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png",Zee Telugu HD
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk635/SFDHJ3UZ/
