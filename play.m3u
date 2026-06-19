@@ -1,4 +1,4 @@
-#EXTM3U
+#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml" x-tvg-url="https://avkb.short.gy/epg.xml.gz"
 #EXTINF:-1 group-title="TELUGU TV" tvg-id="463836" tvg-logo="http://vplay.site:2052/images/1e33hFaez5JOt1vmQ78I_2sGLunB4dMCoY4OLh38MWy5RRjRyvIIjNr5MuHGbEla.png",Star Maa ᴴᴰ
 http://filex.me:8080/87654321/12345678/955305
 #EXTINF:-1 group-title="TELUGU TV" tvg-id="411676" tvg-logo="http://vplay.site:2052/images/jvEOE3bgHAqnk27ZQ5X2mhjkol1wf9uzHk2wsUEuRTxRtjomRFeDu78daKMWNg6a.png",ZEE Telugu ᴴᴰ
