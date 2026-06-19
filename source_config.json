@@ -2,7 +2,7 @@
   "playlists": [
     {
       "id": "main",
-      "name": "Telugu All",
+      "name": "Telugu",
       "url": "https://raw.githubusercontent.com/gopigk08/mylist/main/play.m3u",
       "priority": 1
     },
