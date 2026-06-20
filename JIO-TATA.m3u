@@ -1,257 +1,61 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml" x-tvg-url="https://avkb.short.gy/epg.xml.gz"
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="166" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNTelugu.png",Cartoon Network Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3e5ec63e26c1520380236941c3848f68:f944e7ee9260a9e6239170db4d6fa713
-https://servertvhub.site/jiotv+/mpd.php?id=166
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="413" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemalu.png",Zee Cinemalu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6cbcc37865353abb23766638ca5d405:fcdddffe9027fbf34c3bdb5f91cc5847
-https://servertvhub.site/jiotv+/mpd.php?id=413
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="543" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png",Nick Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=df95eed20e955879a75aba7a834213ba:7b52568720e54c7b28d998415298d50f
-https://servertvhub.site/jiotv+/mpd.php?id=543
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="558" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kushi_TV.png",Kushi TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=36762890a11b5ed9bc633626b7b8fca1:2b7b31848c9047e232543b883bc59a1a
-https://servertvhub.site/jiotv+/mpd.php?id=558
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="576" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",Discovery Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=57f1b2ef267e54e2a01f65d172f2cdca:cbfb990d2343da92cf4daa209963d0b6
-https://servertvhub.site/jiotv+/mpd.php?id=576
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="577" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png",History TV18 HD Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d0ccc0ee7e8560b93b3d3e639ea32b0:7beacbf5552dc159e5373fba32e2e5ea
-https://servertvhub.site/jiotv+/mpd.php?id=577
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="598" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png",Sri Venkateshwar Bhakti
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=4e5c224b85ca565f9d0a3233ac1f259f:04442d2dd2af50d598a3c24d5a22334c
-https://servertvhub.site/jiotv+/mpd.php?id=598
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="607" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png",Subhavartha TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dd6016b52d4c563a99818f7919d5051a:c3d2d6236fcff45c8f4799b1ccad47e7
-https://servertvhub.site/jiotv+/mpd.php?id=607
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="618" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",TV9 Telugu News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=526b422853c0528ba3ffc22f2705af27:bb4f477e75150db68b7184669687de7d
-https://servertvhub.site/jiotv+/mpd.php?id=618
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="632" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png",Sakshi tv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-https://servertvhub.site/jiotv+/mpd.php?id=632
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="638" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTelugu.png",Zee Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=fc160005672554dab9882d0092e0635d:efada6d2baa8b99416f6431e0b0dc19d
-https://servertvhub.site/jiotv+/mpd.php?id=638
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="646" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/NTV.png",NTV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-https://servertvhub.site/jiotv+/mpd.php?id=646
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="664" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png",Raj News Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-https://servertvhub.site/jiotv+/mpd.php?id=664
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="665" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png",HM TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2ee3f53c6ec2553c95c46d892ae7645c:e3d43692c38411ddc0970e768132afe5
-https://servertvhub.site/jiotv+/mpd.php?id=665
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="666" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",ABN Andhra Jyothi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-https://servertvhub.site/jiotv+/mpd.php?id=666
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="667" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png",T News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-https://servertvhub.site/jiotv+/mpd.php?id=667
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="668" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png",TV 5 News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-https://servertvhub.site/jiotv+/mpd.php?id=668
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="670" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/6_TV.png",6 TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=170250c70403592fb0aede69a2251842:3176f56685c49cf2ec9e66209f50e3a1
-https://servertvhub.site/jiotv+/mpd.php?id=670
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="684" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png",Sun Gemini Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=89887cc3539757c4802bb3f4b1bed42f:9d02cba14dd041059c40bf3070d7f32e
-https://servertvhub.site/jiotv+/mpd.php?id=684
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="706" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png",DD Saptagiri
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d11e12870645293b3ead5c6f7e5f239:b53cbff88cf00ecb57da3cce5d219a21
-https://servertvhub.site/jiotv+/mpd.php?id=706
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="729" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Sun Gemini Comedy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a39a9699a2e354ce9312d2933d8bf83c:4bc2a11372933c408bc27b11d832d836
-https://servertvhub.site/jiotv+/mpd.php?id=729
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="734" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",Vissa TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c413d334b2825a16bce176b426db953e:3c4ac4012b39a55a94618381ed00c4b4
-https://servertvhub.site/jiotv+/mpd.php?id=734
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="737" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png",Raj Music Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f3634373f68d5959b7f881af8669f47e:15a1dc309da43401ad2415e6201ff084
-https://servertvhub.site/jiotv+/mpd.php?id=737
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="760" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",Maa Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a78f7295d78453c69f9849d40095be2d:a9d4d809e74edc7625c4fe7ffc9e4647
-https://servertvhub.site/jiotv+/mpd.php?id=760
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="769" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png",V6 News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-https://servertvhub.site/jiotv+/mpd.php?id=769
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="772" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png",CVR OM Spiritual
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=8465bdbdc5ae556cbaaa4f8b66ac7d52:aa23a25ad17a63b5c2f06afcfb870cd7
-https://servertvhub.site/jiotv+/mpd.php?id=772
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="774" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png",CVR Health
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=f9dc8edc067b5090bb9eba3749e7adaf:1027c4fd3486115fb06e7650dd4c7cc6
-https://servertvhub.site/jiotv+/mpd.php?id=774
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="775" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png",Vanitha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e6d2c1fcac2252d38c49f2b6fbc4bd71:7e1ef6a1476633c63fae88e9732f8193
-https://servertvhub.site/jiotv+/mpd.php?id=775
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="776" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png",Bhakti TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5f395a634dec56aea8e7ef9f088e8e43:f799f108446f372391f020502a419c23
-https://servertvhub.site/jiotv+/mpd.php?id=776
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="777" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png",Aradhana TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=86cb0ca747d257508a3d483fc383689e:e9ae7225de234cfe4b029087ef216b18
-https://servertvhub.site/jiotv+/mpd.php?id=777
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="784" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png",CVR News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba2330b2dd5657ba9c314abf9485a4eb:e7cc7c86a6d2cef81944d5c532ca1020
-https://servertvhub.site/jiotv+/mpd.php?id=784
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="790" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png",I News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3d5267c4b44a58318a1e58dc21ab31ba:6850fe178bd1f4f25317a17031a0ddd2
-https://servertvhub.site/jiotv+/mpd.php?id=790
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="832" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png",10 TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1edbcf52713c5dcaa36bd2d055c40076:6677984bdf8e69590f66d93c37e33c5d
-https://servertvhub.site/jiotv+/mpd.php?id=832
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="874" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/SonyYAYTel.png",Sony Yay Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=af022a63d90353d9974d5cc15ce709e1:0db40153e9e2fc30e3949101c87d2ecb
-https://servertvhub.site/jiotv+/mpd.php?id=874
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="897" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Sun Gemini HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0d0317b57c045842a700483a46f1212e:cd9f07a43e89b32bf3af1bfc7e6c84b2
-https://servertvhub.site/jiotv+/mpd.php?id=897
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="898" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",Sun Gemini Music HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=548c049108f95c3b81ea4befee5a3aae:5d3e71b422b7cc2f782c87f600e5a5b4
-https://servertvhub.site/jiotv+/mpd.php?id=898
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="899" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",Sun Gemini Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e166773b30c55dd38872ca4d62104729:b9bc45e3b1e9fa91ad36243588f80c9e
-https://servertvhub.site/jiotv+/mpd.php?id=899
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="934" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png",Divya Vani
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=306e2175933f5a76ae64f854a04e4276:1bc3bf7a06fc00408423ba8c4ccd7e11
-https://servertvhub.site/jiotv+/mpd.php?id=934
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="955" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png",Hindu Dharmam
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=80bdda5fab99584084bd3bb32220bfe6:5b98c5ba738ca0c4d6e7426a3284ab01
-https://servertvhub.site/jiotv+/mpd.php?id=955
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="977" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png",Calvary
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5a1365ec11ce51e0b5fad16a68c9416b:a11f3a77dd21949db09b26264f75fee3
-https://servertvhub.site/jiotv+/mpd.php?id=977
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1080" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CNHDTelugu.png",Cartoon Network HD+ Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=dfc915acb96f52e780f1d10e641a68ed:55f3cc761f9590761ee2b829be86cd45
-https://servertvhub.site/jiotv+/mpd.php?id=1080
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1111" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png",Maa Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-https://servertvhub.site/jiotv+/mpd.php?id=1111
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1112" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",Maa HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c94a85da7e44563f8f3a687b5bef641c:445450834250887830adbde7c75caa2b
-https://servertvhub.site/jiotv+/mpd.php?id=1112
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1129" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Maa Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=d66e0a9cac2853119c87b37d5dd7d25d:4449938d983c27cc7e154ba51260aa24
-https://servertvhub.site/jiotv+/mpd.php?id=1129
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1137" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Maa Gold
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=59060fae4daf542b9b0dd6a361b62b95:4f4c689aaeb72b0f31e531215a139726
-https://servertvhub.site/jiotv+/mpd.php?id=1137
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1138" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png",Star Maa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=null:null
-https://servertvhub.site/jiotv+/mpd.php?id=1138
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1242" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png",Sonic Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c5f797fac3ce566c990a2057c99a81c2:a65755a4676a6c2e9d803d5611954b26
-https://servertvhub.site/jiotv+/mpd.php?id=1242
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1254" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png",Aastha Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=5d2a4af8cbcd54d390f8207481716fb5:dd17f31ffe7c3a710b6909fb959388ab
-https://servertvhub.site/jiotv+/mpd.php?id=1254
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1274" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png",Studio One
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e7904ddc11f05aecbb43f71862f0d590:6ff13abf6aa9c460a30b420ad4d67f59
-https://servertvhub.site/jiotv+/mpd.php?id=1274
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1354" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png",Zee Telugu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=2b4d311b26fc558b9374e36156b42b0a:dd0545885892d99fa42c120198faaa94
-https://servertvhub.site/jiotv+/mpd.php?id=1354
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1363" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png",Zee Cinemalu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=3fa59e199f7352d69e194a23525b5ec2:bd1eaea91897258b3068bb81f1c9011c
-https://servertvhub.site/jiotv+/mpd.php?id=1363
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1799" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png",Studio Yuva Alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=cbe465730345588aa0c342817141a045:967ee96e00b22453af8068b2eb862104
-https://servertvhub.site/jiotv+/mpd.php?id=1799
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1883" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",Pogo Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=e00e2372e66056d99642254b92bcf53e:70dc00e600e4a4c16afc0148ad2e8881
-https://servertvhub.site/jiotv+/mpd.php?id=1883
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1975" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png",PMC Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=12259a16ceda552e8f14a2c5e275ec1b:d38be019d871dca35215d7557c3bb39a
-https://servertvhub.site/jiotv+/mpd.php?id=1975
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="2187" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swatantra_News.png",Swatantra News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=c7efaca8a66f513b950ff6883815631f:8841ce239ff0be33e0ff2fe68f69c640
-https://servertvhub.site/jiotv+/mpd.php?id=2187
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="2436" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_9_News.png",Prime 9 News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=954ecbf5935b5f42b62d75af8b475ab1:ee5a3f735af98df545d9a9fb83e8b109
-https://servertvhub.site/jiotv+/mpd.php?id=2436
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="2783" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_TV.png",Big TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1865e81216fd566192ca2b7b98208472:ec4599ab3fe6b2c10a82cebe5f135794
-https://servertvhub.site/jiotv+/mpd.php?id=2783
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="2862" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mahaa_News.png",Mahaa News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=0cf416bfeee857118884223a03a59ca6:06ddf5f05a494e9334262a62ae6586ee
-https://servertvhub.site/jiotv+/mpd.php?id=2862
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="2932" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/99TV.png",99 TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=419949389e30501ca5abbd5fed2ea4d1:20cc55e037b7af932720f5c726c67343
-https://servertvhub.site/jiotv+/mpd.php?id=2932
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="3018" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/News_360.png",News 360
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a99d3094d8ee5a018288b30fe7448803:0727f233904faa7cd4f6e93eaa147b99
-https://servertvhub.site/jiotv+/mpd.php?id=3018
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="3031" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu_News.png",Zee Telugu News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=a6017065c00659f58327a6d99d3415f7:7a35b9ab8d736aaa99cb168485330979
-https://servertvhub.site/jiotv+/mpd.php?id=3031
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="3087" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_TV_Telugu.png",Sai TV Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=ba23411b12da5dc3896c6048d468c53c:522de51c74e7ffcb855ed426aa232cb9
-https://servertvhub.site/jiotv+/mpd.php?id=3087
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="3176" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Telugu_Naaptol.png",Telugu Naaptol
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=1f28e392a86957f594c05fe8cedff4b0:9067d915c3c49e866d7cd139868f8084
-https://servertvhub.site/jiotv+/mpd.php?id=3176
-#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="3447" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryKidsTel.png",Discovery Kids Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=38bded57666354cc923aa6cb1a297843:969e6ee46248a3b6fe704e528f20953d
-https://servertvhub.site/jiotv+/mpd.php?id=3447
+#EXTM3U url-tvg="http://solapuristreams.iptv18.space/xmltv.php?username=app&password=developer"
+#EXTINF:-1 group-title="TELUGU" tvg-id="starmaahd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",STAR MAA (4K).
+http://solapuristreams.iptv18.space/live/app/developer/98886.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="zeeteluguhd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",ZEE TELUGU (4K).
+http://solapuristreams.iptv18.space/live/app/developer/98894.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="starmaamovieshd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",STAR MAA MOVIE (4K).
+http://solapuristreams.iptv18.space/live/app/developer/98887.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="geminitvhd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",GEMINI (4K).
+http://solapuristreams.iptv18.space/live/app/developer/98892.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="zeecinemaluhd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",ZEE CINEMALU (4K).
+http://solapuristreams.iptv18.space/live/app/developer/98896.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="etvhd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",ETV (4K)
+http://solapuristreams.iptv18.space/live/app/developer/98885.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="ts1341" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",ETV Cinema (4K)
+http://solapuristreams.iptv18.space/live/app/developer/9045.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="geminimovieshd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",GEMINI MOVIE (4K)
+http://solapuristreams.iptv18.space/live/app/developer/23797.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="geminimusic.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",GEMINI MUSIC (4K)
+http://solapuristreams.iptv18.space/live/app/developer/23796.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="starmaahd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",STAR-MAA (FHD)
+http://solapuristreams.iptv18.space/live/app/developer/23313.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="zeeteluguhd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png",ZEE-TELUGU (FHD)
+http://solapuristreams.iptv18.space/live/app/developer/23316.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="etvhd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",ETV (FHD)
+http://solapuristreams.iptv18.space/live/app/developer/23312.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="starmaamovieshd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",STAR-MAA-MOVIE (FHD)
+http://solapuristreams.iptv18.space/live/app/developer/23314.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="zeecinemaluhd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png",ZEE-CINEMALU (FHD)
+http://solapuristreams.iptv18.space/live/app/developer/23317.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="geminitvhd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",GEMINI (FHD)
+http://solapuristreams.iptv18.space/live/app/developer/23315.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="geminitvhd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Gemini_TV_HD
+http://solapuristreams.iptv18.space/live/app/developer/214.ts
+#EXTINF:-1 group-title="TELUGU" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",Gemini_Movies_HD
+http://solapuristreams.iptv18.space/live/app/developer/212.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="ts363" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",Gemini_Music_HD
+http://solapuristreams.iptv18.space/live/app/developer/213.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="etvplus.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus_HD.png",ETV Plus HD
+http://solapuristreams.iptv18.space/live/app/developer/242.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="zeeteluguhd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png",Zee Telugu HD
+http://solapuristreams.iptv18.space/live/app/developer/1605.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="zeecinemaindiahd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",STAR MAA TV HD
+http://solapuristreams.iptv18.space/live/app/developer/168.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="ts957" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",STAR MAA MOVIES HD
+http://solapuristreams.iptv18.space/live/app/developer/9015.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="ts840" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Star Maa Music
+http://solapuristreams.iptv18.space/live/app/developer/57772.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="ts954" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",STAR MAA GOLD
+http://solapuristreams.iptv18.space/live/app/developer/9043.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="ts636" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png",Zee Cinemalu HD
+http://solapuristreams.iptv18.space/live/app/developer/9016.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="etvhd.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",Etv HD
+http://solapuristreams.iptv18.space/live/app/developer/9017.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="ts840" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png",GEMINI COMEDY HD
+http://solapuristreams.iptv18.space/live/app/developer/9042.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="ts361" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png",GEMINI LIFE HD
+http://solapuristreams.iptv18.space/live/app/developer/9044.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="ts268" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png",ETV Life
+http://solapuristreams.iptv18.space/live/app/developer/9052.ts
+#EXTINF:-1 group-title="TELUGU" tvg-id="etvabhiruchi.in" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",ETV Abhiruchi
+http://solapuristreams.iptv18.space/live/app/developer/9053.ts
