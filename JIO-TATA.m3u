@@ -1,4 +1,4 @@
-#EXTM3U x-tvg-url="" playlist-type="RKDYIPTV" url-tvg=""
+#EXTM3U x-tvg-url="https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz"
 #EXTINF:-1 group-title="TELUGU" tvg-id="98886" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Telugu: STAR-MAA (4K).
 http://techtalks.uk:8080/live/zHGUQfwWU2/imperfect3cabinet/98886.ts?RKDYIPTV&token=rkdyiptv
 #EXTINF:-1 group-title="TELUGU" tvg-id="98894" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Telugu: ZEE-TELUGU (4K).
