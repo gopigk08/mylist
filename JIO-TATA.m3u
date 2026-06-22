@@ -1,149 +1,473 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/mitthu786/tvepg/main/tataplay/epg.xml" x-tvg-url="https://avkb.short.gy/epg.xml.gz"
-#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="6082" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6082.png",GEMINI MUSIC USA
-https://ksr.indevs.in/m3u/?stream=6082
-#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="6085" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6085.png",GEMINI MUSIC BK
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="zeecinemaindiahd.in" tvg-logo="https://i.ibb.co/yn807cB/download-21.png",Telugu: STAR MAA TV HD
+http://skyfilex.fun:80/live/01939393848/84919293949/168.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-logo="https://i.ibb.co/VqQ1bBm/download-3.png",Telugu: Gemini_Movies_HD
+http://skyfilex.fun:80/live/01939393848/84919293949/212.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="ts363" tvg-logo="https://i.ibb.co/vkJr9Cn/download-1-1.png",Telugu: Gemini_Music_HD
+http://skyfilex.fun:80/live/01939393848/84919293949/213.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="geminitvhd.in" tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png",Telugu: Gemini_TV_HD
+http://skyfilex.fun:80/live/01939393848/84919293949/214.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="etvplus.in" tvg-logo="https://i.ibb.co/7VdZqgH/download-2-2.png",Telugu: ETV Plus
+http://skyfilex.fun:80/live/01939393848/84919293949/242.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="zeeteluguhd.in" tvg-logo="https://i.ibb.co/9336p4j/download.png",Telugu: Zee Telugu HD
+http://skyfilex.fun:80/live/01939393848/84919293949/1605.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="ts957" tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png",Telugu: STAR MAA MOVIES HD
+http://skyfilex.fun:80/live/01939393848/84919293949/9015.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="ts636" tvg-logo="https://i.ibb.co/jhL5mtq/download.png",Telugu: Zee Cinemalu HD
+http://skyfilex.fun:80/live/01939393848/84919293949/9016.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="etvhd.in" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png",Telugu: Etv HD
+http://skyfilex.fun:80/live/01939393848/84919293949/9017.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="ts840" tvg-logo="https://i.ibb.co/CQhttzT/download-25.png",Telugu: GEMINI COMEDY HD
+http://skyfilex.fun:80/live/01939393848/84919293949/9042.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="ts954",Telugu: STAR MAA GOLD
+http://skyfilex.fun:80/live/01939393848/84919293949/9043.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="ts361" tvg-logo="https://i.ibb.co/vXYWqvD/download-24.png",Telugu: GEMINI LIFE HD
+http://skyfilex.fun:80/live/01939393848/84919293949/9044.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="ts1341" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Telugu: ETV Cinema (4K)
+http://skyfilex.fun:80/live/01939393848/84919293949/9045.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="ts268",Telugu: ETV Life
+http://skyfilex.fun:80/live/01939393848/84919293949/9052.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="etvabhiruchi.in" tvg-logo="https://i.ibb.co/nr1Kz3J/download-5.png",Telugu: ETV Abhiruchi
+http://skyfilex.fun:80/live/01939393848/84919293949/9053.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="etvhd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Telugu: ETV (4K).
+http://skyfilex.fun:80/live/01939393848/84919293949/98885.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="starmaahd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Telugu: STAR-MAA (4K).
+http://skyfilex.fun:80/live/01939393848/84919293949/98886.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="starmaamovieshd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Telugu: STAR-MAA-MOVIE (4K).
+http://skyfilex.fun:80/live/01939393848/84919293949/98887.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="geminitvhd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Telugu: GEMINI (4K).
+http://skyfilex.fun:80/live/01939393848/84919293949/98892.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="zeeteluguhd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Telugu: ZEE-TELUGU (4K).
+http://skyfilex.fun:80/live/01939393848/84919293949/98894.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="zeecinemaluhd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Telugu: ZEE-CINEMALU (4K).
+http://skyfilex.fun:80/live/01939393848/84919293949/98896.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="etvhd.in" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png",Telugu: ETV (FHD)
+http://skyfilex.fun:80/live/01939393848/84919293949/23312.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="starmaahd.in" tvg-logo="https://i.ibb.co/yn807cB/download-21.png",Telugu: STAR-MAA (FHD)
+http://skyfilex.fun:80/live/01939393848/84919293949/23313.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="starmaamovieshd.in" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/4/4d/Star_Maa_Movies.jpg/revision/latest/scale-to-width-down/340?cb=20180531131824",Telugu: STAR-MAA-MOVIE (FHD)
+http://skyfilex.fun:80/live/01939393848/84919293949/23314.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="geminitvhd.in" tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png",Telugu: GEMINI (FHD)
+http://skyfilex.fun:80/live/01939393848/84919293949/23315.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="zeeteluguhd.in" tvg-logo="https://i.ibb.co/9336p4j/download.png",Telugu: ZEE-TELUGU (FHD)
+http://skyfilex.fun:80/live/01939393848/84919293949/23316.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="zeecinemaluhd.in" tvg-logo="https://i.ibb.co/jhL5mtq/download.png",Telugu: ZEE-CINEMALU (FHD)
+http://skyfilex.fun:80/live/01939393848/84919293949/23317.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="geminimusic.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Telugu: GEMINI MUSIC (4K)
+http://skyfilex.fun:80/live/01939393848/84919293949/23796.ts
+#EXTINF:-1 group-title="SS ★ TELUGU" tvg-id="geminimovieshd.in" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",Telugu: GEMINI MOVIE (4K)
+http://skyfilex.fun:80/live/01939393848/84919293949/23797.ts
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="413" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemalu.png",Zee Cinemalu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e6cbcc37865353abb23766638ca5d405:fcdddffe9027fbf34c3bdb5f91cc5847
+https://servertvhub.site/jiotv+/mpd.php?id=413
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="638" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTelugu.png",Zee Telugu
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=fc160005672554dab9882d0092e0635d:efada6d2baa8b99416f6431e0b0dc19d
+https://servertvhub.site/jiotv+/mpd.php?id=638
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="684" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png",Sun Gemini Life
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=89887cc3539757c4802bb3f4b1bed42f:9d02cba14dd041059c40bf3070d7f32e
+https://servertvhub.site/jiotv+/mpd.php?id=684
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="729" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Sun Gemini Comedy
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a39a9699a2e354ce9312d2933d8bf83c:4bc2a11372933c408bc27b11d832d836
+https://servertvhub.site/jiotv+/mpd.php?id=729
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="760" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",Maa Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=a78f7295d78453c69f9849d40095be2d:a9d4d809e74edc7625c4fe7ffc9e4647
+https://servertvhub.site/jiotv+/mpd.php?id=760
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="897" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Sun Gemini HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0d0317b57c045842a700483a46f1212e:cd9f07a43e89b32bf3af1bfc7e6c84b2
+https://servertvhub.site/jiotv+/mpd.php?id=897
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="898" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",Sun Gemini Music HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=548c049108f95c3b81ea4befee5a3aae:5d3e71b422b7cc2f782c87f600e5a5b4
+https://servertvhub.site/jiotv+/mpd.php?id=898
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="899" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",Sun Gemini Movies HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e166773b30c55dd38872ca4d62104729:b9bc45e3b1e9fa91ad36243588f80c9e
+https://servertvhub.site/jiotv+/mpd.php?id=899
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1111" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png",Maa Movies
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null:null
+https://servertvhub.site/jiotv+/mpd.php?id=1111
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1112" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",Maa HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=c94a85da7e44563f8f3a687b5bef641c:445450834250887830adbde7c75caa2b
+https://servertvhub.site/jiotv+/mpd.php?id=1112
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1129" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Maa Music
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d66e0a9cac2853119c87b37d5dd7d25d:4449938d983c27cc7e154ba51260aa24
+https://servertvhub.site/jiotv+/mpd.php?id=1129
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1137" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Maa Gold
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=59060fae4daf542b9b0dd6a361b62b95:4f4c689aaeb72b0f31e531215a139726
+https://servertvhub.site/jiotv+/mpd.php?id=1137
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1138" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png",Star Maa
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=null:null
+https://servertvhub.site/jiotv+/mpd.php?id=1138
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1354" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png",Zee Telugu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=2b4d311b26fc558b9374e36156b42b0a:dd0545885892d99fa42c120198faaa94
+https://servertvhub.site/jiotv+/mpd.php?id=1354
+#EXTINF:-1 group-title="(JTV+) TELUGU" tvg-id="1363" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png",Zee Cinemalu HD
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=3fa59e199f7352d69e194a23525b5ec2:bd1eaea91897258b3068bb81f1c9011c
+https://servertvhub.site/jiotv+/mpd.php?id=1363
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6053" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6053.png",STAR MAA HD
+https://ksr.indevs.in/m3u/?stream=6053
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6054" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6054.png",STAR MAA
+https://ksr.indevs.in/m3u/?stream=6054
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6052" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6052.png",STAR MAA UK
+https://ksr.indevs.in/m3u/?stream=6052
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6051" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6051.png",STAR MAA USA
+https://ksr.indevs.in/m3u/?stream=6051
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6059" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6059.png",STAR MAA MOVIES UK
+https://ksr.indevs.in/m3u/?stream=6059
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6061" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6061.png",STAR MAA MOVIES.
+https://ksr.indevs.in/m3u/?stream=6061
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6060" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6060.png",STAR MAA MOVIES HD
+https://ksr.indevs.in/m3u/?stream=6060
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6058" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6058.png",STAR MAA MOVIES USA
+https://ksr.indevs.in/m3u/?stream=6058
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6055" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6055.png",STAR MAA GOLD USA
+https://ksr.indevs.in/m3u/?stream=6055
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6057" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6057.png",STAR MAA GOLD HD
+https://ksr.indevs.in/m3u/?stream=6057
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6056" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6056.png",STAR MAA GOLD UK
+https://ksr.indevs.in/m3u/?stream=6056
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6091" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6091.png",ETV HD
+https://ksr.indevs.in/m3u/?stream=6091
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6092" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6092.png",ETV.
+https://ksr.indevs.in/m3u/?stream=6092
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6089" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6089.png",ETV USA
+https://ksr.indevs.in/m3u/?stream=6089
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6090" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6090.png",ETV UK
+https://ksr.indevs.in/m3u/?stream=6090
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6103" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6103.png",ETV PLUS HD
+https://ksr.indevs.in/m3u/?stream=6103
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6104" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6104.png",ETV PLUS.
+https://ksr.indevs.in/m3u/?stream=6104
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6102" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6102.png",ETV PLUS UK
+https://ksr.indevs.in/m3u/?stream=6102
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6101" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6101.png",ETV PLUS USA
+https://ksr.indevs.in/m3u/?stream=6101
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6099" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6099.png",ETV CINEMA HD
+https://ksr.indevs.in/m3u/?stream=6099
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6098" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6098.png",ETV CINEMA UK
+https://ksr.indevs.in/m3u/?stream=6098
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6097" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6097.png",ETV CINEMA USA
+https://ksr.indevs.in/m3u/?stream=6097
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6095" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6095.png",ETV LIFE HD
+https://ksr.indevs.in/m3u/?stream=6095
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6096" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6096.png",ETV LIFE
+https://ksr.indevs.in/m3u/?stream=6096
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6094" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6094.png",ETV LIFE UK
+https://ksr.indevs.in/m3u/?stream=6094
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6093" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6093.png",ETV LIFE USA
+https://ksr.indevs.in/m3u/?stream=6093
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9219" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9208.jpg",ETV ABHIRUCHI
+https://ksr.indevs.in/m3u/?stream=9219
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6100" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6100.png",ETV CINEMA
+https://ksr.indevs.in/m3u/?stream=6100
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6068" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6068.png",GEMINI TV HD
+https://ksr.indevs.in/m3u/?stream=6068
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6069" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6069.png",GEMINI TV BK
+https://ksr.indevs.in/m3u/?stream=6069
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6066" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6066.png",GEMINI TV USA
+https://ksr.indevs.in/m3u/?stream=6066
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6067" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6067.png",GEMINI TV UK
+https://ksr.indevs.in/m3u/?stream=6067
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6080" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6080.png",GEMINI MOVIES HD
+https://ksr.indevs.in/m3u/?stream=6080
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6081" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6081.png",GEMINI MOVIES BK
+https://ksr.indevs.in/m3u/?stream=6081
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6078" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6078.png",GEMINI MOVIES USA
+https://ksr.indevs.in/m3u/?stream=6078
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6079" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6079.png",GEMINI MOVIES UK
+https://ksr.indevs.in/m3u/?stream=6079
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6076" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6076.png",GEMINI COMEDY HD
+https://ksr.indevs.in/m3u/?stream=6076
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6077" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6077.png",GEMINI COMEDY
+https://ksr.indevs.in/m3u/?stream=6077
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6074" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6074.png",GEMINI COMEDY USA
+https://ksr.indevs.in/m3u/?stream=6074
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6075" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6075.png",GEMINI COMEDY UK
+https://ksr.indevs.in/m3u/?stream=6075
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6072" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6072.png",GEMINI LIFE HD
+https://ksr.indevs.in/m3u/?stream=6072
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6073" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6073.png",GEMIN LIFE BK
+https://ksr.indevs.in/m3u/?stream=6073
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6071" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6071.png",GEMINI LIFE UK
+https://ksr.indevs.in/m3u/?stream=6071
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6070" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6070.png",GEMINI LIFE USA
+https://ksr.indevs.in/m3u/?stream=6070
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6064" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6064.png",ZEE TELUGU HD
+https://ksr.indevs.in/m3u/?stream=6064
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6065" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6065.png",ZEE TELUGU BK
+https://ksr.indevs.in/m3u/?stream=6065
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6062" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6062.png",ZEE TELUGU USA
+https://ksr.indevs.in/m3u/?stream=6062
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6087" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6087.png",ZEE CINEMALU HD
+https://ksr.indevs.in/m3u/?stream=6087
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6088" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6088.png",ZEE CINEMALU BK
+https://ksr.indevs.in/m3u/?stream=6088
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6086" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6086.png",ZEE CINEMALU USA
+https://ksr.indevs.in/m3u/?stream=6086
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9224" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9213.jpg",MAHA MOVIES TEL
+https://ksr.indevs.in/m3u/?stream=9224
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9234" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9223.png",CARTOON NETWORK TEL
+https://ksr.indevs.in/m3u/?stream=9234
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6027" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6027.jpg",KUSHI TV HD
+https://ksr.indevs.in/m3u/?stream=6027
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9233" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9222.png",NICK
+https://ksr.indevs.in/m3u/?stream=9233
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6106" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6106.jpeg",SONY YAY TELUGU
+https://ksr.indevs.in/m3u/?stream=6106
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9228" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9217.jpg",STUDIO YUVA ALPHA
+https://ksr.indevs.in/m3u/?stream=9228
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9226" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9215.png",SONIC TELUGU
+https://ksr.indevs.in/m3u/?stream=9226
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9222" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9211.jpg",HISTORY TV 18 HD TELUGU
+https://ksr.indevs.in/m3u/?stream=9222
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6107" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6107.jpeg",HISTORY 18 TELUGU HD
+https://ksr.indevs.in/m3u/?stream=6107
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9218" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9207.jpg",DISCOVERY CHANNEL TELUGU
+https://ksr.indevs.in/m3u/?stream=9218
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6111" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6111.png",DISCOVERY WORLD TELUGU
+https://ksr.indevs.in/m3u/?stream=6111
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6112" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6112.jpeg",SONY BBC EARTH TELUGU
+https://ksr.indevs.in/m3u/?stream=6112
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6020" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6020.png",AASTHA TELUGU
+https://ksr.indevs.in/m3u/?stream=6020
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9217" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9206.jpg",ARADANA TV
+https://ksr.indevs.in/m3u/?stream=9217
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6025" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6025.jpg",SAKSHI TV
+https://ksr.indevs.in/m3u/?stream=6025
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6024" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6024.jpg",HINDI DHARMAM
+https://ksr.indevs.in/m3u/?stream=6024
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9227" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9216.jpg",SRI VENKATESHWAR BHAKTI
+https://ksr.indevs.in/m3u/?stream=9227
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9225" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9214.jpg",OM CVR
+https://ksr.indevs.in/m3u/?stream=9225
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9221" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9210.jpg",HINDU DHARMAM
+https://ksr.indevs.in/m3u/?stream=9221
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6022" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6022.png",CALVARY TV
+https://ksr.indevs.in/m3u/?stream=6022
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6023" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6023.png",DIVYA VANI TELUGU
+https://ksr.indevs.in/m3u/?stream=6023
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6026" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6026.jpg",DD SAPTAGIRI
+https://ksr.indevs.in/m3u/?stream=6026
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9223" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9212.jpg",HM TV
+https://ksr.indevs.in/m3u/?stream=9223
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9213" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9202.jpg",CVR HEALTH
+https://ksr.indevs.in/m3u/?stream=9213
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9232" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9221.png",PMC
+https://ksr.indevs.in/m3u/?stream=9232
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9236" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9225.png",BIG TV
+https://ksr.indevs.in/m3u/?stream=9236
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9230" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9219.png",SUBHAVARTHA TV
+https://ksr.indevs.in/m3u/?stream=9230
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="474967" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71641.png",VANITHA TV
+https://ksr.indevs.in/m3u/?stream=474967
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="474964" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71638.jpg",MANA TV
+https://ksr.indevs.in/m3u/?stream=474964
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6038" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6038.png",ETV TELANGANA
+https://ksr.indevs.in/m3u/?stream=6038
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9235" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9224.jpg",99 TV
+https://ksr.indevs.in/m3u/?stream=9235
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="474962" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71636.png",CN HD PLUS
+https://ksr.indevs.in/m3u/?stream=474962
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9214" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9203.jpg",SWATANTRA NEWS
+https://ksr.indevs.in/m3u/?stream=9214
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6033" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6033.jpg",CVR OM
+https://ksr.indevs.in/m3u/?stream=6033
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="9216" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/9205.jpg",ABN ANDHRA JYOTHI
+https://ksr.indevs.in/m3u/?stream=9216
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6043" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6043.png",RAJ NEWS TELUGU
+https://ksr.indevs.in/m3u/?stream=6043
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6039" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6039.png",ETV ANDHRA PRADESH
+https://ksr.indevs.in/m3u/?stream=6039
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6036" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6036.jpg",CVR NEWS
+https://ksr.indevs.in/m3u/?stream=6036
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6047" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6047.jpeg",CVR ENGLISH
+https://ksr.indevs.in/m3u/?stream=6047
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6044" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6044.jpg",T NEWS
+https://ksr.indevs.in/m3u/?stream=6044
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="474963" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71637.jpg",I NEWS
+https://ksr.indevs.in/m3u/?stream=474963
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6037" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6037.png",INEWS
+https://ksr.indevs.in/m3u/?stream=6037
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6035" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6035.jpg",10 TV NEWS HD
+https://ksr.indevs.in/m3u/?stream=6035
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6031" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6031.png",SVBC
+https://ksr.indevs.in/m3u/?stream=6031
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6040" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6040.jpg",MAHAA NEWS
+https://ksr.indevs.in/m3u/?stream=6040
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6048" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6048.jpg",V6 NEWS
+https://ksr.indevs.in/m3u/?stream=6048
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6042" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6042.png",NTV NEWS TELUGU
+https://ksr.indevs.in/m3u/?stream=6042
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6045" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6045.jpg",TV5 NEWS
+https://ksr.indevs.in/m3u/?stream=6045
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6034" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6034.jpg",ABN NEWS HD
+https://ksr.indevs.in/m3u/?stream=6034
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6046" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6046.png",TV9 TELUGU NEWS
+https://ksr.indevs.in/m3u/?stream=6046
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="475471" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72142.jpeg",SVBC HD
+https://ksr.indevs.in/m3u/?stream=475471
+#EXTINF:-1 group-title="(KSR) TELUGU | TV" tvg-id="6021" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6021.jpg",BHAKTI TV
+https://ksr.indevs.in/m3u/?stream=6021
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MUSIC" tvg-id="6085" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6085.png",GEMINI MUSIC BK
 https://ksr.indevs.in/m3u/?stream=6085
-#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="6083" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6083.png",GEMINI MUSIC UK
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MUSIC" tvg-id="6084" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6084.png",GEMINI MUSIC HD
+https://ksr.indevs.in/m3u/?stream=6084
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MUSIC" tvg-id="6083" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6083.png",GEMINI MUSIC UK
 https://ksr.indevs.in/m3u/?stream=6083
-#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="6049" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6049.jpeg",MAA MUSIC
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MUSIC" tvg-id="6082" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6082.png",GEMINI MUSIC USA
+https://ksr.indevs.in/m3u/?stream=6082
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MUSIC" tvg-id="6049" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/6049.jpeg",MAA MUSIC
 https://ksr.indevs.in/m3u/?stream=6049
-#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="474965" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71639.jpg",RAJ MUSIX
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MUSIC" tvg-id="474965" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71639.jpg",RAJ MUSIX
 https://ksr.indevs.in/m3u/?stream=474965
-#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="481202" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77559.jpg",TELUGU LATEST SONGS (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MUSIC" tvg-id="481202" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77559.jpg",TELUGU LATEST SONGS (4K)
 https://ksr.indevs.in/m3u/?stream=481202
-#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="481203" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77560.jpg",TELUGU TOP TRENDING SONGS (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MUSIC" tvg-id="481203" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77560.jpg",TELUGU TOP TRENDING SONGS (4K)
 https://ksr.indevs.in/m3u/?stream=481203
-#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="481204" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77561.jpg",TELUGU MIX SONGS (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MUSIC" tvg-id="481204" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77561.jpg",TELUGU MIX SONGS (4K)
 https://ksr.indevs.in/m3u/?stream=481204
-#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="481317" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77673.jpg",TELUGU CLASSIC SONGS (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MUSIC" tvg-id="481317" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77673.jpg",TELUGU CLASSIC SONGS (4K)
 https://ksr.indevs.in/m3u/?stream=481317
-#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="481318" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77674.jpg",TELUGU ROMANTIC SONGS (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MUSIC" tvg-id="481318" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77674.jpg",TELUGU ROMANTIC SONGS (4K)
 https://ksr.indevs.in/m3u/?stream=481318
-#EXTINF:-1 group-title="TELUGU | 24X7 MUSIC" tvg-id="481320" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77676.jpg",TELUGU HIT SONGS (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MUSIC" tvg-id="481320" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77676.jpg",TELUGU HIT SONGS (4K)
 https://ksr.indevs.in/m3u/?stream=481320
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="479939" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/76307.jpeg",TELUGU UPCOMING MOVIES (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="479939" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/76307.jpeg",TELUGU UPCOMING MOVIES (4K)
 https://ksr.indevs.in/m3u/?stream=479939
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="475390" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72063.jpeg",TELUGU MOVIES 2025 (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="475390" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72063.jpeg",TELUGU MOVIES 2025 (4K)
 https://ksr.indevs.in/m3u/?stream=475390
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="475391" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72064.jpeg",TELUGU MOVIES 2024 (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="475391" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72064.jpeg",TELUGU MOVIES 2024 (4K)
 https://ksr.indevs.in/m3u/?stream=475391
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="475392" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72065.jpeg",TELUGU MOVIES 2020 - 2023 (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="475392" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72065.jpeg",TELUGU MOVIES 2020 - 2023 (4K)
 https://ksr.indevs.in/m3u/?stream=475392
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="475393" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72066.jpeg",TELUGU BOX OFFICE (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="475393" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72066.jpeg",TELUGU BOX OFFICE (4K)
 https://ksr.indevs.in/m3u/?stream=475393
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="475394" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72067.jpeg",TELUGU OLD COLLECTION (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="475394" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/72067.jpeg",TELUGU OLD COLLECTION (4K)
 https://ksr.indevs.in/m3u/?stream=475394
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474909" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71583.jpeg",TELUGU ALL TIME HIT MOVIES (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="474909" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71583.jpeg",TELUGU ALL TIME HIT MOVIES (4K)
 https://ksr.indevs.in/m3u/?stream=474909
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474910" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71584.jpeg",TELUGU DUBBED MOVIES (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="474910" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71584.jpeg",TELUGU DUBBED MOVIES (4K)
 https://ksr.indevs.in/m3u/?stream=474910
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474911" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71585.jpeg",TELUGU ACTION MOVIES (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="474911" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71585.jpeg",TELUGU ACTION MOVIES (4K)
 https://ksr.indevs.in/m3u/?stream=474911
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474912" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71586.jpeg",TELUGU COMEDY MOVIES (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="474912" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71586.jpeg",TELUGU COMEDY MOVIES (4K)
 https://ksr.indevs.in/m3u/?stream=474912
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474913" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71587.jpeg",TELUGU CRIME MOVIES (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="474913" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71587.jpeg",TELUGU CRIME MOVIES (4K)
 https://ksr.indevs.in/m3u/?stream=474913
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474914" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71588.jpeg",TELUGU ROMANTIC MOVIES (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="474914" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71588.jpeg",TELUGU ROMANTIC MOVIES (4K)
 https://ksr.indevs.in/m3u/?stream=474914
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474915" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71589.jpeg",TELUGU SUSPENCEFUL MOVIES (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="474915" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71589.jpeg",TELUGU SUSPENCEFUL MOVIES (4K)
 https://ksr.indevs.in/m3u/?stream=474915
-#EXTINF:-1 group-title="TELUGU | 24X7 MOVIES" tvg-id="474916" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71590.jpeg",TELUGU THRILLERÂ MOVIESÂ (4K)
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 MOVIES" tvg-id="474916" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/71590.jpeg",TELUGU THRILLERÂ MOVIESÂ (4K)
 https://ksr.indevs.in/m3u/?stream=474916
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481105" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77462.jpeg",ACTOR | ALLU ARJUN (4K)
-https://ksr.indevs.in/m3u/?stream=481105
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481106" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77463.jpeg",ACTOR | PRABHAS (4K)
-https://ksr.indevs.in/m3u/?stream=481106
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481107" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77464.jpg",ACTOR | MAHESH BABU (4K)
-https://ksr.indevs.in/m3u/?stream=481107
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481108" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77465.jpg",ACTOR | N T RAMA RAO JR (4K)
-https://ksr.indevs.in/m3u/?stream=481108
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481109" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77466.jpg",ACTOR | RAM CHARAN (4K)
-https://ksr.indevs.in/m3u/?stream=481109
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481110" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77467.jpg",ACTOR | RAVI TEJA (4K)
-https://ksr.indevs.in/m3u/?stream=481110
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481111" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77468.jpg",ACTOR | NAGARJUNA AKKINENI (4K)
-https://ksr.indevs.in/m3u/?stream=481111
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481112" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77469.jpg",ACTOR | VIJAY DEVERAKONDA (4K)
-https://ksr.indevs.in/m3u/?stream=481112
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481113" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77470.jpg",ACTOR | JAGAPATI BABU (4K)
-https://ksr.indevs.in/m3u/?stream=481113
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481114" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77471.jpg",ACTOR | RAJENDRA PRASAD (4K)
-https://ksr.indevs.in/m3u/?stream=481114
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481115" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77472.jpg",ACTOR | NANI (4K)
-https://ksr.indevs.in/m3u/?stream=481115
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481117" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77474.jpg",ACTOR | DAGGUBATI VENKATESH (4K)
-https://ksr.indevs.in/m3u/?stream=481117
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481121" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77478.jpg",ACTOR | RAM POTHINENI (4K)
-https://ksr.indevs.in/m3u/?stream=481121
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481123" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77480.jpg",ACTOR | NITHIIN (4K)
-https://ksr.indevs.in/m3u/?stream=481123
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481116" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77473.jpg",ACTOR | ALLARI NARESH (4K)
-https://ksr.indevs.in/m3u/?stream=481116
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481118" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77475.jpg",ACTOR | SAI DHARAM TEJ (4K)
-https://ksr.indevs.in/m3u/?stream=481118
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481119" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77476.jpg",ACTOR | SAMANTHA RUTH PRABHU (4K)
-https://ksr.indevs.in/m3u/?stream=481119
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481120" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77477.jpg",ACTOR | ADIVI SESH (4K)
-https://ksr.indevs.in/m3u/?stream=481120
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481122" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77479.jpg",ACTOR | BELLAMKONDA SRINIVAS (4K)
-https://ksr.indevs.in/m3u/?stream=481122
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481124" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77481.jpg",ACTOR | CHIRANJEEVI (4K)
-https://ksr.indevs.in/m3u/?stream=481124
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481125" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77482.jpg",ACTOR | GOPICHAND (4K)
-https://ksr.indevs.in/m3u/?stream=481125
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481126" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77483.jpg",ACTOR | NANDAMURI BALAKRISHNA (4K)
-https://ksr.indevs.in/m3u/?stream=481126
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481127" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77484.jpg",ACTOR | NIKHIL SIDDHARTHA (4K)
-https://ksr.indevs.in/m3u/?stream=481127
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481128" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77485.jpg",ACTOR | VARUN TEJ (4K)
-https://ksr.indevs.in/m3u/?stream=481128
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481129" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77486.jpg",ACTOR | VISHWAK SEN (4K)
-https://ksr.indevs.in/m3u/?stream=481129
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481205" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77562.jpg",ACTOR | RANA DAGGUBATI (4K)
-https://ksr.indevs.in/m3u/?stream=481205
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481206" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77563.jpg",ACTOR | AKHIL AKKINENI (4K)
-https://ksr.indevs.in/m3u/?stream=481206
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481207" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77564.jpeg",ACTOR | PAWAN KALYAN (4K)
-https://ksr.indevs.in/m3u/?stream=481207
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481208" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77565.jpg",ACTOR | SHARWANAND (4K)
-https://ksr.indevs.in/m3u/?stream=481208
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481209" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77566.jpeg",ACTOR | SIDHU JONNALAGADDA (4K)
-https://ksr.indevs.in/m3u/?stream=481209
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481210" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77567.jpeg",ACTOR | NAGA SHAURYA (4K)
-https://ksr.indevs.in/m3u/?stream=481210
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481211" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77568.jpg",ACTOR | SUDHEER BABU (4K)
-https://ksr.indevs.in/m3u/?stream=481211
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481212" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77569.jpeg",ACTOR | SUNDEEP KISHAN (4K)
-https://ksr.indevs.in/m3u/?stream=481212
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481213" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77570.jpg",ACTOR | SIDDHARTH (4K)
-https://ksr.indevs.in/m3u/?stream=481213
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481214" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77571.jpeg",ACTOR | TARUN (4K)
-https://ksr.indevs.in/m3u/?stream=481214
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481215" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77572.jpg",ACTOR | NAVDEEP (4K)
-https://ksr.indevs.in/m3u/?stream=481215
-#EXTINF:-1 group-title="TELUGU | 24x7 ACTORS" tvg-id="481216" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77573.jpeg",ACTOR | SRIHARI (4K)
-https://ksr.indevs.in/m3u/?stream=481216
-#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480932" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77293.jpg",4K TELUGU NEW SERIES
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 OTT SERIES" tvg-id="480932" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77293.jpg",4K TELUGU NEW SERIES
 https://ksr.indevs.in/m3u/?stream=480932
-#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480943" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77304.jpg",4K TELUGU TRENDING GUIDE
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 OTT SERIES" tvg-id="480943" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77304.jpg",4K TELUGU TRENDING GUIDE
 https://ksr.indevs.in/m3u/?stream=480943
-#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480933" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77294.jpg",4K TELUGU TRENDING 1
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 OTT SERIES" tvg-id="480933" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77294.jpg",4K TELUGU TRENDING 1
 https://ksr.indevs.in/m3u/?stream=480933
-#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480934" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77295.jpg",4K TELUGU TRENDING 2
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 OTT SERIES" tvg-id="480934" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77295.jpg",4K TELUGU TRENDING 2
 https://ksr.indevs.in/m3u/?stream=480934
-#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480935" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77296.jpg",4K TELUGU TRENDING 3
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 OTT SERIES" tvg-id="480935" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77296.jpg",4K TELUGU TRENDING 3
 https://ksr.indevs.in/m3u/?stream=480935
-#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480936" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77297.jpg",4K TELUGU TRENDING 4
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 OTT SERIES" tvg-id="480936" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77297.jpg",4K TELUGU TRENDING 4
 https://ksr.indevs.in/m3u/?stream=480936
-#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480937" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77298.jpg",4K TELUGU TRENDING 5
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 OTT SERIES" tvg-id="480937" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77298.jpg",4K TELUGU TRENDING 5
 https://ksr.indevs.in/m3u/?stream=480937
-#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480938" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77299.jpg",4K TELUGU TRENDING 6
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 OTT SERIES" tvg-id="480938" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77299.jpg",4K TELUGU TRENDING 6
 https://ksr.indevs.in/m3u/?stream=480938
-#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480939" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77300.jpg",4K TELUGU TRENDING 7
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 OTT SERIES" tvg-id="480939" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77300.jpg",4K TELUGU TRENDING 7
 https://ksr.indevs.in/m3u/?stream=480939
-#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480940" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77301.jpg",4K HINDI OTT TELUGU DUBBED
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 OTT SERIES" tvg-id="480940" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77301.jpg",4K HINDI OTT TELUGU DUBBED
 https://ksr.indevs.in/m3u/?stream=480940
-#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480941" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77302.jpg",4K ENGLISH OTT TELUGU DUBBED
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 OTT SERIES" tvg-id="480941" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77302.jpg",4K ENGLISH OTT TELUGU DUBBED
 https://ksr.indevs.in/m3u/?stream=480941
-#EXTINF:-1 group-title="TELUGU | 24X7 OTT SERIES" tvg-id="480942" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77303.jpg",4K KOREAN OTT TELUGU DUBBED
+#EXTINF:-1 group-title="(KSR) TELUGU | 24X7 OTT SERIES" tvg-id="480942" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77303.jpg",4K KOREAN OTT TELUGU DUBBED
 https://ksr.indevs.in/m3u/?stream=480942
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481105" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77462.jpeg",ACTOR | ALLU ARJUN (4K)
+https://ksr.indevs.in/m3u/?stream=481105
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481106" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77463.jpeg",ACTOR | PRABHAS (4K)
+https://ksr.indevs.in/m3u/?stream=481106
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481107" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77464.jpg",ACTOR | MAHESH BABU (4K)
+https://ksr.indevs.in/m3u/?stream=481107
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481108" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77465.jpg",ACTOR | N T RAMA RAO JR (4K)
+https://ksr.indevs.in/m3u/?stream=481108
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481109" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77466.jpg",ACTOR | RAM CHARAN (4K)
+https://ksr.indevs.in/m3u/?stream=481109
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481110" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77467.jpg",ACTOR | RAVI TEJA (4K)
+https://ksr.indevs.in/m3u/?stream=481110
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481111" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77468.jpg",ACTOR | NAGARJUNA AKKINENI (4K)
+https://ksr.indevs.in/m3u/?stream=481111
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481112" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77469.jpg",ACTOR | VIJAY DEVERAKONDA (4K)
+https://ksr.indevs.in/m3u/?stream=481112
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481113" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77470.jpg",ACTOR | JAGAPATI BABU (4K)
+https://ksr.indevs.in/m3u/?stream=481113
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481114" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77471.jpg",ACTOR | RAJENDRA PRASAD (4K)
+https://ksr.indevs.in/m3u/?stream=481114
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481115" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77472.jpg",ACTOR | NANI (4K)
+https://ksr.indevs.in/m3u/?stream=481115
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481117" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77474.jpg",ACTOR | DAGGUBATI VENKATESH (4K)
+https://ksr.indevs.in/m3u/?stream=481117
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481121" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77478.jpg",ACTOR | RAM POTHINENI (4K)
+https://ksr.indevs.in/m3u/?stream=481121
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481123" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77480.jpg",ACTOR | NITHIIN (4K)
+https://ksr.indevs.in/m3u/?stream=481123
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481116" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77473.jpg",ACTOR | ALLARI NARESH (4K)
+https://ksr.indevs.in/m3u/?stream=481116
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481118" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77475.jpg",ACTOR | SAI DHARAM TEJ (4K)
+https://ksr.indevs.in/m3u/?stream=481118
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481119" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77476.jpg",ACTOR | SAMANTHA RUTH PRABHU (4K)
+https://ksr.indevs.in/m3u/?stream=481119
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481120" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77477.jpg",ACTOR | ADIVI SESH (4K)
+https://ksr.indevs.in/m3u/?stream=481120
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481122" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77479.jpg",ACTOR | BELLAMKONDA SRINIVAS (4K)
+https://ksr.indevs.in/m3u/?stream=481122
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481124" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77481.jpg",ACTOR | CHIRANJEEVI (4K)
+https://ksr.indevs.in/m3u/?stream=481124
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481125" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77482.jpg",ACTOR | GOPICHAND (4K)
+https://ksr.indevs.in/m3u/?stream=481125
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481126" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77483.jpg",ACTOR | NANDAMURI BALAKRISHNA (4K)
+https://ksr.indevs.in/m3u/?stream=481126
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481127" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77484.jpg",ACTOR | NIKHIL SIDDHARTHA (4K)
+https://ksr.indevs.in/m3u/?stream=481127
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481128" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77485.jpg",ACTOR | VARUN TEJ (4K)
+https://ksr.indevs.in/m3u/?stream=481128
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481129" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77486.jpg",ACTOR | VISHWAK SEN (4K)
+https://ksr.indevs.in/m3u/?stream=481129
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481205" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77562.jpg",ACTOR | RANA DAGGUBATI (4K)
+https://ksr.indevs.in/m3u/?stream=481205
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481206" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77563.jpg",ACTOR | AKHIL AKKINENI (4K)
+https://ksr.indevs.in/m3u/?stream=481206
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481207" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77564.jpeg",ACTOR | PAWAN KALYAN (4K)
+https://ksr.indevs.in/m3u/?stream=481207
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481208" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77565.jpg",ACTOR | SHARWANAND (4K)
+https://ksr.indevs.in/m3u/?stream=481208
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481209" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77566.jpeg",ACTOR | SIDHU JONNALAGADDA (4K)
+https://ksr.indevs.in/m3u/?stream=481209
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481210" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77567.jpeg",ACTOR | NAGA SHAURYA (4K)
+https://ksr.indevs.in/m3u/?stream=481210
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481211" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77568.jpg",ACTOR | SUDHEER BABU (4K)
+https://ksr.indevs.in/m3u/?stream=481211
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481212" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77569.jpeg",ACTOR | SUNDEEP KISHAN (4K)
+https://ksr.indevs.in/m3u/?stream=481212
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481213" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77570.jpg",ACTOR | SIDDHARTH (4K)
+https://ksr.indevs.in/m3u/?stream=481213
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481214" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77571.jpeg",ACTOR | TARUN (4K)
+https://ksr.indevs.in/m3u/?stream=481214
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481215" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77572.jpg",ACTOR | NAVDEEP (4K)
+https://ksr.indevs.in/m3u/?stream=481215
+#EXTINF:-1 group-title="(KSR) TELUGU | 24x7 ACTORS" tvg-id="481216" tvg-logo="http://tv.max4k.us/stalker_portal/misc/logos/320/77573.jpeg",ACTOR | SRIHARI (4K)
+https://ksr.indevs.in/m3u/?stream=481216
