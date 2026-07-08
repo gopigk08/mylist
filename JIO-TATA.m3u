@@ -1,501 +1,196 @@
-#EXTM3U x-tvg-url="https://github.com/whythishome/epg/raw/refs/heads/master/guides/dishtv.in_en.xml.gz" 
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1112" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_HD.png",Star Maa HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1112
-https://yowaimo.in/Sflex-Jio/1112/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1138" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Maa.png",Star Maa
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1138
-https://yowaimo.in/Sflex-Jio/1138/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1354" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTeluguHD.png",Zee Telugu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1354
-https://yowaimo.in/Sflex-Jio/1354/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="638" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeTelugu.png",Zee Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key638
-https://yowaimo.in/Sflex-Jio/638/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="760" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies_HD.png",Star Maa Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key760
-https://yowaimo.in/Sflex-Jio/760/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1111" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Movies.png",Star Maa Movies
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1111
-https://yowaimo.in/Sflex-Jio/1111/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1137" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Gold.png",Star Maa Gold
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1137
-https://yowaimo.in/Sflex-Jio/1137/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1363" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemaluHD.png",Zee Cinemalu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1363
-https://yowaimo.in/Sflex-Jio/1363/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="413" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ZeeCinemalu.png",Zee Cinemalu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key413
-https://yowaimo.in/Sflex-Jio/413/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1129" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Maa_Music.png",Star Maa Music
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1129
-https://yowaimo.in/Sflex-Jio/1129/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1973" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_HD.png",ETV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1973
-https://yowaimo.in/Sflex-Jio/1973/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="565" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Abhiruchi.png",ETV Abhiruchi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key565
-https://yowaimo.in/Sflex-Jio/565/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="614" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Andhra_pradesh.png",ETV Andhra pradesh
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key614
-https://yowaimo.in/Sflex-Jio/614/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1665" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Cinema_HD.png",ETV Cinema HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1665
-https://yowaimo.in/Sflex-Jio/1665/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="570" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Life.png",ETV Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key570
-https://yowaimo.in/Sflex-Jio/570/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="2956" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Plus_HD.png",ETV Plus HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key2956
-https://yowaimo.in/Sflex-Jio/2956/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="630" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ETV_Telangana.png",ETV Telangana
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key630
-https://yowaimo.in/Sflex-Jio/630/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="3278" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu_HD.png",Star Sports 1 Telugu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key3278
-https://yowaimo.in/Sflex-Jio/3278/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1651" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports_1_Telugu.png",Star Sports 1 Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1651
-https://yowaimo.in/Sflex-Jio/1651/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="3274" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Star_Sports2_Telugu_HD.png",Star Sports 2 Telugu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key3274
-https://yowaimo.in/Sflex-Jio/3274/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="2852" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/StarSports2Telugu.png",Star Sports 2 Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key2852
-https://yowaimo.in/Sflex-Jio/2852/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="3031" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Zee_Telugu_News.png",Zee Telugu News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key3031
-https://yowaimo.in/Sflex-Jio/3031/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="832" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/10_TV.png",10 TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key832
-https://yowaimo.in/Sflex-Jio/832/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="2003" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/3_0_TV.png",3.0 TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key2003
-https://yowaimo.in/Sflex-Jio/2003/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="670" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/6_TV.png",6 TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key670
-https://yowaimo.in/Sflex-Jio/670/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="2932" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/99TV.png",99 TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key2932
-https://yowaimo.in/Sflex-Jio/2932/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1254" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aastha_Telugu.png",Aastha Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1254
-https://yowaimo.in/Sflex-Jio/1254/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="666" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/ABN_Andhra_Jyothi.png",ABN Andhra Jyothi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key666
-https://yowaimo.in/Sflex-Jio/666/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="777" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Aradhana_TV.png",Aradhana TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key777
-https://yowaimo.in/Sflex-Jio/777/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="776" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Bhakti_TV.png",Bhakti TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key776
-https://yowaimo.in/Sflex-Jio/776/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="2783" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Big_TV.png",Big TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key2783
-https://yowaimo.in/Sflex-Jio/2783/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="977" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Calvary.png",Calvary
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key977
-https://yowaimo.in/Sflex-Jio/977/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="774" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_Health.png",CVR Health
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key774
-https://yowaimo.in/Sflex-Jio/774/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="784" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_News.png",CVR News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key784
-https://yowaimo.in/Sflex-Jio/784/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="772" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CVR_OM_Spiritual.png",CVR OM Spiritual
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key772
-https://yowaimo.in/Sflex-Jio/772/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="706" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Saptagiri.png",DD Saptagiri
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key706
-https://yowaimo.in/Sflex-Jio/706/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1516" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DD_Yadagiri.png",DD Yadagiri
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1516
-https://yowaimo.in/Sflex-Jio/1516/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="934" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Divya_Vani.png",Divya Vani
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key934
-https://yowaimo.in/Sflex-Jio/934/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="955" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Hindu_Dharmam.png",Hindu Dharmam
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key955
-https://yowaimo.in/Sflex-Jio/955/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="665" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/HM_TV.png",HM TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key665
-https://yowaimo.in/Sflex-Jio/665/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="790" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/I_News.png",I News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key790
-https://yowaimo.in/Sflex-Jio/790/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="3239" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mahaa_Bhakthi.png",Mahaa Bhakthi
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key3239
-https://yowaimo.in/Sflex-Jio/3239/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="3143" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mahaa_Max.png",Mahaa Max
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key3143
-https://yowaimo.in/Sflex-Jio/3143/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="2862" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Mahaa_News.png",Mahaa News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key2862
-https://yowaimo.in/Sflex-Jio/2862/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="2254" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Media9.png",Media9
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key2254
-https://yowaimo.in/Sflex-Jio/2254/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1975" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/PMC_Telugu.png",PMC Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1975
-https://yowaimo.in/Sflex-Jio/1975/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="2436" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Prime_9_News.png",Prime 9 News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key2436
-https://yowaimo.in/Sflex-Jio/2436/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="737" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_Music_Telugu.png",Raj Music Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key737
-https://yowaimo.in/Sflex-Jio/737/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="664" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Raj_News_Telugu.png",Raj News Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key664
-https://yowaimo.in/Sflex-Jio/664/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="3087" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sai_TV_Telugu.png",Sai TV Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key3087
-https://yowaimo.in/Sflex-Jio/3087/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="632" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sakshi_tv.png",Sakshi tv
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key632
-https://yowaimo.in/Sflex-Jio/632/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="3221" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Naga_Sai_Mandir.png",Sri Naga Sai Mandir
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key3221
-https://yowaimo.in/Sflex-Jio/3221/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="598" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sri_Venkateshwar_Bhakti.png",Sri Venkateshwar Bhakti
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key598
-https://yowaimo.in/Sflex-Jio/598/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1274" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_One.png",Studio One
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1274
-https://yowaimo.in/Sflex-Jio/1274/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1799" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Studio_Yuva_Alpha.png",Studio Yuva Alpha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1799
-https://yowaimo.in/Sflex-Jio/1799/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="607" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Subhavartha_TV.png",Subhavartha TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key607
-https://yowaimo.in/Sflex-Jio/607/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="667" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/T_News.png",T News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key667
-https://yowaimo.in/Sflex-Jio/667/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="668" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV_5_News.png",TV 5 News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key668
-https://yowaimo.in/Sflex-Jio/668/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="618" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/TV9_Telugu_News.png",TV9 Telugu News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key618
-https://yowaimo.in/Sflex-Jio/618/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="769" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/V6_News.png",V6 News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key769
-https://yowaimo.in/Sflex-Jio/769/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="775" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vanitha.png",Vanitha
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key775
-https://yowaimo.in/Sflex-Jio/775/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="734" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Vissa_TV.png",Vissa TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key734
-https://yowaimo.in/Sflex-Jio/734/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1790" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/VRLive.png",VR Live
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1790
-https://yowaimo.in/Sflex-Jio/1790/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="2187" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Swatantra_News.png",Swatantra News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key2187
-https://yowaimo.in/Sflex-Jio/2187/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="729" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Comedy.png",Gemini Comedy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key729
-https://yowaimo.in/Sflex-Jio/729/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="684" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Life.png",Gemini Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key684
-https://yowaimo.in/Sflex-Jio/684/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="899" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Movies_HD.png",Gemini Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key899
-https://yowaimo.in/Sflex-Jio/899/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="898" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_Music_HD.png",Gemini Music HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key898
-https://yowaimo.in/Sflex-Jio/898/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="897" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Gemini_TV_HD.png",Gemini TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key897
-https://yowaimo.in/Sflex-Jio/897/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="576" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Discovery_Channel_Telugu.png",Discovery Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key576
-https://yowaimo.in/Sflex-Jio/576/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="166" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Cartoon_Network_Telugu.png",Cartoon Network Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key166
-https://yowaimo.in/Sflex-Jio/166/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1080" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/CN_HD_Telugu.png",CN HD+ Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1080
-https://yowaimo.in/Sflex-Jio/1080/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="577" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/History_18_Telugu.png",History TV18 HD Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key577
-https://yowaimo.in/Sflex-Jio/577/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="558" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Kushi_TV.png",Kushi TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key558
-https://yowaimo.in/Sflex-Jio/558/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1883" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Pogo_Telugu.png",Pogo Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1883
-https://yowaimo.in/Sflex-Jio/1883/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="1242" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sonic_Telugu.png",Sonic Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key1242
-https://yowaimo.in/Sflex-Jio/1242/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="543" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Nick_Telugu.png",Nick Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key543
-https://yowaimo.in/Sflex-Jio/543/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="874" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Sony_Yay_Telugu.png",Sony Yay Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key874
-https://yowaimo.in/Sflex-Jio/874/manifest.mpd
-#EXTINF:-1 group-title="JioTv+♦️Telugu" tvg-id="3447" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/DiscoveryKidsTel.png",Discovery Kids Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/Sflex-Jio/key3447
-https://yowaimo.in/Sflex-Jio/3447/manifest.mpd
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts635",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21304-je859a3c-v1/imageContent-21304-je859a3c-m1.png",Zee Telugu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk635/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch635/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts250",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8845-j7ppmm28-v3/imageContent-8845-j7ppmm28-m7.png",Zee Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk250/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch250/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts355",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11444-j9jqx6a8-v1/imageContent-11444-j9jqx6a8-m1.png",Gemini TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk355/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch355/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts956",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66705-kuqnqhwg-v1/imageContent-66705-kuqnqhwg-m1.png",STAR Maa HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk956/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch956/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts516",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-25361-jhsvr3nc-v1/imageContent-25361-jhsvr3nc-m1.png",STAR Maa HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk516/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch516/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts359",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11418-j9jqpvxs-v1/imageContent-11418-j9jqpvxs-m1.png",ETV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk359/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch359/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts145",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-492-j5jxvaeo-v1/imageContent-492-j5jxvaeo-m1.png",ETV Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk145/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch145/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts361",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11437-j9jqv7ao-v2/imageContent-11437-j9jqv7ao-m2.png",Gemini Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk361/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch361/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts1342",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVPLHD_Thumbnail-v1/ETVPLHD_Thumbnail.png",ETV Plus HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk1342/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch1342/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts352",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11423-j9jqqegg-v1/imageContent-11423-j9jqqegg-m1.png",ETV Plus
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk352/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch352/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts590",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12186-j9plqam8-v4/imageContent-12186-j9plqam8-m5.png",Telugu Naaptol
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk590/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch590/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts585",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12164-j9phk5iw-v1/imageContent-12164-j9phk5iw-m1.png",Vissa TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk585/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch585/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts1389",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/MAHAMAX_Thumbnail-v2/MAHAMAX_Thumbnail.png",Mahaa Max
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk1389/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch1389/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts362",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11438-j9jqvyaw-v1/imageContent-11438-j9jqvyaw-m1.png",Gemini Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk362/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch362/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts387",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18348-jcqpx9ns-v1/imageContent-18348-jcqpx9ns-m1.PNG",Star Maa Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk387/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch387/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts957",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66770-kuwalqkg-v1/imageContent-66770-kuwalqkg-m1.png",Star Maa Movies HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk957/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch957/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts954",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-66595-kupdpd9k-v1/imageContent-66595-kupdpd9k-m1.png",Star Maa Gold
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk954/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch954/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts388",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11553-j9julvag-v3/imageContent-11553-j9julvag-m6.png",Star Maa Gold
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk388/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch388/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts636",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-21307-je859sm0-v1/imageContent-21307-je859sm0-m2.png",Zee Cinemalu HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk636/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch636/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts252",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-8849-j7pqmypc-v2/imageContent-8849-j7pqmypc-m3.png",Zee Cinemalu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk252/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch252/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts1341",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVCINHD_Thumbnail-v1/ETVCINHD_Thumbnail.png",ETV Cinema HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk1341/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch1341/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts128",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-426-j5jsm1wo-v1/imageContent-426-j5jsm1wo-m1.png",ETV Cinema
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk128/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch128/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts268",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ETVLI_Thumbnail-v5/ETVLI_Thumbnail.png",ETV Life
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk268/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch268/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts596",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-12260-j9qv0lz4-v1/imageContent-12260-j9qv0lz4-m1.png",Sakshi TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk596/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch596/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts146",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-498-j5jy7i80-v1/imageContent-498-j5jy7i80-m1.png",ETV Andhra Pradesh
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk146/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch146/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts320",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11329-j9jot000-v2/imageContent-11329-j9jot000-m2.png",TV5 News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk320/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch320/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts11",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-30-j5fc0v80-v2/imageContent-30-j5fc0v80-m2.png",TV9 Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk11/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch11/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts160",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-586-j5kz3qkw-v1/imageContent-586-j5kz3qkw-m1.png",NTV Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk160/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch160/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts225",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-951-j5mipdzs-v1/imageContent-951-j5mipdzs-m1.png",ABN Andhra Jyothy
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk225/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch225/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts274",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11194-j9i4cz80-v1/imageContent-11194-j9i4cz80-m1.png",V6 Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk274/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch274/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts83",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-255-j5fz95pc-v1/imageContent-255-j5fz95pc-m1.png",ETV Telangana
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk83/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch83/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts349",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11470-j9jr4uio-v1/imageContent-11470-j9jr4uio-m1.png",HM TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk349/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch349/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts430",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11697-j9kjhxs0-v3/imageContent-11697-j9kjhxs0-m3.png",Raj News Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk430/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch430/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts266",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-17564-jclrk6pk-v1/imageContent-17564-jclrk6pk-m1.png",10 TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk266/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch266/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts774",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-47248-k1vn9ouw-v2/imageContent-47248-k1vn9ouw-m4.png",4tv News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk774/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch774/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts1288",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/ZTELNEWS_Thumbnail-v1/ZTELNEWS_Thumbnail.png",Zee Telugu News
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk1288/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch1288/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts337",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11381-j9jq1pkg-v1/imageContent-11381-j9jq1pkg-m1.png",DD Saptagiri
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk337/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch337/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts548",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11392-j9jq3lgw-v3/imageContent-11392-j9jq3lgw-m2.png",DD Yadagiri
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk548/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch548/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts429",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11691-j9kj50i0-v1/imageContent-11691-j9kj50i0-m1.png",Raj Musix Telugu
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk429/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch429/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts290",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11242-j9irisyw-v2/imageContent-11242-j9irisyw-m2.png",Bhakti TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk290/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch290/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts445",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11745-j9kwb568-v2/imageContent-11745-j9kwb568-m3.png",Shubhavaarta TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk445/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch445/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts285",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11224-j9iclykw-v1/imageContent-11224-j9iclykw-m2.png",Aradana TV
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk285/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch285/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts351",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-33495-jnqw9k9c-v4/imageContent-33495-jnqw9k9c-m5.png",Swara Sagar
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk351/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch351/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts630",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-18536-jct505dc-v2/imageContent-18536-jct505dc-m2.png",Hindu Dharmam
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk630/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch630/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts708",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-38738-juc4a1ig-v5/imageContent-38738-juc4a1ig-m8.png",Jaya TV HD
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk708/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch708/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
-#EXTINF:-1 group-title="TATAPLAY🎭Telugu" tvg-id="ts490",fl_lossy,q_auto,h_250,w_250/https://ltsk-cdn.s3.eu-west-1.amazonaws.com/jumpstart/Temp_Live/cdn/HLS/Channel/imageContent-11882-j9l3qcrs-v1/imageContent-11882-j9l3qcrs-m1.png",SVBC 2
-#KODIPROP:inputstream.adaptive.license_type=clearkey
-#KODIPROP:inputstream.adaptive.license_key=https://yowaimo.in/TP/live/chala-ja-bsdk490/SFDHJ3UZ/
-https://yowaimo.in/TP/live/watch490/SFDHJ3UZ/index.mpd|User-Agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/145.0.0.0 Safari/537.36&Origin=https://watch.tataplay.com&Referer=https://watch.tataplay.com/
+#EXTM3U
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45403" tvg-logo="https://i.ibb.co/yn807cB/download-21.png",TL | STAR MAA TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45403
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="237730" tvg-logo="https://i.ibb.co/yn807cB/download-21.png",TL | STAR MAA TV ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=237730
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45444" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",TL | STAR MAA TV ⁴ᵏ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45444
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45417" tvg-logo="https://i.ibb.co/72grYNk/Star-maa-logo-2023.png",TL | STAR MAA MOVIES | HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45417
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45445" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",TL | STAR MAA MOVIE ⁴ᵏ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45445
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45421" tvg-logo="https://i.ibb.co/yn807cB/download-21.png",TL | STAR MAA GOLD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45421
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45415" tvg-logo="https://i.ibb.co/9336p4j/download.png",TL | ZEE | HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45415
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45447" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",TL | ZEE ⁴ᵏ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45447
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45418" tvg-logo="https://i.ibb.co/jhL5mtq/download.png",TL | ZEE CINEMALU ᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45418
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45448" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",TL | ZEE CINEMALU ⁴ᵏ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45448
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45407" tvg-logo="https://i.ibb.co/SKJQvqR/Gemini-TV.png",TL | GEMINI TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45407
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45446" tvg-logo="https://i.ibb.co/p4knk5y/images-4.png",TL |  GEMINI TV ⁴ᵏ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45446
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45438" tvg-logo="https://i.ibb.co/vkJr9Cn/download-1-1.png",TL | GEMINI MUSIC
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45438
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45439" tvg-logo="https://i.ibb.co/VqQ1bBm/download-3.png",TL | GEMINI MOVIES
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45439
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45420" tvg-logo="https://i.ibb.co/CQhttzT/download-25.png",TL | GEMINI COMEDY
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45420
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45422" tvg-logo="https://i.ibb.co/vXYWqvD/download-24.png",TL | GEMINI LIFE
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45422
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45419" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png",TL | ETV ᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45419
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45443" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png",TL | ETV ᶠᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45443
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45423" tvg-logo="https://i.ibb.co/J378DsJ/download-2-1.png",TL | ETV Cinema
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45423
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45413" tvg-logo="https://i.ibb.co/7VdZqgH/download-2-2.png",TL | ETV Plus
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45413
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45429" tvg-logo="https://i.ibb.co/10Hs9M7/download-18.png",TL | ETV Life
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45429
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45430" tvg-logo="https://i.ibb.co/nr1Kz3J/download-5.png",TL | ETV ABHIRUCHI
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45430
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45428" tvg-logo="https://i.ibb.co/wrtbTfN/download-19.png",TL | ETV TELANGANA
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45428
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45424" tvg-logo="https://i.ibb.co/r3vmJq9/download-4.png",TL | ETV ANDHRA PRADESH
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45424
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="223264" tvg-logo="https://i.ibb.co/9snympp/images-1.png",TL | ABN ANDHRA JYOTHI
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=223264
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45427" tvg-logo="https://i.ibb.co/1Ttjk2f/download-20.png",TL | T NEWS
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45427
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45425" tvg-logo="https://i.ibb.co/N3twTsx/download-3-2.png",TL | TV9 NEWS
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45425
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45404" tvg-logo="https://i.ibb.co/F3y8k7t/download-22.png",TL | TV 5 News
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45404
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45441" tvg-logo="https://i.ibb.co/xMfFBH4/download-2.png",TL | RAJ NEWS
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45441
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45426" tvg-logo="https://i.ibb.co/DwR6K3W/download-28.png",TL | SAKSHI TV News
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45426
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45410" tvg-logo="https://i.ibb.co/c2Rn5ss/download-26.png",TL | SRI VENKATESHWAR BHAKTI
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45410
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45412" tvg-logo="https://i.ibb.co/RDK2ZtJ/download-2-3.png",TL | NTV TELUGU
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45412
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45414" tvg-logo="https://i.ibb.co/1RMqwkk/download-3.png",TL | VISSA TV
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45414
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45416" tvg-logo="https://i.ibb.co/Lk5p3Zc/download-27.png",TL | DD SAPTAGIRI
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45416
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45431" tvg-logo="https://i.ibb.co/qjCHLvw/download-2.png",TL | SVBC ᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45431
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45440" tvg-logo="https://i.ibb.co/XbJL5xt/download-1-1.png",TL | BHAKTI TV
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45440
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="45442" tvg-logo="https://i.ibb.co/YhStzG2/download-1-1.png",TL |  STAR MAA MUSIC
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=45442
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="151216" tvg-logo="https://i.ibb.co/F3BvTdG/images-1.png",TL | KUSHI TV ᴴᴰ
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=151216
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU" tvg-id="151219" tvg-logo="https://i.ibb.co/Fkxvpxx8/Discovery-Kids-logo-svg.png",TL | DISCOVERY KIDS ᴴᴰ (MULTI-AUDIO)
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=151219
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242300" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-MOVIES 1 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242300
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242301" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-MOVIES 2 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242301
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242302" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-MOVIES 3 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242302
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242303" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-MOVIES 4 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242303
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242304" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-EROSNOW MOVIES 1 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242304
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242305" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-CLASSIC MOVIES 1 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242305
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242306" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-CLASSIC MOVIES 2 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242306
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242307" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-LATTEST MOVIES 1 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242307
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242308" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-LATTEST MOVIES 2 HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242308
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242309" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-ACTION DRAMA MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242309
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242310" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-COMEDY MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242310
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242312" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-ACTION THRILLER MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242312
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242313" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-THRILLER MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242313
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242314" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-ROMANCE MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242314
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242315" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-MYSTERY MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242315
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242316" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-COMEDY ROMANCE MOVES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242316
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242317" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-COMEDY DRAMA MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242317
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242318" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-CRIME MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242318
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242319" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-CRIME DRAMA MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242319
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242320" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-DRAMA MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242320
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242321" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-DRAMA ROMANCE MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242321
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242322" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-DRAMA THRILLER MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242322
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242323" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-FANTASY MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242323
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242324" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-HORROR MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242324
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242325" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-HORROR THRILLER MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242325
+#EXTINF:-1 group-title="Oᑭ᙭☢️ TELUGU | 24/7 MOVIES" tvg-id="242326" tvg-logo="https://i.ibb.co/qFgJPqBk/Telugu-24-7-Movies.png",TELUGU-MUSICAL MOVIES HD
+#EXTVLCOPT:http-user-agent=null
+https://stream.kliv.in/OPPLX20A/play.php?id=242326
