@@ -14,33 +14,9 @@
     },
     {
       "id": "only 4K",
-      "name": "S3-Test",
+      "name": "S3-Test ",
       "url": "https://raw.githubusercontent.com/gopigk08/mylist/main/JIO-TATA.m3u",
       "priority": 3
-    },
-    {
-      "id": "server4",
-      "name": "S4-Movies",
-      "url": "https://raw.githubusercontent.com/.../movies.m3u",
-      "priority": 4
-    },
-    {
-      "id": "server5",
-      "name": "S5-Sports",
-      "url": "https://raw.githubusercontent.com/.../sports.m3u",
-      "priority": 5
-    },
-    {
-      "id": "server5",
-      "name": "S6-Sports",
-      "url": "https://raw.githubusercontent.com/.../sports.m3u",
-      "priority": 6
-    },
-    {
-      "id": "server5",
-      "name": "S7-Sports",
-      "url": "https://raw.githubusercontent.com/.../sports.m3u",
-      "priority": 7
     }
   ],
   "update_url": "https://raw.githubusercontent.com/gopigk08/mylist/main/update.json",
