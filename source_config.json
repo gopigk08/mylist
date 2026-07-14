@@ -19,6 +19,5 @@
       "priority": 3
     }
   ],
-  "update_url": "https://raw.githubusercontent.com/gopigk08/mylist/main/update.json",
   "epgUrl": "https://your-server.com/epg.xml.gz"
 }
